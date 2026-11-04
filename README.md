@@ -34,3 +34,7 @@ Portal independente de notícias com foco no Rio de Janeiro, cobertura do Brasil
 ## Princípios
 
 Rio em primeiro plano; Brasil em segundo; fatos verificados; fonte clara; publicidade identificada; boa experiência no celular.
+
+## Identidade visual aprovada (03/11/2026)
+
+Layout renovado com cabeçalho azul de praia, logotipo Cria RJ em destaque, menu azul-marinho, cards coloridos por categoria, seção especial Rio e Brasil e vitrine amarela de ofertas. Interface responsiva implementada em `index.html`. A foto de capa é carregada de um serviço externo (Unsplash) e pode depender da disponibilidade da imagem; os mapas ilustrados da referência ainda não foram implementados como vetores. O portal continua sem notícias e ofertas reais até integração de fontes e cadastro. A referência visual é um conceito, não um compromisso de reprodução pixel a pixel.
