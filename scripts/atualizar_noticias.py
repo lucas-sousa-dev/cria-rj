@@ -11,7 +11,8 @@ from urllib.parse import urlsplit
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "noticias.json"
 FEEDS = [
-    ("Agência Brasil", "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"),
+    ("Agência Brasil", "https://agenciabrasil.ebc.com.br/feed/ultimasnoticias/feed.xml"),
+    ("Agência Brasil RSS alternativo", "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"),
 ]
 RIO = re.compile(r"\b(rio de janeiro|carioca|fluminense|copacabana|ipanema|leblon|zona sul|zona norte|zona oeste|maracanã|niterói|são gonçalo|baixada fluminense|são conrado)\b", re.I)
 TECH = re.compile(r"\b(tecnologia|inteligência artificial|software|internet|aplicativo|digital|inovação|computador|pesquisa científica)\b", re.I)
@@ -56,7 +57,7 @@ def main():
                 if not title or len(title) > 220 or not link.startswith("https://"):
                     continue
                 host = (urlsplit(link).hostname or "").lower()
-                if host != "agenciabrasil.ebc.com.br":
+                if host not in ("agenciabrasil.ebc.com.br", "www.agenciabrasil.ebc.com.br"):
                     continue
                 # Não republicar corpo, descrição nem imagens do veículo.
                 coletadas.append({
@@ -76,7 +77,7 @@ def main():
     unicas = {}
     for item in coletadas + antigas:
         url = item.get("fonte", "")
-        if url.startswith("https://") and urlsplit(url).hostname == "agenciabrasil.ebc.com.br":
+        if url.startswith("https://") and urlsplit(url).hostname in ("agenciabrasil.ebc.com.br", "www.agenciabrasil.ebc.com.br"):
             unicas.setdefault(url, item)
     recentes = sorted(unicas.values(), key=lambda n: n.get("data", ""), reverse=True)[:90]
     payload = {"noticias": recentes}
