@@ -1,27 +1,22 @@
-# Cria RJ — Fontes e operação
+# Central de Notícias — Fontes e operação
 
-## Ativo: manchetes e links, sem cópia de matérias
-- Agência Brasil (EBC): RSS https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml
-- A cada duas horas o GitHub Actions tenta consultar o RSS e gravar `noticias.json`.
-- A interface exibe título, veículo, data e link para o original. **Não copia corpo de texto, resumo nem imagem de terceiros.** Títulos são metadados de referência.
-- A classificação por palavras-chave é aproximada; notícias podem aparecer em categorias inadequadas. Revisão editorial é recomendada.
-- Se a fonte ficar fora do ar, a última lista permanece disponível. O agendamento do GitHub Actions não garante execução em horário exato.
-- O workflow também pode ser executado manualmente em Actions → Atualizar notícias do Cria RJ → Run workflow.
-- Para ver falhas: Actions → Atualizar notícias do Cria RJ → execução mais recente.
-- É necessário que GitHub Actions tenha permissão de escrita para Contents. Caso o push falhe, ver Settings → Actions → General → Workflow permissions.
+## Atualização automática
+- GitHub Actions agenda a coleta a cada 30 minutos: `*/30 * * * *`. O GitHub pode atrasar ou pular execuções agendadas, especialmente em horários de pico; não há garantia de atualização exata.
+- Script: `scripts/atualizar_noticias.py`; saída: `noticias.json`.
+- O site consulta `noticias.json` quando abre e reconsulta enquanto permanece aberto. A coleta de fontes acontece no GitHub Actions, não no navegador.
+- Para conferir a execução: GitHub → Actions → Atualizar notícias da Central de Notícias. Pode disparar manualmente com Run workflow.
+- Se houver erro de push: Settings → Actions → General → Workflow permissions → Read and write permissions (quando disponível).
 
-## Fontes candidatas para próxima avaliação
-- Agência Brasil: consultar licenciamento@ebc.com.br **antes de republicar integralmente** textos ou fotos em portal com afiliados. A integração atual é somente linkagem.
-- Prefeitura do Rio / COR-Rio: avisos públicos e serviços; validar API/feed e condições antes de automatizar.
-- Diário Oficial do Município: atos e oportunidades; validar endpoint e classificação.
-- IBGE / dados.gov.br: indicadores oficiais; dados abertos exigem conferência da licença específica.
-- INMET: previsão e alertas oficiais; validar documentação, licença e formato antes da integração.
-- Climatempo: não integrado, depende de permissão/API e regras comerciais.
-- Open-Meteo: endpoint gratuito é não comercial; não ativar em portal monetizado sem licença apropriada.
+## Fontes de descoberta
+- RSS Agência Brasil.
+- Google Notícias RSS, com buscas direcionadas a gshow, LeoDias, CARAS, Quem, SBT, O Dia, Extra, g1, Metrópoles, Terra, CNN Brasil, Correio Braziliense, Estadão, Senado, Câmara, ge, ESPN, Valor, InfoMoney, Fiocruz, Ministério da Saúde, BBC, DW, Tecnoblog, Canaltech e Olhar Digital.
+- São fontes candidatas via resultados agregados: **não existe garantia de cobertura, inclusão, autorização de republicação nem disponibilidade permanente**.
+- Os links do agregador podem abrir uma página intermediária antes do veículo original.
+- Editorias são aproximadas; revisar resultados e corrigir erros de classificação quando necessário.
 
-## Segurança e transparência
-- Não usar imagens ou texto integral de terceiros sem licença.
-- Publicar crédito e link do veículo de origem; checar eventuais correções.
-- Não confundir manchetes automáticas com notícias redigidas ou verificadas pela equipe Cria RJ.
-- Nenhum preço de afiliado deve ser inventado.
-- Este documento é o registro de desenvolvimento no repositório. **Não foi conectado ao Redmine.**
+## Direitos e transparência
+- Publicar apenas título de referência, veículo, data e link, sem copiar corpo de matéria, descrição nem imagens de terceiros.
+- Fotos somente com licença/autorização adequada, inclusive para uso comercial; crédito sozinho não substitui autorização.
+- Notícias de celebridades: atribuir rumores, não apresentar alegações não confirmadas como fatos e evitar conteúdo invasivo ou difamatório.
+- O arquivo JSON não equivale a apuração jornalística independente: são manchetes indexadas de fontes externas.
+- Não inventar preços de afiliados nem misturar publicidade com notícia sem identificação.
