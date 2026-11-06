@@ -1,6 +1,86 @@
 {
   "noticias": [
     {
+      "titulo": "Aprendizagem de alunos com deficiência avança no Brasil",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/aprendizagem-de-alunos-com-deficiencia-avanca-no-brasil",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T15:10:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Conceição Evaristo recebe título de doutor honoris causa pela UFRJ",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/conceicao-evaristo-recebe-titulo-de-doutor-honoris-causa-pela-ufrj",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T15:04:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Mudanças climáticas: 83,6% das áreas turísticas estão vulneráveis",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/mudancas-climaticas-836-das-areas-turisticas-estao-vulneraveis",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T14:49:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "País pode chegar a 860 mil casos prováveis de dengue em 2027",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/pais-pode-chegar-860-mil-casos-provaveis-de-dengue-em-2027",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T14:32:00+00:00",
+      "categoria": "saude"
+    },
+    {
+      "titulo": "IBGE confirma crescimento de 3,4% da economia em 2024",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ibge-confirma-crescimento-de-34-da-economia-em-2024",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T13:59:00+00:00",
+      "categoria": "cotidiano"
+    },
+    {
+      "titulo": "Médica é denunciada à Justiça após morte de paciente em lipoescultura",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/medica-e-denunciada-justica-apos-morte-de-paciente-em-lipoescultura",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T11:44:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Chuvas permanecem intensas no Sul e aumentam no Sudeste e Centro-Oeste",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/chuvas-permanecem-intensas-no-sul-e-aumentam-no-sudeste-e-centro-oeste",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T11:20:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Moradores do campo receberão moradias do Minha Casa, Minha Vida",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/moradores-do-campo-terao-moradias-do-minha-casa-minha-vida",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T11:02:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Enem: 90 itens, redação e 5h30 de duração; conheça estrutura da prova",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-90-itens-redacao-e-5h30-de-duracao-conheca-estrutura-da-prova",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T10:32:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Receita apreende artigos de futebol falsificados no Porto do Rio",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/receita-apreende-artigos-de-futebol-falsificados-no-porto-do-rio",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-06T10:02:00+00:00",
+      "categoria": "brasil"
+    },
+    {
       "titulo": "Mulheres defendem articulação em rede para ampliar participação",
       "resumo": "",
       "fonte": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/mulheres-defendem-articulacao-em-rede-para-ampliar-participacao",
