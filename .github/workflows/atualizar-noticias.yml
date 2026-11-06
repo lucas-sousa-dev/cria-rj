@@ -1,11 +1,11 @@
-name: Atualizar notícias do Cria RJ
+name: Atualizar notícias da Central de Notícias
 on:
   push:
     paths:
       - 'scripts/atualizar_noticias.py'
       - '.github/workflows/atualizar-noticias.yml'
   schedule:
-    - cron: '17 */2 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
