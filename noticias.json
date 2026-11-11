@@ -1,6 +1,614 @@
 {
   "noticias": [
     {
+      "titulo": "Após campanha de famosos, advogada explica impactos da escala de 12 horas",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVFhMUtQTmktRng2ZkdYWkd6TlZWVXNnR2dkeG1DY0xvemJMT0ktc3pQYl9scFMzdmstSGIwWEJ3UlFQNUstSWU5NERLYnNZTU1xV0NCSWZDVmhIdGY3c3pieTdzRWtxakR6cWQ5X1FJYk5UcXZsaGtGNm9CUU1kR2VBdHFucVJ5MVlYOTlqdFVqWHV1d3huei1tOU9oWk01ZXNsNnJiVVhHbXlKZTRuUHBhWlhsY1J4OEFIeldnSQ?oc=5",
+      "veiculo": "Metrópoles",
+      "data": "2026-11-11T18:34:00+00:00",
+      "categoria": "famosos"
+    },
+    {
+      "titulo": "Deputada lidera emendas para reduzir ‘imposto do pecado’ e quer beneficiar picapes e jet skis",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2JhQnRwTGhzRnczZUMzQ1dWWDdzWE9VVmZuSTB4dmhiR0dqV3RKcWttbWRiUTZDUW9oMHhkT3lJTEtnQkZJU3M1akV1aDl3cmxiQlBUd3R4UWpxMHAtMXN5cmYzTmRjVWw4cDlPb0dCQVcxaEZRTXpjNDU0U2FXbzlHRHVlQjRiNGFYQnhqZVdFYWxlNGZObklTcDBRQUZ1WTdUSFY4X1pDVVp1Zy1KTm52S2lIR3RQSGNiaEw0ZDBuY0lsY2xrQUo0TlRvamlOSDJneDM0Nk1oWlVZLWhr0gHkAUFVX3lxTE5KZFFjajF5Xzg1aGpqX3VGNnEtdU5PXzY5N3Q4ZEIyQlRzMWtScnVWNzFndFoyYVZMekQ4c0xyMWVITGxDQks0SHlWWDZWV0d5cGoybVh1Z25kdXhUTTlCZ2NOYU9xaWZqdTN3ZmJjVmctUWtqd2VVRENHUENRLURIMlNhWEFvUE1iYXl4eUZnRU9YSEhuYkFIbXpzNGIwQ1lmbkJuZXh1Zk4takRkTTVmdXdfUmVBZ2JQUHRUenJ2Ukk2Q2oxNlMyRWZ0Qlh5azF5SkZxRmFXT1NYUks1cUk5bTJ3MQ?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T18:29:37+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Brasil repatria restos mortais de escravizados que estavam nos EUA",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/brasil-repatria-restos-mortais-de-escravizados-que-estavam-nos-eua",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T18:11:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Saúde de Fazenda Rio Grande avança 37,3% em avaliação do TCE-PR",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPbEVBQ0U4SDI3WDhUUEczTXg2Q290aHZLRGtoODFNVnVEMlpieUtKZGVxc1UyTkFCa0FwaWp6Tlo3ZGhMRHBFWmprREczLXJwRXFWZ1BqZlI1MFJzRUs5bWZDMG1ZZVk5Z3Y3a254dXRXdVJROGxyLXVnY3ZXVTMwTXMyLXBNa3YyUmJYUGllbDU5bEZLNFBjSFhiaWNFcmdFdWNXNmw3WkFWdS1GVDhTeG5BSUVTRW5nZlFSUUY5bElTWnFwVURiWVAxdTU3aDhtaDVrY1Z2VXVUdHhoSUhFMzhDZlVUcHpDeFpYMXkwa25ueEdjMmFwaXlMSnZNMVd6WVhtYmVNczQ2Mzdfa1hheGduMHdrQUM2cFlTYm9wSmNpbUJzelHSAbQCQVVfeXFMTk1XY1VMTEw0MjhQTlNpb2ZzUGZWWU5UaUJBem1IbnB6cUVFMjFVUWNrc2RiNUNMNlFjLUwxNDNiY3p0cmVhZjJSSGRhSGxkYzFFS25MRm01VnlMb2JTZFItYmNIUjFnU1o0ekNUSzR2OFNTazdZUTBraEgzRDVMWG5IYUwzcXRXNU5VMjZ0SnVzaEVHaUZOeDA4Z3RkZFFiNXM4NmYtQWNPUkJqbnltYmVrcS1lRE9hQkpheENmQ0tlc3cxd0w4SjZvMmF0S3E0Z2huRU1yeHFLWlFKdEQ5TGhvanp4T3BfNEplUldvLTJWZ1ZsT3M5TGhXb3BQdUlER3VkZEl5NTZmeDNEUVNNTFNsVEs2emszZzFLWHZLVU40WVlwd2VyNkpVeFJReG5EWTU1Slo?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T17:58:02+00:00",
+      "categoria": "bemestar"
+    },
+    {
+      "titulo": "PL fará votação interna para decidir se apoia Motta ou lança candidatura à Presidência da Câmara",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWThvWnVSbV8wdnlWZWhaMklDczNNRUpmaWQ0SXp0RFExNTJUQmNONVBkWUZCbTFZaDBzd2Jlb3V4SWZFTzRYd2k0NUwwN3dOQTV2MlRZVDduQTl0TkJGeW4zQlN4QjdDZ3Btd2JfT1pYYW9SaE5leGZsbmI5UVJrdjJyYll5M2RjclZXTTZPdUVXdld6SVR4LXVTQVJsck14LW13SW93N2JqT05ORUFfX0dXVnk0clQwakxfUXM4QVNYRWRieFNDYVNhd20yaEtYVXZMNDAxWlc?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T17:42:09+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Movimento negro reivindica projetos de leis antirracistas para escolas",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/movimento-negro-reivindica-projetos-de-leis-antirracistas-para-escolas",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T17:41:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "PL fará votação interna para decidir se apoia Motta ou lança candidatura à Presidência da Câmara",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnV2NVFPcVQtSDVZdE5aZC1wVlp4M3FhSHo4dlN0Ull4Z0M1N3dyd1lsekhUVUJnRElzS1otWUM1Mkh3aFAtMWUyWTdBMXlsek5nWGpMOURqUTl0ZG4tdFBBOURxUGxGWDhad28tNVR6UFhWRkV2alJ4WVRqRDdRdjVaLS13NnhMQWlSWm9wOWo0Ul9aTG45YkEwUDJ4aFMyckg0NVdWTVp0RmplT25sQVJtRjNMMmVnSllDa09LeW5GU3RhTTFWam1lbWFJd9IB0wFBVV95cUxOTE9RNzhUbktYbEZNSl91RzBMblZLV0RlV01IR1UtTldwMWE5QlZyQ25GajQ2THZLZEZfS2ppckxkYVZNUkczNXhPcUFQcjhHMGF4T0pDZHNDMC1xTmdxMmR0am5NQWt6NUM0Zm5ScnlYVVNGQVpsX2Z2V0tVeWtUVXVUN3ZqRG9heUd3elV5N0pOUWR4VEN0b1k1dVRYWDJTa3dpLWphVUVWLW96WHB4ekVjN1RqX0NtM1l5eURtWmlRbjZsN2NKaEE3MC1CWkVLYVZj?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T17:36:00+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Lula desembarca na Turquia para participar da COP 31",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDNLYzg5dUJkdDdEN09XVnUyVmtoVmhsbThfZU1telE2VXRXektOX2tybExUR2JwVFFjRXpFNnNqX3ZvWnVmM1oteVVYMzEtem5IcG9fWFlwdUhYRUtDdmE2ZzZoN1ZmWE1wMzBYTF9Fb2Q4OVpkZ2QzZTU3QmIyME9paGI4a2VQU05aYkE0SkI1Q0cxU21hWXlGY2s?oc=5",
+      "veiculo": "CNN Brasil",
+      "data": "2026-11-11T17:32:35+00:00",
+      "categoria": "mundo"
+    },
+    {
+      "titulo": "Renan Santos admite conversas para concorrer a prefeito de SP e descarta que Missão fará federação",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnZpUE9lM0VkeU92cHZOd3pRRGNveWdEVktZR3VWVkpJNkZOSXdxM0FOS2hRZWxJeUJhRHVsNUZuLWc0NVgtd2JQN3g4SENiSU5xU2ZaY05qTXlCWElfY05RQllwRkJ2dEhkQ19rYlE0ZEFRNTlSVkl2NXlBUkplc1JzVVFwelpjSmw2Wi1IMXJhemVLVkc3MGozck9jVGh3cmdfekNweVMyeVlSd1o5OXRseXlvTm1iUnZaWW9NSGl1RkMwR254THdOaDhaWElu0gHWAUFVX3lxTE1mTms0eG0yaDJuT1JjamhETnhxLS1DN1VHWEJJR2FIbENtTWltV0czTzhjYkxLdkFNN1VtUHhFMEJUTFFxNnhlV19HRHVHX1A4TWRRQm9jdWtCSmQxN2tkMkdvOUkxa2dYQ2lTcDFBR1M1dDZDOEUtT2JIUGRCSkwwN0lhWXhoR20tRVM4VHVFUF9fTUwwREJCZi1qSDZhMnZwdzVTQzh6N0NRcFBYdVNRanp4Rjk1WDRaSGt4ZlRpMjRkcUlxS2d0M1hjR2NUcFFBWUx2a1E?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T17:32:04+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Preso por matar frentista já havia apontado arma para policial em discussão de trânsito no Rio",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQm1SU1ZxN2hKQWduQXc0TmVXVTBnOXA0MWpycTdqMWNMLXAwbnhLQ295bVNpTmo5LXhDYzU5Q2lZVlNpQUR5TjJqZ1c2ZVVQdFNjR0xKeV9zZ2ludlhjU3RqTFF6a1QtR3dCQ21rOEdaTEZYLUpXUG1oRDctQ2F0Sy12R3M1LU05ODhtaUwxZHJjQUhTX1JQN2hzWXl0bWZWSDdWQ2x3aVkycHZaT2N3cEdEV3FFdks1QmZlOUZfdnBST3dON25ld21NS3ItUjVhVDFEbHJ5Y1Q2WVVVR2o3UHBGbWlaZ1ZFNXAxbmNTc9IB_gFBVV95cUxQN3V4LUxfdXBwUEhMeGJoOFdFNXdSU0doQ1lUVllSVmdTUFZGWHl3ZU5OQnE0a05jSWJaSXVPVjFrQ2lhLWpSRDVBd004NTk4UWQzQ2lIak52VmZ3SS03TU9GV2d2RkUzVWJWc3lSTWNqNEFVZXgzczgxenJBWlhGdWlxcFE3Wkw4SU8yX2gxZWFQQS1oNmhlZGdTbWNHaWZ2WmFxYkk4SXNYZkwzdC1LRW9GYV9xS0wwUl9rWkdYVkVhTkZ2UFdheGNJaHZxVTFNWFJ1cU9lcHRFTkdoTGptc0xleFlQbF95YzJGa1pKSGNOb0NkZzVLbGh1Mmp2dw?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T17:22:12+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Amistoso entre Noroeste e São Paulo é cancelado por risco de segurança",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGdRRHg4bURHemIxU3lRc2V6U0dfTXNxTjlQNWJ5NVlfR2JRZmVwQXpiUVN6b2wxTDZnbXFWWjNURUFNSFQ3V1pZNjFsdzJvV2h4QUJ2OEZRRjhNdE9iRzVjT1NOc0tNd3dBSmVtSklYY2d0MFFiT0JlcFlhSmxwV1U5anRpak9hbm1sMGRyaTUxTk1kT3ZKQ0c4UkgwSXZhZ01ITkhGQ29QN0NvWUxz?oc=5",
+      "veiculo": "ESPN Brasil",
+      "data": "2026-11-11T17:19:00+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Inicio",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMVFSZy1XQ0JoOU8waENKb0d5eDRLRkNhSDlLY015enZIdWdHUG5oc01aUExHS2hVcVoxU0NZWGpYLUhPLW5jWEs2SC1ENHhFUEdrUGJESXlCZjRuRGJIanNBZERNdWw2dHV0b2xDY2hBUlhlNVpHTjJtcjRWM2xncWI5bEZtM0RHZWxQNVpCbVQ2Vmk5OVdobnZlekd6Q2xuR01NRGIzejBvb0tsVE43aU1lTU0wR0d5V0tBa3JCV2l4TXNwZktvay1jdGtpQy1IQ2pJOHpOZ01ScHA5WlkybDlHSmgtWE94YXBURkxnRnFpVGtFVDE2Qk1ma203cVAyMTFLVXBsN1Bycldm?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T17:10:00+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Gilmar Mendes sai em defesa de Andrei Rodrigues e diz que autonomia da PF ‘precisa ser preservada’",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc0RPR21vWVJ0QjkwZVdxWEZEY2lpUkppSGpTRjdOUHJnazdyMmN6V3IteTNNQTFUUnJmbGFqbDZBTjZFS0s0eXdqWUk2RDNMd1JDdVdGQ1hiaG9BcWtHellOU3lfVGZIRmxoQVlYSDlxaWtGTzhWemdINTNhTlVtWFpoMC03eEF0RUdhTGlfbHlSVG5laUZMcW9nZzdOWE5wd1ZHc3k2WkdDVXRHNUZDSGg3TTFHdXZrUzJ1bGpVZlFZSDdUQU82MzVWczFpQm12VFRHRDR0eUo?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T17:09:24+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Senado aprova convites a ministro e diretor da PF para falar sobre troca de delegados no caso Master",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONDZlekdRVFFPSENqRF9yZXBzQThNc3FIV3B1Um1lNVdkTGVISEVjVXdndGp1cmVCYXF2Q1U1VVFIUWRYdzlqTEFYampzQ2lNT2JCVzJNVTREWl9NY3VqQjg3RDJqT1BZenFVNjFPcV91RFlWNlMwa2d4Y1Y2N2EzcUpoLXdta3YyTUY0MnVJeGNKc1VwNkZRR25OM2hvSmlJOWNaQi02anU2QmV4ODMwUDl2VjBnQlYtcW9xT1huUmdCRVdrNWdZMUlxYVdIQjJ1QWRyUFdZM21CQUpzeEE?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T17:04:47+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Rouquidão e desgaste vocal: por que a voz de Lula parece diferente?",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2trT2tHNnZtU2YxRGRRVVQ3akVZcGFZOXFBYWg2d2tsTXhpWW9VZ3pMUHhGUGpsUHJHdXlOdklndE1TcVZITTFXRGtGX1VobHE4dmk5VEY5Z1d6aFI3SXJCMmlTOVBZSWlxLTFxQVhabkhFVHJfYnNLcmk3WHh1V08wWTd0Sl9GNDRJemd4cThvVExERWlsWEU4UVIzMVlqbFZJ?oc=5",
+      "veiculo": "CNN Brasil",
+      "data": "2026-11-11T17:01:27+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Criança de 4 anos morre após ser esfaqueada no pescoço na Maré",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0R3VEY3eVRCOGVBTzJ1VTlleXdTUTVVU2hBXzNDQnJDUE93M2FZcExOMVpsVnZFbHJpSVpXNmt5dzdRUjFMdEF1bUViVTZBUnlpb3ZiVFBOWGowM0tjU0h2NjRicFdUZXVBb2FYRDV1WFc2TjVnNWJZQUhFLVJvcTctS1RXYzNlVWfSAZgBQVVfeXFMTWFrRGhyYXlQZE9zNU9sNi1yQnd1NElPU2ZhV0JqM3pWaUlNaEZ2ZUF3MEx4T01sM0c4d0xNSVZLS003ZFJsOUJTc2RRWFFLQzJnZ2xpZkxZLVJ5NzVRRnNDemZFN1ZIbUdsSGtGelB4SExhdW1KTlg0a1ZKZGdYQnpCbjVrVVNCT3BFSDlzYzEyMC1EeU9yYzA?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T16:58:43+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "34º Festival MixBrasil reúne cinema, teatro, games e literatura em SP",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/34o-festival-mixbrasil-reune-cinema-teatro-games-e-literatura-em-sp",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T16:57:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Senado aprova convites a ministro e diretor da PF para falar sobre troca de delegados no caso Master",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZkZGTGlCMDdvOFNQbnozNGNLUExsUHMtTlZZTDdkV3RTcmhEME1WYnZXbW9EaS1SbmFBWXBhaGJ3WnFaRFdQRHBOb1YtUUVPMGFzZGExNVBFNVJrVHhZWkoxUGJKNXo0cE5xS083NEstN3hZbndtNUlyU0V0YUtPUEdHVzFIdmxwREgxRmFyZ1FpRXk4UHkxZ2dEMzVONDU0eVQ2V3hXNWpBVHFNWVZZaDJHTjJyMUNkcnRLTHJsaUV2Y1lfMmxWZTJmUjFhUDQtQmVn0gHYAUFVX3lxTE5GbzFvMEloeEZaVVhsMm1BZWFOYlZBTVVhM0JyTXZsN2ItZXlnVlItYXpsYm9hcHhTS0xLY0x1bTM3SVc5bEEySlVRUXV1VUdVdktacHZrYVZDV0QxZnhrZ2NPUzg5Y2ZlMzBZQzRrWm1wQXBvZmt1aC14UllZdWNMblVORUNmRU1jVTlEU1o2LXJhd3BVWi1RYnZQcThoQjdHNHROTDhybjl3eWk3bzlTQVV0VUhveWpFWXFDc09LZzRGVDNkVDBZenY3M1BGc2NIQk9EQ2x3dA?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T16:55:35+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Homem que gravou e publicou vídeo de FHC é indiciado e proibido de se aproximar do ex-presidente",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWQ5cnNTRXVrenBwVkNBV19oUGhuQWhTdE1VZUJLYVMtTDBGaGRWYmQ1WVhzZktIanFLMUU4ZzZnRk9FU3ZPY0JQdU5nVG82VXFxNkdOS2JyZ3NGLThvN0pHNGVSV0RGUjJ2VEpSQ1F1T0Q3T1lmTmwyV1BiWlQtSjVYVXdtLTAxX1hPNGRrcmJDNW45VUdtVDBKNFhaRHJ6RGdxMlB2b2prWjUxb2ZKS2gwaDJFVFRpZXJiVnRCQXJSbUlaZloySHQ4aUx6Zw?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T16:52:33+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Homem que gravou e publicou vídeo de FHC é indiciado e proibido de se aproximar do ex-presidente",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUVndXhNMHJSR3BHcnh1MDd0bzNvUk9GalFoa3hjZ0pwd1hfYkhhVWN0anktekZvdU5YN0hYcUlFcmwwbWtGSmczV2dMVlRyWXZZb1N4LVJxMGJaUmdmaTRidDltRUV5ejFxb2xLTzg2NFpJNEJlcUtRUzZQbTVvbEdKdlNfeGxGYVA1eWlHZDRCd1JBM0pLbnY0X0hXSHE5Yi1WT1JNdUJ5S3dablhxSEdRSURNSzNYU2tsMDJ0cjVTRmfSAcgBQVVfeXFMUExMWXJ6Q1N0QUp5RjRuSkNNWG9UQlMyUUJ0d1dFQXBzMnJLTGRLMXJVQlBVSDg2Ql9PNUNXc012N0hkQW02Zm11SlpIdklidEIzSnhGY2FYX3h4dFpaajV2ZUpEWTZLQ3A5aWwwYkw3UkhPQkxLR2VYcUJxbmVYdTJVZjBWeFY3TXd0anE1clJSWnRTazBvMm5aR1RMMnZtV1hkSmFuMXJGSUZDZXI1N0VRb29fRUJ2bUkydEFQX1RMYzZmMHBucXU?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T16:45:16+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Quem é André Marques, piloto campeão da Copa Truck preso em operação contra grupo Refit",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTRjR1h1cE90bzN2Z3JKd0h6RTdYUkc1RFFzUDRabl82SFEwazkwUVBUUVExUWZNeEZqVWcxSUhwU2RjeTdPSzhCb2d0d3UzTE1NVXVrbEJxNUtaSUJVMVZjNGc2QTdUd1c3T3Y1bG1LeXpkMENVbnNTUkhCbWItdnB1M2VDOU9rdEtiZjVJLUVKWlNvcHdKMWpFRmdjUkNJeUVWc2VfZWw0dmFFdC0zcEhsLTk0MzVNcERueWVmNWs2LXhoNVA5OWY5WkFoMmfSAd4BQVVfeXFMTmFGVHlxTjJRTjZKR3g0bmF2TlBTejNwZ1A2ZE5FcVg3TnRmXzByc01jaDNZU0g0VjNucHdCcXdrYzl0NnhDWWl4NFpObm1EaklMS3Vnc0dhRTd2REEzLU80R2xla1VDcm5QM3NYODNHOVNYYnpJY1FSbnVuTnBmVGxSR0dLenAyMFlSOXA3YUpFRHpMaHFxY1hKSWdXQVJKWkNTa1Y2ZkEzdnBaX2c2TDNMVWs2ZnNiMlpXTS00SUtTczdnMl81QlRTdEFpb1h2MUxydVk4ckRST1M4TGx3?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T16:39:25+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Governo apresentará texto que facilita adaptação à reforma tributária",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-apresentara-texto-que-facilita-adaptacao-a-reforma-tributaria",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T16:32:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Reforma tributária: governo apresentará texto para facilitar adaptação",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSS1sbVBxOE5oWk1FRGVkQTlzLTBQanRScUZrRno0NVFTS1piZHVqREtpQzdNT2RVUmk4MlFUSGkxcmRwaGM4UzNHTDNULU1oV2pRM1A1VWxGYXk4M01xRWdFaUpFNDd2WlRicUI0dWlSam5jTU9pUXVHaGdhbkFFTUNjRXN1akViVE9COW5iZjlYZHQzVTJYMkR6Z2NNOFN5UUV4VFBuSmZ0X2lWWC11VkJ0S1VaT3RtYVR6WnFCVmljUFNuS2c?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T16:32:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Em alta, produção de veículos ultrapassa 250 mil unidades em outubro",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/em-alta-producao-de-veiculos-ultrapassa-250-mil-unidades-em-outubro",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T16:30:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Em alta, produção de veículos ultrapassa 250 mil unidades em outubro",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcTZ4aWYtREVhODlvU0ZTOWhsVExOTkd2X3FHSmotd2lvY3Q1OG0zcHNTTjRtR1BNMGtSLVRxb2dESktUNmU1SmdHNElYdlJiRy1zYUszd19GTDBScDhtN0VoM3VuUDBqX1RPMGtZbEhacnVmdl9KYkhIbTZ5LUJidzBNNEYxUDdEbkJ4NGtXdnV3LW4xVjIzT0w4YjFVSXBwU2NHRGRmRkVuZ21oa3BMby1HbVI3bEJiWHU0UWJuV0lGdFU?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T16:30:00+00:00",
+      "categoria": "economia"
+    },
+    {
+      "titulo": "Brasil salta em ranking de proteção climática após queda do desmatamento na Amazônia",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQlo1dU9vd0JsMTRfMWN1bjJwSUQ0NkpWQWhQSnI0a25CaEtnOUpmUERlM2wyaXotSTdCVTc1OU9uel9GeEFoSDJ3VklFTE5GY0hWajF2STFJWUVyLVU5SFlvcUJoSS1pMTB4QzdEZVlUMEpSNU5vMEhtcUIwMy1Rd3FVeXVuSXBxZE1Kb1ZDUVdDbTdiWHBWWXZYVUdCRU1JeVpLNTlXS3RhSzI3RW8xRzlxS01ZWVNTcGdRVVowMzAzMnkwOWtaQzF3Q0ZXSDdGVzlkbVlrRUk3WTk10gHrAUFVX3lxTE5ldXY0X0VUZk13bDBTV0RjMkZwZm5PcE1xX0dGeU9ncDRqemRuNmI3aGw0eWFZcl81dzYySzBOZEVxdm1TLTB2UFR3NGVyZEU3aDJfQ0ZkQjNKRG5BSzVUY2hGcFBWNVNub1U0LVpyTExlMGU5ekFxX1BIdzVDSG02OWh6cFl4ZktweUlUbENINXo4aGFvR1Jybms4NUdTdWtqM1F6WXlWLVZlc292U3RBYzMzd3ZPUWQ4TV9XbVZBWkU0bUZVc29WTFBreEV4TkFuakFQV1dUa1NZMVpvUndwYjRtNkhUQW9uRm8?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T16:25:16+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Justiça determina despejo de lutador preso por agredir vizinhas na Zona Norte do Rio",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMkVwQjlFTTRFOUVhZlFYUW03YWViN3pTQ19mUGJReVhpaWdrOWxJUGNVcXQ3X1lHaWxXRFRuTGtmQ20xbTZFUVRWS1hyWUVLOFh5Uk5TcWpKZE5RSW9LOHFjYkFzVjFLT2tiUTNRQ3JDTjU3ZEktNk95SWE0MDRUYkljVVZscnVsRXJjY0NwcGxmY0NaVktoWGl2a2FHbGlDUi0wdmRXWFZobzA0eDNzVmZ0Q19HaGxzcC1kcnRIN2d3NXFlbGFjSGYzQUlhbWRmbk5RUWd3VVVIcjduNGo0TTRR0gHwAUFVX3lxTE5UTmVoYmZtY3ZIZFYxSUJJaXBMZDZIaWh4VlNXSEhuVUhWaDIybkxSUzh6Z3diNlZSNHFsX1N6eGg4VlVTRUMzUks3d0s2YXk5VzkwRjM3S1B6Wi1wWmFLZlpfXzlyWTRlZ2l1SDFGR3ZQcUp2NTRuWFg0clktQmF1Q0xLSUpETmVFeklzaTZIaEo2emViaGFhdUhYMEVVOWpPTGdoLXdWbTFVM19vNC1zOEVZZVZDNVdfanlSRnV0Y3QtZDJ0MlZOWi1ld0JDeUNacm9KNGo0M3dEUkZNOEpEYlJGTWN2M2E2bHIwTkNicw?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T16:16:21+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Comissão aprova convite para ministro explicar ajuda de embaixada a Lulinha",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1BJY3V5b3U5VHRvMmtnTlNXaGFYZ1BHc3pOYWt1YUR6d0xiRWk5eDRqb3NwcFBlN0FybC0xdHVhOHNJUEc0a3JGUDQ0c0ZuTkk0ODJwQnhzSU55bGFyWWxWSzFXWS01ZnF5bUtVR3pfZnE1TmxkRUJBeFFxQktiaFUxMlhrUF9pQkNQeUVkSzZOanRpc1RLUDhKOVpCOHdfbWhXQnpocW9sUnVOVm5qU1dB?oc=5",
+      "veiculo": "CNN Brasil",
+      "data": "2026-11-11T16:05:19+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Concurso da Transpetro terá novos locais de prova em quatro estados",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/concurso-da-transpetro-tera-novos-locais-de-prova-em-quatro-estados",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T16:02:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "CCJ aprova política nacional para gestão de risco de desastres",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEVqaGhiTE10ek9zTFJTYTJtOUhhRzJ3RzZnN0Q2c3NVM1pEZjItQ01jSjdsVVFfX0J3SWpwM2VmSzJoUUExbVlubUlGaWI0S0ZHeFZMZDNEellvOF9oc1RoeWRXd3FlcG5PaC1HaVc0RjRaZ29DRWF1QjdVdnFJTXJyanlWSkVEdkhXUnJta0JGcmQwc3RmNFNVd2lQSjllTUY0QUZFOWxOQlRVMHZyTFVyMm0tbHFBQWFV?oc=5",
+      "veiculo": "Senado",
+      "data": "2026-11-11T15:56:27+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "De titular absoluto à incógnita: entenda a situação de DG no Avaí",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzYzcFE2bDJQZzRuNWEzY1JEUGdZcHdSY3F0SU5PcHZvNWRBcFNPLVIwbWRhZ1hPUjhpRTh3WXlvc056MnU0VHludnFpWUtHc05LaFcyZTBRMHU2cUx2WUd3NXloZkEwOXVlMDVfNU9PZjVmc1p4dU54UEVnMk91UFdrQUhPVmNUWUxyYzZ2aXNzZ00tVUc4RENObXVRaU1ISlhFWVNJbFNZNUZhQUExdW5wVmhuR2c5N3FIQzVTM2dJQXYzSEV6bDQyZUbSAdsBQVVfeXFMTml2ZFZpN3lkcFdUR2lNWXhucERqMXlUbGZfaWNpV28xM3hkYkJmMTgySmVGSzlZMVl5ZXBIYTBOQ3l3a2M0S3c1OFd6a2FQOGxDSXhBQUF0NDRfcU5GamFxSGhRc09uaUNjblkyb3RZRkRXd0ZOVER2SGF5RmcwajVNVDJZRU9jZ3h5SGxPOHV4eUZyRFZkb2U1TENKODZyU21salhEaW9VVFB0NTladldtOTZMUkxBaEhjeVlLYW8zTjRKU3hSay02bGg0TEJvdDlmNmtQN3RXdGlZ?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T15:32:14+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "O sol chegou para ficar no Rio? Saiba o que esperar de novembro após meses de chuva",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHRsS2RxRmJnWC1xbjRhLWNobllsOUhDYWtqOTFuY3YyZGppRzU0YklMOXE4UXByel9TTVVIck5uWE1OODItV3RSWW1xRDNIVnlYQ2RIMmZiMmFSUTNMSEZfWjAwdElhRmFGdllCUmFVUTNuX0FlUkcxUXJCS2t5M1hIMWFaREVEUGQ2THZHTXdSYlkyMl9xS3ItUmhKVjdxZ29GdnMwVE1faGdNZXdrZkNDTEw1UzhwN1RHNm1Pel95N3k4NTk1RnExSlLSAdsBQVVfeXFMUHl4ZTY2V2RnSm55dmtoZnI3TmRQdVh5ZC1Pckp5Q0MydWFYVm1wUnpWOEk4MUI0Yk1VYmNuN0hvTkd5VUppbWxyeWc5dExQZnQ1Rmh4aGpOWW9KdWR2MnhENHNFcEEySk9VNVVlZm1aQ2MzRkMwQXVWcVlzZDk3TFBhRHNYWTN1eXNEb254RnV1a1JWU1BySGhJUGo0NHRrckY2ZnFwOVNnR3ZjTEJwQlZQd2RTMktEaTY4SzU4LU0wQVBYSUZBcmtBUEQ0akJHeVkzS1kyWTlhcUJN?oc=5",
+      "veiculo": "Extra online",
+      "data": "2026-11-11T15:30:46+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Tarcísio acena ao Centrão e dá tom mais político ao segundo mandato de olho em 2030",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVFUbW01RlRGOGlYeVFvOTcxRUJfdmlvVXo2SFFtYTNWSXU3VFhTOGF5cFhfZjAyU0ZVVDdvc3BfN2RucG9BMlRGdjkwcml4Vkx5MEpHUXpBaXFFUEU3d2NsN0ExOGJMajVVclhFVGRSX2Jpak9odzVOVkNSbzQzV0tEaE9xaER2Z3ZhWlRlTV9vSHNxdTlva1RwcmJUWllWYW9kNGk0SFZfblFueTlFVzJ0TEY3YUVONkJiaXNSR0FvNkZDVTNF?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T15:07:32+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Mictório Inteligente: Premier League inova avaliando urina dos jogadores em tempo real; entenda",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPWWVzZXY3MWQ0V3Y3VGoxczhqcWtYWFRxclcyTkpIamN2N3NwcGsxZmFhZU15dGJUWTJDX2VHU2RoRm5rTkJZVTdtMGI1Q2tydVJYc2Y3eFh3NWFRYTRjQnRuWEFsa2hfNGhPUE9jdjJCdUhUMG9zZFZxSVpBblRzS1NSMEd6OUU5MEZWTzdQTVNrdDNRRy1CTGMtLUhvbG81dHBSSTJnWVFzMmNKY3didXpZR0hjV2s2UzVPRjEwUHltd0stMXRDbVEwWDM4U3ZUd25XNHVoWUxuVzRJbTYyWnhwSEZDc05XdVlKZzQ3aHltbnNfelI4b01icXd3Q1pXbTliZXR4eUhXaE9OV2ZSSG1R0gGgAkFVX3lxTE9oUlN1azlFM18zM3dTUzZwRGxJek03RTRQQXh6MmVjNVZLVWtEbXNNWUZ0eVh4TXdqeVBoTnRWTWE5bk1EWDYyc2dqT1FlSjQ2dmlrRnhSSXA3ZEw0dDZUZU1FSFphNmMxa1NuRUtBZlcwZTB1bjhiMWI5anhmT0lfMU1GLXI4bUtWYWMxWHFPSXVXQl93anVrNHh5cnU4eVh2T3JDYm96WmcxTTBjZ3dvbkpEbExzNFpxajNrUExrQTJyRlBBdmZWSEZhVFNnMm5VX2MtV2RVd1VYd0Z3MUNkTlcyaEFpazBUNm1BODI1Q0RHcFFwem04MllZRlhVYU1WNjBnS2xIVlJCMzUzZTdBTVNWYUlidkI1OTZQcVNtbg?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T15:00:00+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Athletico aguarda definição do orçamento para se movimentar no mercado de 2027; entenda",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZEtETFN4SU9NTjliTmttdkNXOGg5TGEwMVlfaWFGbXdNdjNQUjl1U29FQzlWZ0tKdTdDejhKNUVBUm5UdGtkSWtyWEw2YlRDcW9YcG1qazgtQWw5Sjg5ek1aV1MyUGxUZjF6SWZKd1dXbmt6YVh4Z19LOVFPTmZpZXhLS2IxeG1RUmxTTTFLTUxDVWtOckVOZDF5dVE2MTk4VHNGbnF2cXpjc2hLcjktLUpyZTBHcTFhWUJId2ZhUlE4TGpmdlpKSXVlN3RnRUZpaTNWaG52WlNwcjdnMlVzOUU2a3h4andlazRrVlRzQmEyQUVU0gGDAkFVX3lxTE1QRDBUZ3BLMlV2TXBJaXhEdDdJZEFMX2RSSDkwZGdhNFVTTUVvZ0FtSk5WVTdpX3BRUXF1TFB3bDZYUGVrQURIMnhwU1I0THloNWh1Rk51cmtaaXl1dU84WUJIcDZQTFVGZXZQVHY0ZHpQX2VWdlpYcTR1dlMydmoyZzVWQzZhRDBiUXEweXl1QXhrZ2V3NjRBTjJnaUhOdENQcVhJQ2d5eVl5dU9vNEV6RVFiSEVZdWVucnBnTGZ0RTBsYm5TNUZNSzRreGE1Q3lxZzNfODlvNkhXY2RSWlhJSUcweUdDQWVTVHRlQWZiNEY3VGxIdXNMdmNodlE1VWNyX2c?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T15:00:00+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Congresso prorroga por 60 dias MP que proíbe bets no país",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1hxV1drRjlsN3I1V3hQamFYZlZiWTRiYllvdXo4S2tCaEo2LVR5TTZWT2dOTmpHT2NjWk1xdkc4WFlGeElsQmdoaVFFN3RKcXVzVkFnWlRrV3pJakE3T0tiYXFmTkhhSTk5b21UeG5hek9QSGJxOERJQWpONUpTZ2UwNndLbjdYdmVLZENCZVhjY09HNGZRbFprZkhicEp5dUpMWEdHYjY4eWxTb1FVOGQxaFZCUQ?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T14:57:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Congresso prorroga por 60 dias MP que proíbe bets no país",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-prorroga-por-60-dias-mp-que-proibe-bets-no-pais",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T14:57:00+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "CLDF aprova reeleição de membros da Mesa Diretora",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/cldf-aprova-reeleicao-de-membros-da-mesa-diretora",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T14:50:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Vítor Pereira se arrepende de assumir o Flamengo após saída do Corinthians: \"Erro tremendo\"",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT0U5SXdrYndPS0lZX3F4TWk1ZnJXVmxuTmZqeHJ3aUNNUEtSWEZNWDNQenhJX1haWWppeWJPVEw0X0Z2OHFFY1p2d0pzWWF3cHhISi1zcEpDelZMQTdJZTNLQ2huckt4WjJYdTBXbWVVMVFiekQxa1FFMDZKV1RKcnM0bFJ3MGtocnZDU2JyZ2ptRkRQbXJ4eVlEb0VITlU5enNoejVNb2ZlNElVd2ZIbXpuVEZWVDk3WnFaSUhXREFhcEhhM1pZUVltZ0FhbmVPYkwzS0R2QzR4aGpnQ3dGcGFWdE1vc3pMLU1wWEp30gH8AUFVX3lxTFA3c0xHUWhCSF9TX3ExX0kwT01VY0NuTHJ1ZW1aaTdCVmpITHEtYkFrS3VGUkI3VGE5REczWDNVZ1h3aDVna1lweEpTdzk4WkxPd1Fha1RKUUdGRlBUSTYxaVpVT1BNdGxRNmloZUMwZ1VOVm9jOFlJOHgtZVVBZ1Fha3JwdW5oQ2UxbEcxQlg1Z1pFUWpVQ2phaVJDcDA1azExU2F6UWo1YTVUVEVubzItS3lfcGNxT1d4ZldPT0JJRmluNU0xZVJMa2p0dFBBVnVZZVZ2YXk4WEJ1UGRxdTRfNmpQNnJPYmh6SEdBcFphUDJodGNHa0VxMi14Ug?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T14:43:14+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Queda de árvore causa congestionamento em via movimentada de Jacarepaguá",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2VSN09sdlJjZ1pvbUhHbDFIUmRnekZ5OHEzUExpeEtrMlhHeUlvMVdNeFFCRHNxcmFkN2hNSEcxOVlmT2lxeVBFanhhcXEyUWVyQjlrUEhCUjBYRXpWZmxIbHJLd2cwNWc3TzFYMk9heHFTRXR2WmRLSTBNN2NyX0VqSFRVM1hEcDZDSG1wdm0wUkg4MHJPdzQ4WGJiX3FWUlN5TmRuSzRlX01SdnpjbW15cjE2dUFzSWFVM0hId01DV2JGMlkzOFhBd9IB0AFBVV95cUxPTEJCUXpVdEllemhDNWsxR29ZUkN4aU80SEZ4QlM1Y3VhREUySnJFTXFQVzItT3hlVURmT0lFRGpUSWJYWHFCQWFmWFI2TXBsT0xYRHVna25taFdLRTA2UVFHV0pYTzU3bmJMenExMHM3bkpaQ1FiTkJPd1lwTkhqNHp5eVlmQUtaYkNDbTFZOVg1VE5JOUpRY0VJOEJydzgtQjMtVlgwanNGYjNDUDBraERER3NHb0JDYjVNdFhzUzFmUzdaOGRNZE1JaC1ZbEM5?oc=5",
+      "veiculo": "O Dia",
+      "data": "2026-11-11T14:34:03+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Setor produtivo defende adiar cobrança de novos tributos para 2028",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjhnRDRsNUlsdnd5MnJ5azVZdlZmWkQ1aVVsME1FbXRNZTdDcnpoVTdwWEt3OE0wWUw1eEhGbWNrNlBHb0I2Vld5UTZrZ21Eb1dfTFEtZlJyUVJwOS1YbUpEZEsxc0lLaWNmYklZc19MNlFfZlBoQVZvVWYtV0VjdVdpSnpxRHdhSngybnNqRFVPa0dMWnhFcGVBWDh1djM2X204ZC1kWFRUWnFNWEY4cEJqNUUzZFdQMlVsbQ?oc=5",
+      "veiculo": "CNN Brasil",
+      "data": "2026-11-11T14:33:36+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Justiça diz que OAS deve receber R$ 2,4 mi de leilão do triplex",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFk2elk1MkJYbHVZSVNDTlJSb2JYY1lCYmVEU3haekpEdEZmMXU3dkp1Tmd6bEZSODRJQmVuY1BSOU1nOGs0dmNGYlQ4QWJnSmN2bm5jajdpMzhaU2N0S19MVTV6VWEyUm1MR3BCN2ZNNVNWR3hIck9xd3dUTFpZbW1rdUdwdkhzUTN6alAxV3NKWGZvelVmUzhHbHNLWlg5Q1hzUFBEQlhMUQ?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T14:30:43+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Cruzeiro sonda volante ex-Corinthians e Seleção Brasileira",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYjlrZWNyYVBIQTFWT1FUSFpjQzlldkdJZ2ptZmp6VXpwc2xJSUptMlphN1Y0REFwVFR1d0RCZWFJMDB4QW8wNEhZWUxCeXU3VmtGcHhDSlVrNnBPTlZCbXh0MVdrUGlrdGNXTlo2VlpQcklCbmJDVXdlMFpJc2FtRFpFU1Rib2RUM3lObXRFQ2FUdU1MRHVkSkZ5SlJ4cmg5ZzNOcTFyMHU1blVtQVJnYl9WcVFZcVJHU0hrVg?oc=5",
+      "veiculo": "ESPN Brasil",
+      "data": "2026-11-11T14:29:00+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Museu Nacional recebe restos mortais de mulher africana escravizada no Brasil e levada aos EUA no século 19",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRVNJTXhsQUR3d21kcFRKbldic0NOcDAtMTFnbFhqLVNlV1VhWHk0RmJmMFF3bWJTU0U5MjhQcldFNGVZczNLNTJXREFDdXBwNTFkMnJBRUVpVEtDWWVoYU1vdEt2S0FrX3BxVHNmS282bzFqd05EMFRoMGVpWFoxUlhLaU1LS1dMOFM3OThaQWVjYVFWS1NyNlVhb1VJdElJTHZoZUMzSmRqN05UMmdxaUhPSzhpUHRMVWlQWkdfWDNSQlc0YmE0S2xVRHFHOXRIMko2XzFoakvSAecBQVVfeXFMUC1tYjBOMlFFSVVhVE1iNFV1VFUzS2xXRUltWWROcWV2NEo1cGNKWi12MElaekFDZzh1dGhqclYxWjhTQXkxNmVpZXFPQmJ1Q1RFd2d6RHFxaklteVh5LTdRM0tIM28zc2dwOFZtQVJVT0lTOUF5QmtjZUlKb09jZDdrZWlhcWtOdlVUX3lCRUstMndxM21td1NXa1k4bEplT3E0RUJuLUhTYzB2THh5ZHhKUEVob3pUNFV0U1VweC0zWWxBdldPdl9sc1pTT3RaX2ZtYms3QWJ6TW5FYVNOYkFmVEdHMUFZ?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T14:22:11+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Criminosos usam caminhões como barricadas na Av. Brasil, no Rio, durante operação da PM na Maré; aulas são suspensas em 15 escolas",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenBVcVpldEZyYVRZUXdPenhQZVBqcENGb3lDb1pLQTRWUDJGNGszZTZ2MUo0a3dYUTQ3YVZ0VlJObnR1U1R0SG1YYjM2T3JlNGs1R20tWTEyUkpIaTJUd0t6cXB5QnpfSE9rMmFLZEd2Z2ZwMkdPR0t1Q1BadF9LLVNDWk92Q3RvOFRsbW50Q19TYV9yNENlLUdMd9IBqgFBVV95cUxOM1pMSkZSbVVVVU1yYjRvMXg5LVZoUVVQR29LVks1M1ozbG52azdYOWFfOHk3WTRxZkRhLXFxaTV3SU1fT0ZaZnR6SmJ6T0hqbWp5MHp2c2IzdzhMd2FYaTctRkhsSmI2dktocGFHTExFRE4yQnhibGJWV1NKOGg5Nm1LZU83Q05RWi1ocWNxOXhwUXExTFA4Z190ZE5GVnhNVnpwc3F0T1FPUQ?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T14:13:23+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Polícia investiga morte de jovem eletrocutado em quadra de Japeri",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVc5bi0xQ1BXR292d2hvVU5YSEdwNDNWMDJWQ29aaExkS1V1S25uRk1fOVRZZ2laaDQwX0lBZUNFd0hWTmkydXBDM0lzb1NXbkxLaUpuQjlKeE9sdmZ5WjVtLVB1TTRybVlJaXlIYks5ajNRZng2d2lIb0Y0VjhVbUY0OGpLaHAzVGNxNzNxNUI4N0NQMFpsWWdHOVduODdlUUJ0VTR6NGdUUDZrSktZNXhfX2NRWXJRQmQzNDBBbmYyd9IBxwFBVV95cUxOZ21fYzIydlRVbWRmVk9KS2k5bVN3d2RiZEpsMzhKRXZocW1WbDZjYXJHcGNiTl9NODdxYkJwOE1ZNE9HOUFfQ2s5bjZZWlR6UU5sa0JIakhGR2JBX0pFbWtJSW03Vl9rSmRUaHhUTHNQdEZ3ZEpUemg5TER5Ulp6NzZyQjQ5emJlb3pweHYtN1RsZkF5ZVZJb2pXWjVteHI0Y3RKckt6TFBxNFBLOG51N3dEQnVTOVRFVDJzMDV4a3J6UzVpN3JB?oc=5",
+      "veiculo": "O Dia",
+      "data": "2026-11-11T14:06:00+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Trabalhadores espanhóis fazem primeira greve geral em 14 anos",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/trabalhadores-espanhois-fazem-primeira-greve-geral-em-14-anos",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T14:03:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Lula: planeta não pode esperar em meio a guerras e conflitos",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-planeta-nao-pode-esperar-em-meio-guerras-e-conflitos",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T14:02:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Lula: planeta não pode esperar em meio a guerras e conflitos",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2NWMFBRRUpVRE1sYUtSLUNMekV5eDdpalJ4TFRFLWh6MmxaZ0hBbE1OblA3NG1TUXV1bmthLS1ianVJTnJqcEc0SkNQWmM3dGRobk1JOVdJSmZWdENlc0tlR2lIRnBKLURZbXNUZG5WdmlOdHhxd0U1RkVmQU54eEF1bWNsZ3ZiWXlvNHVheXREdDdHZDVoLXlYS0lYamtMY19iNnFnd0cyMEpGZTFyeXFmZ0Uxdw?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T14:02:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Como golpe de R$ 32 milhões fez ex-Corinthians, São Paulo e Seleção abandonar a vida pública",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMmJRbUZiZ1B0YjRyYnZuN0lNQ2hfaEFJZkt1MnZyTDBSbW9LTTVwS1FhVlk1OEFwQkd3dGF3V2dmWTBPbUlFX2FvWFpKcjdDWk1SOWFnYndfSGsycjFHRVd4b2xYa2lWUjBlWUlnTkxUeEVQWF9RdWFKUjRmQkdBY1dzMkthUDlxTDB4Nzd1TENSTFhTMXZSMk9tY051QWpjVnRSNF9KOWpwTWlZdmZUaEVPYjBrTFBnSGVERUlZNVhHY3k1OWdINGpfcFIzWGlqOHNlR1d6UjZmTkFHSmdHZNIB7wFBVV95cUxQdnRkQlRRVWhmdm9IazVmalVjVG5ZUURPSVJjR1k1VW9ESmF6bU53VWVRaGV6VmpPSUdRMTNkcFhrMXlqQmh4WjJ5eTh2b21LVS1TZy04RXpTVVJ5WS1rVUJQdGhDdF9LcmFwUnpWYno4cEpjUWVWOXZUdWpMcjhXUGpncUVJRHBDUGVaaDBDeFhmeFdZLV9LSTdKN0szYXVHWTE2YUFQRjIyYzN2VS0wSXhTV1FydnYzSlFrMVl1dXF4ZXg3WlRkUGQ4ajJqTlE2c0dmOER6UFlJY1N4VzlnQ2lpRWM0WEJLd3FlTkJ0cw?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T14:00:01+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Vacinas estão disponíveis na rede de saúde pública do Amapá",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnZ1bTRUV3V3a2xidHFxY3JaV0pCa1dlUVBPTC0xUjFiV1lKMVVQVnlDNldmbUIxTjVzczB1ajlsckdkS1JCa0F1cWs2SUJHQUdjcTFiY0djSGZoQzdvTmJLeDdsNWY1R2lWMXo3ZE5IUl9EUUFzS19TcEhhc0d4UnQ5bFg5ZDZtZmc0Skc0REdpcmNtNUdhaGFsUnNEek42Mlp1ZTVxdFhPRENjYjB6aDN2Qm5wYlJSVFFfZjRMUmxTR0NneFh6RHZySTM2LVRoc0dV0gHiAUFVX3lxTE9CZEFmNUpaOVBjUVBtaVo3Ukx1VjB4cGs3UkpMb0w4VzVjT1FRd1pWR19LaWdoUS1IUEdRZ2FpUGVzaG9pdzdTdGRnVHpBbWJ1U0hSTjBDMHZyZDVFMGZBZ1dnakpBZTZEWUZBUkRUUDZqN1NwSGpGWWJIbm9SV2JoVzMtRDV3Y1pNb0Q3ZXl6bTJYZTM1azVQWWo4Y0l5d2xtbVB4bVQ5RTZaOUFKcVh2UTQyVnktb0llS3EtZ1RELUVxOFNoUVZ5UEM3QWRZemVyVjVST25haUNCUExSZUpHanc?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T13:58:56+00:00",
+      "categoria": "bemestar"
+    },
+    {
+      "titulo": "'A Dona do Pedaço': veja visual atual dos atores da próxima novela do 'Vale a Pena Ver de Novo'",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSGs2dzN1eFZaQ0pROXhZTGxJcFlvSFRTM3BBanh2eUpESVVUdG5rZWpadjJ6cllsYmZxOG9BMUM5X1NDOEVoZGNlazNxb0dvMVZGamQzd0lrb2M0RDRHcmVYNnpOdWdoUkt1d0NlSU9JYUlTOWRkSDhjUmhHSm5LSERvTTJyZXYyTW03ZU5mZW5ocm84aXJiQ0s1MWoxWE9BVkFWRUlVdFg4T185NjZTenk0ZklDTHF5dy1aLTd3T1psR3RuVDJXTU1HZm1fU0FRQk1DQWtHRzRUZ2FDSWdVTDhTcW5BSGNjbVBwU0lEbWV0NGRMTWhJWWlsLWp6YXfSAY4CQVVfeXFMTWJYM3RCSUVUOTk0QmdTOE1tdURDcGoycmR3WE5UalE1MnJ5ZXE0T0FITGxObUJuSWY0dTBkYWlwNEx3c2Y2RmxhTWZVTVRhMFlJQnV0OUlOaUM1WU9oMVg5MGlxbFVCRVkwUFlwMV9PUTFDZXVyZS1nWEJwNnB0bEdGMy1rWTZEenVpS1pGN1piOUdUTEVlaFJkQi1EbXpZR295RUpEbU9lcm5nMk5sYzQ2eHZhdExja0VGLWNqa2ZxYnhGZDh6VnpVVm9ZZHZtVjZwYW9hZHh6S1NBYWVUT0dQaVNwS3k2VjllSEFEbzZZMlU3N0N4aXFNQzNGQ0M3cHhUVWlZM2M5bE5Hd2JR?oc=5",
+      "veiculo": "Globo",
+      "data": "2026-11-11T13:42:47+00:00",
+      "categoria": "famosos"
+    },
+    {
+      "titulo": "Influenciador que gravou casa de FHC presta depoimento à polícia em SP",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVl9uOHlPRGxYOGtUbkZLN3lydERNNVBDX3dKUVZmYkVGVmRFZnBGNFJHdEE1ckxVbGwzTFFRVVFTV1hSbVAwR2Nyb0s5LVdRRW9kRWpTYkt5Nm01N2wzc3RiUFlibFNTcERPbTJBc292UjlHSUREdmpJTjk0NG9DNDFLQXJaZGJaNlRDVkdOWkp0ZXYwSHE0U2FsZW9NQnJTTDVxbThmWGZEWjR2eHc?oc=5",
+      "veiculo": "CNN Brasil",
+      "data": "2026-11-11T13:42:44+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Famosos da Globo protestam e exigem fim da escala de 12 horas: 'Estamos cansados'",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRkpWMTFPSThXM2pFTFVVaHlYeVZUOGtmMnJpaHdrNUdTVm1mcFlXQ0FFaU85ajJqckN0ejZ4U0t3TWV3TkRTNmFMdXdvQV8wLW92Z2FuckZKcHN1d1hjbDRIQnVnQWVTSUN0VkR2aWg4X09Gb3ZJcFNQcWZjblNxbTZNNTV2c1B0MVRWbDRKXzMtRy1nVjBBRkFXVjhBU2N6b0djbFlZb1hMeks2c3ZrREFucDMtdjRMZXAzdmRMV012Zm5uRVhySmF6bHdlZTZpSVZfYk92TEFQR3hoVG8zU201LVpjRWhJMXlvS0tFUmtua09JWUIw?oc=5",
+      "veiculo": "Terra",
+      "data": "2026-11-11T13:41:00+00:00",
+      "categoria": "famosos"
+    },
+    {
+      "titulo": "Influenciadores têm perfis derrubados por divulgação ilegal de bets",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDdSNjMtWWZNOUliWExhMVowTldKZG1CbEpzdUExNWJvUHkwZ2FMeEdrSG1CbS1ocFh2Y050cWhXdDZZSkR6WjZBb3lZR1ExTmVqblcxVGN1ZklsM09SWVlhTlplbFpUajVmcUd3bXFZSW96TURMVTNUSENUWExCXzVRakZubERXVlhrSlJEbElUbzJpTXlRbkVFRGFzZE0wNmY5TGVDYnVrcEU?oc=5",
+      "veiculo": "Metrópoles",
+      "data": "2026-11-11T13:41:00+00:00",
+      "categoria": "famosos"
+    },
+    {
+      "titulo": "Polícia investiga causa da morte da influenciadora Vivi Motta, de 23 anos",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUlIeWwzUzJsZEJTcU41SVRvMmtka04wODcwY0lyVzNLaTdfMGZSX3VsbUVLZ3lvQ2JJcGxCUWNBaTNGRmk5QXBlTHZTZHNidjF4VTQwSGNZdVI4b05xcWxwcWs0ZGh3dThTVnpUdW5VT0lTVHVrWVQtTlZtcDlxRnFQdGhPZnRGNTUwOEQ0dm1SSldtNkpxYzBaMzN6SURxMXVuejVoRDYzd2ctV2djSUZB?oc=5",
+      "veiculo": "Metrópoles",
+      "data": "2026-11-11T13:41:00+00:00",
+      "categoria": "famosos"
+    },
+    {
+      "titulo": "Globo pode transferir Maju para o entretenimento para fazer dela a Oprah brasileira, diz fonte",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTzhtQncyZWZqWmhnRVRDNmpEX0hWTmhnVDF0TTZ3SV8tcWw3TldXZzNXcWNoNzRxYUdqZ1JDSlFXbndXSlhOMFVsOGlVdXpPb2lxNHMwZFJ0ZjZIMmtFdFd0Zng4WjkzYnNrWXhhOFdFaHBQLVhHOE1KQ25ucFI4Q1pzVU9oSUFINjhlWEFoQVdIZHZ5Yk5kQmd3OXBzWkpEa2dlODB4ejhJaVNOSVBoSHNxSU9lbHZ4LU01eEh0M1dmVTVJdWJ0TnJ5dzUtZlR2UWpjWWdreUp2TGsyR0k0ZExCRXVuWkJtYTV3RUhvUXdRWGhNaDAxSXp2akRNVGpwVVppSG9oYw?oc=5",
+      "veiculo": "Terra",
+      "data": "2026-11-11T13:33:00+00:00",
+      "categoria": "famosos"
+    },
+    {
+      "titulo": "Saques da poupança superam depósitos em R$ 8,88 bilhões em outubro",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc1hyb05nRFdhS1pNUVVRTUljdF85MGJlTmRETU8yTnhtZ3BQWFVYMzFHV0tOYjNmbDh4cy1LYlBQNWtkSXh1Ni1ZM0RwWl9FZG10S0tQSGJpby16Q2U4UGYya3VKWkpvblBYZU85NUZKTDBRZ3FFWm9ib01VZDBPUmZGSEJxd1FqMmNGSGtBek52M2E3R0RocEFvRDAyTzBmcnlFN1o3alowYXQtTkloMlNhSzJOM3M3eERzZ2lvMA?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T13:20:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Setor de serviços varia -0,1% em setembro, impactado pelos transportes",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQzEzTWJzT05GWVk4N2FQNXhSU2h6dTM2b3RsQ3dqR0NaaEdfVHJybW9BLUtGb29lUnlZS1VQQUJHWXcxR1M5Z0thc1Z1QXE4c0dhSnNOQWxhM04tNFdwWS1nUDZoZkdUdzR1Nmx4dzVaLURRUVZ2clM5M0haaWlzUEtTTmo2aWRNcE55TF91ejNxS3dpVDNWM3Ata08tOVdoNHh1NUMxcTVEcEtBeUdUaDJUeG5zd2tNWWJlaV91WXJyZw?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T13:15:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Faturamento da indústria sobe 0,8% em setembro, mostra CNI",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc29aXzF4Y3ZoZV9KME5BeWF0YlhqUkxnSThzZ3dodDFSYjVwU3ZWeGVLTWNESkJqSXpDdmlMV3gzMFBKbGMyQ3hGc3g1cG14dURFN2RvME1EXy13dlFXWnhXMzAtYUhrUUVxSHYzVzd2OVVFdUtubjQxbGN1Z1hiUkZxVVVPUHVNRTNSRmRLTHBRQ1daaUxlY2hMSTQ5bmNCSU50QmE2TUNBa1h6MUpqeWtDTQ?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T13:02:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Segurança da posse de Lula terá 22 órgãos e será mantida até dia 10 para evitar ‘novo 8 de Janeiro’",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTzhQazdWd2xVSDEtd3pLYTBUWUZtZ0NMSEExZjZreUVtb2NUczdmQ0VBLV8zRy1sN3lLNGxMb1VQbDVEa25yZGNpWlkzTUt3WXJHN3JtWnlZOWtqUHpFNDJKbjdNV1V1THkxZFdUQk9Ua2hjN1VITklzNW1Da2h5bU5ya1FEUzBJNUpqWURDQWFxTGQ2YlpuYk9vd1RQekxjNEVUUmFSRTh4UWpsRDROaUs4QTE4TDBuZ0FKdmJHdTNCTjZPT0NaVUpKZE5oWTJmWmhlaDV5R0tVZw?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T13:01:57+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Absolute Novela - Quem Ama Cuida - Ademir chantageia Dora!",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGdjNzZzeXZLR2JGcllwa0VkMUdjWFZqRkFHTXF2X3E1djdIRWNpRHgxS2RWeXdyZllMYWhHWkt1RDR2a1J5M1NxVVNmd21jR0VGVVhzT2VVTW1EQjJxY2JSTTNzXzg0ZGppSGJ4MnRNd24wZGVyc25kZnZ6OThlZW1wVmV5Z2g5OHRrekpoTjM3cXphSUVaWVA3TndpcjA5UVROTEJVVXhpWGNNN1pEYWxuVTl5d1VHQWNlYkN30gHMAUFVX3lxTE8zMGV1NDhBZF9kejBNamFiTkVPajVZMG1BT19IS2M2Y3k5QzZ4WDhKRmZhQTQwc1pUWGVQWDNYb3hRbWsxem9ndGh0TXpod1FVZ2kwWExOQkZOM3d3SE40WUlLcm5wUmhtUGZxcWdGYnJkMWxOWDl1b2p1TGFmMjhxS1NTaEpWNWRVTERzMTB3bFZFQk1YSjRtSjRiZXA5N1VoY0dUQ3VORHVkLUJkWkJUdDBZeUd1T2Jnb0Z6Q2x3SUppenRwYy1sdWdJZg?oc=5",
+      "veiculo": "Gshow",
+      "data": "2026-11-11T13:00:00+00:00",
+      "categoria": "famosos"
+    },
+    {
+      "titulo": "Edição de 11/11/2026",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0JVRk0tQ3lYN1o4T05qS011REl6ZGhfc2RSNW9oNk80TUowZHAxT2lQeVhTaWhBMHhjYmh0MzM5anNrVU5hVmlXYjZWRGNUSklXeHN5MGhtX1Z4OVJpMldmR0tyVXZMaGlDSEExd3RWcHRFdVV1b3BiNDkzclM4QnhiRVNmNUlnLVplb0JkRVlNb3RM0gGjAUFVX3lxTE91SU4zMXBnd1Zya01mNUMyYXlLXzZ6RFNCdFVXdVZVX2NHWWlkMW93NUJ5eGJBSFNlaE9EUWlHcGQ0Z283aHdZSDRIdnRHaEdyblctUmZmNDIxRnE5QzIyS1ExYi1GRVRSUTFGSmFRdFFNY0Z5SWJESk50VzJoSnExblliUGpHejN5dHdSY0VHSkNCWEhmQ2ZHZnpoNFNxa1hCZkE?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T12:56:05+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Alcolumbre relembra vídeo de Zema comendo banana com casca e ironiza desempenho nas urnas",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjJoUE8tRmpLRnBSWW12YV9SUENoa0VVTmM3UEJ0aGFvbjMyNm10eW1qU05pc3QtczdwcjJ3TTZHb0NMTExITFBoREpIRk1BdjZHMHd3ZU9uVXVDX2hLbHUtbERDSkQ5dTdWVTRyYWNTeTZEcFctYU9yX3hleWlHUzY3NFpBQWk1TGl4elRETEJIY3JKcVpSZWZWZU94eVFsc1JJbFZSWmx0VGZFNjNPQTdTaTBXZW9zUGZQTVFweGF2SmpQcTBBS1NVNNIB0AFBVV95cUxPdUxyLUxUdVdYNHFlTTRTSVlBbXZQMVo3TVdWcWNGNmF2MDF3YUZtMkFqcV9rdFRhdjRSUndGODF4WmRSei1vZll3RTd4LTJtX2MxRUhITGNhX19Qa2dIV1VMb3A0S1Q0X05lOU1ZRm9oOWdjSnhBcWJpLVhJTG9wNzYyRXdlYXo1ZGVBRHNuak1jdDZnSkE4d1I0dHB2THFWa19UeTlzVU83ZGktWHowdDF2dE4xSnRscF9laFN3UnRJT1VjbXhTaDQ0bEhGdm1z?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T12:40:00+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Free flow: motoristas recebem aviso pelo WhatsApp para quitar débitos",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNTRoYVZtUngzejBiVEZhRmU0Zi16VktwWFdXTGtSMGxuR3lxNmhfaktfbHdfd2tMeE5qZDJ1dWVZM0JkenZnaGFXMGFNVGdBbkpuTUYwN1FDdENUaUl3Wk14ck92VFc5aHIwYm5ia3VQcnkzblZqeHduSXdDZjc5T2R5azE0TzI4eGpuVDB6c3d2WnJHRVBybHRQWjd5MDIzZDFzQXFJOU9Uck5Ha21EeWlNM0pvTG5STG9fUkgtOXhXYmxWN05B?oc=5",
+      "veiculo": "Olhar Digital",
+      "data": "2026-11-11T12:38:00+00:00",
+      "categoria": "tecnologia"
+    },
+    {
+      "titulo": "BC da China promete intensificar apoio à economia",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZTBSeThRckVJME1qMjZ1N21nNll2VUVoVTBlcWdmNUIwS094Smdjb0NUcm1Hd01Wem4wOUR3SWx1a2JpOVVrSm53bC0zcHpnNjg3dFRyMWJCa0xGSDFpUjRwb3Z5c3ZRdDIyYlN6dnlGd1IxT2FxbE5kNG1MTkVaYnc3N1dZZDZUOXNteDB30gGTAUFVX3lxTFBNQXhkNWxQSU11Q2RtU1ZJSEJsdVE0M0lZX0RmR3VkWHpKcXRxbmM1QklLcDl5VDdvblY1bUQ0YVp6dGVGalloc0huVU1jVnFSelpHV0pJYUlBNkhGeldRU3dEeXVnRHdabFVnZnNiOHFrdFM5dzZiWkpnZk1ZYTNKWlBHaUprY1cxOWNKWG1KRVgxMA?oc=5",
+      "veiculo": "InfoMoney",
+      "data": "2026-11-11T12:31:44+00:00",
+      "categoria": "economia"
+    },
+    {
+      "titulo": "Não gostou? Richarlison dá o que falar ao reagir a segunda gravidez de Amanda Araújo",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUGx3TV96ckgyREdscnhadW5uejl3SVBLMHd3elY4cllrMW5Zd09aU0dNOVIxdjlyX3g2YnpCRjhxNXFBaWNKOV9HMjcxdWRONVRxNWpzdFRtdHlkeURadm1YYi1mcVVUeGwtamtVRzhZei03aTZiVDMtZGVZTC01d3RtWjNzR2drNmtFTUFSSlliUDBwTzBXM2FnSW55OHM5TWFVYUNnUnNsaDd3S0FSSWVWeGJKcDZjTjJKQVpIemxVZWxGc25kTTRYbDV4cW9iTE1EdlRCUFZaa1A3ZTRjZTQ0RmxkbU1HY1gxdlJQS3RDQ1NWWkVWUFN0ZnplTnRQcUtz0gGDAkFVX3lxTE5QbHdNX3pySDJER2xyeFp1bm56OXdJUEswd3d6VjhyWWsxbll3T1pTR005UjF2OXJfeDZiekJGOHE1cUFpY0o5X0cyNzF1ZE41VHE1anN0VG10eWR5RFp2bVhiLWZxVVR4bC1qa1VHOFl6LTdpNmJUMy1kZVlMLTV3dG1aM3NHZ2s2a0VNQVJKWWJQMHBPMFczYWdJbnk4czlNYVVhQ2dSc2xoN3dLQVJJZVZ4YkpwNmNOMkpBWkh6bFVlbEZzbmRNNFhsNXhxb2JMTUR2VEJQVlprUDdlNGNlNDRGbGRtTUdjWDF2UlBLdENDU1ZaRVZQU3RmemVOdFBxS3M?oc=5",
+      "veiculo": "Terra",
+      "data": "2026-11-11T12:24:31+00:00",
+      "categoria": "famosos"
+    },
+    {
+      "titulo": "Velejador americano resgatado pela Marinha em alto-mar desembarca em cadeira de rodas e é levado de ambulância para hospital no Rio",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1FETEREOUp4UnZxTTBydnhVaVUxcEtqb3ZQRXVURTNLLThmeTl6c25hNnljbnF6TW5hc2FpTlZNdDE2SlhjMC1JZk12elVIdzZHUW5tWXc2UXJwVkswSWRsd25CTk9SMXZ5QjlOc19YRHZLUks2ZmtwRHdoNXF4N2c2YXN4UXNRaTE1RVFjQWoyX181WXlIU3hjYVkwdjlKbVFWbkxNUFlBSTNZLWlmNl93UWJSUEU4Z0HSAcgBQVVfeXFMUGZ5QW9tNzRYOEdHSkowWFdnQlpjeDRhRWxQWG1obHZSZUtUalJqOGVLaUQ5NzUzcnlxMlVnSVRzbF9TT3BscDEtTmNEQmctbEFlNVNyMnl1bXoyaUxEaURqZ29ZMmVTRUt4aU9qYVYtOWkwN2cyb0dpNVFLeENDQlNGb05CS0VkWUZTSm15STB0ZmlJNXk0aW0yM25vWGtTNUMxTTFpVGRZMktkNHdNUlRManN3Q0xsYzEyOW9tR2JRYlBza0N5VUo?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T12:21:39+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Amazon queima largada da Black Friday: Kindle Colorsoft com parcelas de R$ 99",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM04zTnVzM1RBX0Y3RFVFVzFlRF9mdlRQU1czcEpZLVlnZi1rdDk4MEQwSjQyRTMxRndhM29LeDVZMms4M2Foa09ReDVOUmNQWDdPbmJYc3pfSUhaWElSUmxQV2pjQks2ZENPUXk3QzdjdTZ0OGhEMmhIeWMzd2h4RXk4d3c0N0xjUkVFMEdTenFjS0YwaWlVaW1SNDBGZFJHU2JjQjB5X1Mtd0hFSXpZ?oc=5",
+      "veiculo": "Canaltech",
+      "data": "2026-11-11T11:45:10+00:00",
+      "categoria": "tecnologia"
+    },
+    {
+      "titulo": "A hora de profissionalizar a burocracia da segurança pública",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlVWTE9HamlpZUZnQzVCWFBKWjJxY25hM0libG84bjJld3BhUjR1dWVpS3pIR1R2T0w0b1Y1RHh3ZjBYVDBJRDMzV3dfVnFlbXF1T3hDbG9yN3ZFZXp6cmRtYUw0WnRUSHNQeW5BMnFUb3I1NU1jc3pqb3BGRWlKVTNnODVhakM4S0liU1VyMEhabk13NEVoRnpmQTdSMnhiZVFpMkRTZjBnV1E4RUFLbDR6UlRBR0ZJS2tz0gHAAUFVX3lxTE5vTlFrUjhYU3ltYWlQbTFqYnY5dW94WHczazdrUnJ4eDlpZkR2YjBkWThseTB3UDZMQ3o5ZjU4eG1SU1BsVVBwU2hwNmNiOWJxR2FOd05sbXJvRUt4OWpmU3FNVGtKcUkycTd0WHBDUHNCbjhhNHNSUDlSYXFJZkN1WHNRcXA1WFhhYjlrc2R0Vjc5S2tTeUJuOE91T0lnNXVEbmppa0NadktmU2hHbmRPMjBtbmRGSGdSc3dLY0taRQ?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T11:43:24+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "A segurança depois da PEC",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRENoSnJXcmxINXl6ZWloWnc5Q2ljWkVocWE5Vldudlp4aVoxRnM3Nmp0aGV3RXRlWGU0bExRZkhJOHRBdkJOQ3pzbnBQNGxEaFdLR3VyeHVGUy1hbDJTWE43QjVyU3owSzBGMnVCZV91Wm5NUkctZld3QlBYYWJ2R3ZkcGVuSFJRR3BvRNIBkgFBVV95cUxPM2U4N2VMOWtPT2ROUmNJX1YyNmFFeXoxNi1aWE13X0k5ZzdRTFJCMWUwbHlFcHppV2V6Ml9GVVM5aG55ZmcyWWdVX3ZTeEdCMldwQXBBdDJFVkYxTmFDVnZGY0NMdXhVajdIUEktd0tka2Z0M01SNU5ndEJGYTRKRjl2c05qMnJ2aHJqbldQRVhhdw?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T11:38:26+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Vivo antecipa Black Friday: Galaxy A57 e até Nintendo Switch 2 em oferta",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEp0QVI0SXRzY1JmWnBZUWtqWGJhVTBhTjNWWW53c3d6UDA0QnRBNS1UNHpvS090U0tyOWo2OGE4WjNzdC1NdVRkbUxyZ3U4YVNwMWpyQldSbkQ2ajdZUTBWNFFaa3FWOG1hbi1pYkY5NjQxbUxTb1dzaUpTSlZGMmNaVDVUOFVpLUFyQy1MZHBJc0RJU01IdDhnUkxtN01nbzdhNjFHTlo?oc=5",
+      "veiculo": "Canaltech",
+      "data": "2026-11-11T11:33:45+00:00",
+      "categoria": "tecnologia"
+    },
+    {
+      "titulo": "Lula cita reeleição na COP-31 e diz que não foi vitória do partido, mas projeto de nação",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN245MUJERXppSVU1ZFYyX0lsWHplTnBGYVBxSC16cE95WFJ4ZTdaU1VaS05NaXJrYTRPczJnYzRaNUdBY2dudWhiMkpEanA2YWhHME1JSzE5aDVWMVdnNExmSkJLb3lSVUxXTVY3SjhyMnkwUVRUZnk0UzhHZU8wTWpEXzVncW1aWmlfb3pGYU1Ca2lZaGItaWU1anNXNVRNR3FDLTRQa3RLalM1WF9LMjNyRGZRSmNPZ1NncENHdENmU3NqZmN2NGlQV2Y?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T11:26:34+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Lula cobra países ricos a cumprir compromissos ambientais: 'Se desenvolveram às custas do planeta'",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRWNBWDEwRzhlUUVwZWNnMlRGNXpOWm1wbFBGMG5jbEF6blBMcFZJcnl2cXh6encyLVVUS3FSSlpCejVnRjBzbldzR0w4T3JHZzBSMlJhX3ZrNE9QSV8xT3lyRERTTzVWZFQ3MHJiQlZoUTVFT1VXaE4xaDBPVkQxSlNHa2wzQUw4clAzQXlYSkFsdG81dVdBTWtyOHE5SWU3c0tiRXBEeGhDZ1p0SEV0QkQ5X2FqVlZrT3ZJVnNUZlB5alF0ZXpVMFpUSF9VNDNvemN4ZDBoTTdUTTNhYXVuNHI2UElRNXdld0HSAfgBQVVfeXFMTS1lZHNpUnlobGJZWElidHFXTllybGNiYkVXbjJTNW5CRjBzOWNuMG92RVIweWsyMEw1Q1hpZDJqOUwwYklnWFpCUDBUeXdMUHozbjVaY1BuMExsRzVDelhVXzlBTUp2MUlQdlE4YW1La2NuOHlMQTExUi15WWdrTzI4eEdfMmtBaDhwVXBDek1HNmlMbmZNMEtmRDJ0MlpiTldJblBTazFkQndUVDRPZkNTVG50U2JJQWpNOXRVdlBuYVZhUXoyUUNKRWw3bVlBUWpJSWxNUUNzT21Oa3NqMEQ2LUVUNVdwNVdmQlkzTm1USHkwRE5xWDg?oc=5",
+      "veiculo": "Valor Econômico",
+      "data": "2026-11-11T11:24:45+00:00",
+      "categoria": "economia"
+    },
+    {
+      "titulo": "Lula cita reeleição na COP-31 e diz que não foi vitória do partido, mas projeto de nação",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnNTTFNEWm9FbnBXVGtLUEFpMUc1eHFrZkZIQkF5cFFjVVRyYUI0Y3hZU2E2aUNzQjVELThkbUlvczNjYndhdXkzOUJqSnFtWFN6N2VuS2lRTTVwWlZnRkpYLUxLRDJaQWlUc04yT0UtVGdWTm5pWGVWQ1NnYVVDbW9ySmRRMkFGSUhOYWxFdFpZLXRXVFdZbGF2RlI0YVhyaDZPdmRubWVQakV4d2VYbll0QUtyMkQyY1Y3R3ZTVS1lUQ?oc=5",
+      "veiculo": "Estadão",
+      "data": "2026-11-11T11:21:07+00:00",
+      "categoria": "politica"
+    },
+    {
+      "titulo": "Adolescente de 15 anos morre após sofrer descarga elétrica em quadra de futebol em Japeri",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTNIenM5S0gxay1WU3JvWjRPZllBUjhGRTNGYWg0VTI1ZmUzbWxVQTFMeVY3RE1JTDZ1V1p3TDZhRmh5dU1CWTdsREJQb3ExRjJ6cjh3d1YxeVFyeFJxZGQ0enEwNkwtNFFkM0VRU0U5Ml9ISEdkeGtNWXNxZ3YtdjNsZW1MTHM1dHJWUE1vRnA2V2pyX1JsZUZrTklDWUlScUdkdF92ZFRJNDE2V2dWSFhLcDBMdzdHZDNkbGRGT0pKZ9IB0AFBVV95cUxQVWtDNUFULV9PU29LVVlpUm5EZ1pWTmF3ejBzM0FUWmpIUHl4alhRSjAyeWloeUJrUzdzRG4zZTFsRWJ4VDNDalpBM0lnc282UVk3SlQzOUJHNEZ4WFBwMzZZTjEtNTd6al8wUjhLdUpTcTZRdmgzb29YQTdhR0xDdGluOEVmVnhNZXliNW51WUh3TWFfN2U4QVBNa010WURxcE92TkNnVFR6bzh6eV9TTDdiaDlqa3N0UEt1ZTg0SURJd29adjRsS1dDMVNqUGxW?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T11:13:58+00:00",
+      "categoria": "rio"
+    },
+    {
       "titulo": "Esposa de Belutti rebate críticas à aparência após acidente do cantor: 'Estava exausta depois de chorar'",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOTRzQjQ0cUp3S2ptMWZOa2wzdTZpTzdQRU1Kd21jOHBvZlBoQTRCMlJkenREOU5wN3ljaGZIM0hrM1MtenM4cVJXa0I4Z2Y1VUZ4UGVDcm4ycnNYcFJPWm1hdm5jRlpUYk11NWF4UHRmS0lIR3B5RElieVVhYWR2VUlLMVRlWlNCanVrVF95V1RWSjRtZFczY3d5LVlqMXBCQUdQZURENFl4blU0VUpyd19DMjdGbndzdmNZUVZ5UUFNU09zb3UtNlp4WGpWY2pWR3JPTmFIdVpkenVYSzJpVVF0YWc0VndwbTBpS1cwaEjSAf8BQVVfeXFMT1Fhb1pNYnJFdzFGbW4ydFBGalpZc0Y5bndYcXVoQ05oZmVLa1ppLS1acGV0THZ1RXF3VWxHdFFFdnhTRE5DbFgxZXNkclhZbGZ1LUxtNGpVVDg5Q0dqOE4wTFp6UU02Nkh3Y2dsVnhoay1RclJveUx0VTBBU1R2QmpGenpfbVhUU0tpbXVxV0hKVXVmY0tBa2hSbndJY25yVDNhWXd0RmhmQm9OWUFDX1NxaVpuaGwwMHd0VWU2X29Sc1dBeHR3aUdjLTlJWFI2M2cyMGk4ZGNQLWRrNDFOcGx3YmVxQWNaa2NJOVB0V182b25oT29JaENMVFJ1aFFR?oc=5",
@@ -9,20 +617,84 @@
       "categoria": "famosos"
     },
     {
-      "titulo": "Luiz Couto propõe política de prevenção de quedas entre pessoas idosas",
+      "titulo": "VÍDEOS: Bom Dia Rio de quarta, 11 de novembro de 2026",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON2UzdkVaMFR4UE01RjRKWWNHZVM0U0QtUHBEMFZ6SENEcXpWYTJMNEdOZ3duLW15VmZrWGxkNkd0cXVGb0hudjhMOTZwVXpsY2RGX2NUYktQU0xBUnJMdThSVnhCbjJwWWR4eC1rYTdiZjZrLS1rbFhGdnhxblRjd0FFWHlCTUdhaGtwYS01QlQtUktQZVBBaVNQcTNZNmRTcmhhUjVZOWZCejNTR3B4R1BUNEhUZXhERlBRamFraw?oc=5",
-      "veiculo": "Portal da Câmara dos Deputados",
-      "data": "2026-11-11T10:57:19+00:00",
-      "categoria": "politica"
+      "fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlZ3blo5QnVjR1lrWFFXY0NrTGQ2YlJLNm4yMW5WUGFMY2dWNEtLV0FlUTkySjdUcW53MEthNE1EQkJoSVBsS0gzejdRWUs0Q25CajZHc3kwa2hocnJOemNfNnlkOWlIbGlnSHI0VlN2ODlhTFNqY3VtVVg3QlZmN3Jic1lyRi01V29wakRubVpNZkh4ZWczUko2cnNDR2JWOEJNdXZQbktXQjZXb0VjVmgwR2p6eDhH?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T11:05:00+00:00",
+      "categoria": "rio"
     },
     {
-      "titulo": "PM do Rio vai comprar drones para ações contra o crime organizado",
+      "titulo": "Polícia reforça policiamento na Gardênia Azul após prisão de chefe do tráfico; barricadas são incendiadas",
       "resumo": "",
-      "fonte": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pm-do-rio-vai-comprar-drones-para-acoes-contra-o-crime-organizado",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-11T10:32:00+00:00",
-      "categoria": "brasil"
+      "fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3ZmaV93cjh6by1xSmxMX3FCd3VJdTU0TUh5X1pXT1Fnel9zWlRlWXpvZ1NmYVRTLW1xbzA2bmtfZXZxZ1pJTkZIa25XOGNJdmJ4Y184YVgyNVhULWJRSTl4ODVsOHVRUWdCMlVjNjlDOXdXcmVtdnhBTDR4dXc4RjNrUXd2YWc1RjRwQ0szRkVNWC14WlJPZm8zOWktMnBqMmR2c053T21VNTU5VmJkbnVtRXBRdkFtLWlLN1B30gHMAUFVX3lxTE8wbHBjMFNMSEZrLXRzVUtKZHFvMUcwMmxER2h0endDUXpKc0c1TWZGRWM2RXhDX1l2N2NnRzBDd0o5VnFHTDZEZXQ3UnEtbXlkTm9temhVTWktanpfQ3FVd1FMNk45Nk5DR3VyNXdvSDczX2lubnJrN3lzd1l4Y0hHV2FPaDd3ajFlZzR3OVNOWVdKSlhzUlpWWEVoN0hRbUt1NV80cmI0N1otbWlKN18tU1lrSlJiMzRfWE10QWdHNGpLdjlpUUF3aWUtTg?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T11:03:31+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Sorteio da Copa do Mundo feminina de 2027: entenda as regras",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUQ0alBOYzYzWlhYZnN0dGdkeEJITkxLeDE3UUNoRFFPZTZta2ljMEdwbGI3MFRXM0I0RGVJa1FEV3FMLXk5b2xIMjFkTzVZY2ZzNl94U19rcTZRM1V4bG5iczJKQ3ZVV1VZQ3cwOHNBeWxBXzJfY0lNcDFCN3BMVnBUUUNBb3M3TDFtb3lieE1JT1ZVaWFzWVRGUTQ1ODVqeUxUQkJwY1NVMmREamVibWU0RHY1ZW5aTVQtVXZaLVVrcmJ0dFFFOWlPdGdBaXNm0gHfAUFVX3lxTE9GWEVIRkJkbURMbTdzQkNubFFIY2RZVDAyb2E0UmpYbS02XzhhbWxpNHA1LWk2bFBQbWJ5cTFObU1DekY2TXliSWJYQ3FyYlNpU3lGdXNrVExKVWpKUjBpcnhja0NzTUZnWXJaUTV1VGFtZ3VHMkVKQV9GeHlHalRUR2VaTEFZNXVRTDF5dUc5eEMtNzUwX0ZabVRtaEFmbC0xUmZYT09jWklKYnBYNmRFc29rWUZCZDMyeE04RHhEMFlnR1cxQlVwU25TODRfdEFBNWVKNExlR2paaUZIWTg?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T11:00:01+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Cristiane volta à final da Copa do Brasil em busca de maior conquista no Flamengo: \"Pode ser a última\"",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTV9EYmJNLU82VnN1a2pyQWdPdTJjaDlUSFNId08yQ2l1T0w2RGkxa25wME9RUjZ2Vi1taFNBYVBiakNTNmtJSUt0TWVkaFhKelJuREU4WDladXY5dzdLTGprQVVyYUpqSnZpc2ZxZ2lORV84VWNjV1pwLWpHVW1abWhSaEpSa1JHTW5WRFlJZVhnY2l3ZWU5SnhYY1VrVFpiMzg4LWhCQVU2RzltM1d5YjRuMUVOTUhmck5DaW92TUZyOFFHdm56THZQaDlQdEt1MGM3Sk93cDh4RTBDTmJEN3JBYlVkTV9KVTJmLU8tcFBmZFEyaTVwdDBKcVjSAYsCQVVfeXFMTkR4ck5QT2h2RnRacnVnQmVBQ2xkRHJOVUlWenRIOVRkVnpNeTdoSnlUVC1Uc3BrZ2N3b2xHMUQ3Z3RCNFp2RWFLd3NSMkxXTzJFVjR0TlZRTHIxbmZxSTZyMjZVN01fMjRXU1FrUWxIdXR6YVpENmFad0xiOUU2Ukt4cnF2VUZjaEtxSnFWbmp2OC0wS20wWW9xUW4ydTgwUEV4YnE3YjFURzRzd1V6UkxoSENoSUtVb1ZyTEtISk10cEdzZHZPMFZwaEJnY0lURU9UeHlQZk5EZHBmS3NfNkRaQ0p3dzluVGZuTVhUbzB0Sk9Cbk5lZ1JtQ2JYTTVBcWRCNUtHQ2FXb2dB?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T11:00:00+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Leia na íntegra o discurso de Lula na COP31, na Turquia",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZG1GVFZ2b0tockV3aTNqZ1praUoxX0lXVjJSRnlNTExTTUI5RjBBVFBBQVlQeW9OeDViWVotcEhBVGtaVTg1VDBCbjdqR3dwdFp0cVloZDI2Rks5cm5OdXY4ZVl4SXpILXdfUlBOV1ZGY2RtNjRXT2xNcTZjQ2dmdXdGaUN0N3BlT2dxLXJMMV8?oc=5",
+      "veiculo": "CNN Brasil",
+      "data": "2026-11-11T10:56:57+00:00",
+      "categoria": "mundo"
+    },
+    {
+      "titulo": "MPRJ tenta prender Ricardo Magro e parentes; ex-presidente da Refit e piloto da Copa Truck são presos",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWZtSnFhYTlad2dUZFFpX3hZZ1NYcTF6WGNlSEJOSVpXbVhoaHMyV3hEMDZKODduY3JLQjFIbktjcEllTXYyMzNQT29IN2ZaVkhPZGdvY0NVSjlueDgxUXJ5UlFxNkpTLW9QQ2taYXV5RWN1cHljWHpEc2NTX1I0TU9nSmNKeXlXRS1JWFhRSldRbDI4eTRpU09iTkF2RldPd0NNUm1mbU5sMzDSAboBQVVfeXFMUDQ5dzNwMlMtMGZhdHhCalU5SGQ5dTdZMjNQa1k4XzFQNXZvRE1raXd0QVprR1RmdmsxZmZWMVQxaHZ1b0dGZ0h3U2lITk8teXJ5UVYwSTdQVnd0c0tVdF9CUXNFSEhZSGg3YlUwai1qaWJjaXdDVnlKYmVNbnlzREVyWjFlVk00VHRkRXd0UmNWUEFfUVp1dHFnbGhpbWpzUERqd2pvc0dLT2RPc1lVcjBWU3dEMUx1cXJn?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T10:52:29+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Cantora do Katseye faz show sentada após concussão e levanta debate sobre rotina exaustiva",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT0RTZGc1TUU5Z0lMZ0h4aXZENF8zOHBvR2pVVEdkVUsyeWU0aU14bEFGN1pBX0lhVnhBRmpKYjRIXzh0MmZzeHNHcEhKSFFMc29Vb19ILS1scXhLNDhfVWNxUVNxN001Uk5HX3pSVVBCNG5xVnZkemNNd3dHZWF6YVl1a3Mxc3cyZmJLZFhqdjBkZUo5djhHNUVOTTJNZG4zNmZESE4wNGwxaTM4LTdydEZVQTBnNnZTeDVERGRVYzc5aGFiQThXdVZ1ck8zVFd0ZTRpVzNpTmdvOGRxRFJWLTJTSlBnZ2PSAfYBQVVfeXFMUHMxZzdZZnl0cVBwcGlMdVJ6WjVlT2l0UDRRYWNUenNqRXNxZEdXQkh5dVlqdTZUdGY3VVFQLUlZYkJPc0lNQmZUOFdncmhVTzFaN0FLTW8yZm92eWJTWVVNRjVTSXNUa3ZGc2VDR0xrd3pLZnBBU1FRSFpvZ05WYnJLNEpKOXJYelR5NVJCNlZYZjNvblpJWThHU2tNMmlCcE13STZNeUFtY0ZuTHcwS1lkR25zSnNrRzFrajU1N01ocnNkY3AwazZmRUp2dGI4Y2NmNHdXUnk3WE1XMXBRR1RaOUJrWTdrS2lSaC1rQ2NXTUJoXzFB?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T10:50:48+00:00",
+      "categoria": "bemestar"
+    },
+    {
+      "titulo": "Justiça concede liberdade provisória a vigilante baleado por PM após suspeita de tentativa de assalto no Rio",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFhGRE1SRkRqUUc3bVM4dTRYUEhoOW0zY040d1BmMzN6R19QSHQxWU4wWXAyS1NLMDN6WllFZ1pGYkhUNzh3YUZVblljN0NVcDZuVUlWbHI5RGVFeW1hNFVoN2E0cVl3bWFqZ2ZvOU96Y1RyTTFlWkNGTXY1UGVfSVpad3lyb3JRN082TmZ1WVI1bnlaSlowenltdE9iYi1aakFjek5uY1Z5dVIyYlRyVDNfWmdYSlB4M1ZYN3NjOG5obDg3cDVlSnJVTUzSAdsBQVVfeXFMUHV6YTh0M3hJNEdZT251X1ZmbjBhTS1SazBJVEFkei1LQThwcXF5amwtZGdZRlVxN2tLcTZLejVlS0drUEQ2X0RjYlZBRzJWOGx4OTh5ZEJpakJ1VGllWFltNFZMdHRqa3JfSHRjdm5rTFpVN25IOHpWRnM5TDQzdU9nT2E3bXI3cUluaFktNTlKV01MOTJibTF0TnV1cWZZM1VSZVFVOFpfOWtQQW04NjY2bV9KS1pGdEVfUHF2MnQxQmpvUURvbDE5NzRObUJwWkVNazB5aE5KWWhj?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T10:47:18+00:00",
+      "categoria": "rio"
+    },
+    {
+      "titulo": "Lula aparece com voz rouca em discurso de abertura da COP31, na Turquia",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONG1ORkl6MUJiNWh3eFhWMWFCeHRKQXVfdUhzOVdYYWZlVUVnemI4aTdjNXFJUUlSTm5BeTB3MkgyU1dmTW1JR055blJQOUMxalJSSWo2dHRDWkNfb3IwbzFURVdFZkxFZG5MQVVveWFQbnVpQzRUVTFYdHA1aGRrdnNyTVBOLUpqbkdFeTAxbDJ0Rmt6TzNLUElDV3M5TWxUTmxaUjBVbVJFS2hFSzdjeVV4Tk0?oc=5",
+      "veiculo": "CNN Brasil",
+      "data": "2026-11-11T10:41:44+00:00",
+      "categoria": "mundo"
+    },
+    {
+      "titulo": "Homens relatam roubos após serem atraídos para falsos encontros por aplicativo na Zona Sudoeste do Rio",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORzFvMEVYVWlNd2haOE8yWkFnRG1ManM1M1V0NFUxZTZZemg4d0lKWkRNMHNzY3Bia1hiZ0lYTHV2X0lnWTd6NUIyODdlOVpsTXU3bWpwd01FdkQzUk9jZ282enFGeW5zUktubDdiQlBxcWxqT3M1Wjg2UmpmV01wbk55aE1PZUlrM3dGZDBQOW9IRW5uTi1ubkFmTTRtczlZMGM3OE43UjA0NmN2ZGw5WEFWNFpiMW5WYlhQOEJqNjYwMkdHaElYQzZsbUpnTzdPWEZPRGVEeVIxaXRrYnRKc0UtNHJkb0J4dm9fbHpheDFCc0dHTUVIWnN2WElGNm1Ka3FIQTNZMjBIUdIBmAJBVV95cUxQMU8wUFNXT1IwZnRqYk1GTHVKZEN2UXZ0RVpPWk1hS0ZWMk4wRlRzQnpzeTVqNlQ2RGZnS3hxc29YbWhSNmZ2aFJWQ3o0Q3BHSUtyZkNVOVp4N2F6aENmZXlLcFVqQ3BuNi1MeVZYOVB2bkZkUVViZk9CMlU5enFpcjN3d1JPLUR1anExMVdIWExEYlk5Y3hzRjctYVlHeTBRNTlCNnlMTjlDUlM3RUk2dl9JQzhYMmVFTlgweVZ6eFFnRHVKMFRwNmN4NlJzQzBnZ0wtMHB4X1NJX1htcWw0NnozZXc3bGt2VWhfVjVLalVMbUhGVHRBeHphZVRHYTBUZG5YcGQtYlRmMHR2RXRTZ0dyZzBXczYz?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-11T10:41:24+00:00",
+      "categoria": "rio"
     },
     {
       "titulo": "Covid-19: Goiás registra 25 mortes e mais de 200 casos graves da doença",
@@ -46,7 +718,7 @@
       "fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLTFGVVFLdlA5cThBREo0blNWUTZ0Q0pLNGdXUmpvM1d3OXJYQTlXLTh6Z0doc2dTRDZzcTNBTnZwZ2NLNXJQVm1TREFraTB3N2JxaHpwdjhtdEk3YzRRbmYwR09QdzUwdW1jSkhVbFlNcDZ2M0RSWEY3QTU2U2IxSmF2TU9iaGZtbkJzS19DZXdpNXRqTmRfdG1DNG5jZ0w3eWpMa05SQQ?oc=5",
       "veiculo": "CNN Brasil",
       "data": "2026-11-11T10:25:53+00:00",
-      "categoria": "brasil"
+      "categoria": "mundo"
     },
     {
       "titulo": "Resumo da novela 'Quem Ama Cuida': Diná é atropelada após confronto com Adriana",
@@ -57,20 +729,12 @@
       "categoria": "famosos"
     },
     {
-      "titulo": "São Paulo recebe festival de filmes sobre mobilidade urbana",
+      "titulo": "Escalação da Seleção: Ancelotti indica dúvidas no meio, mas esboça defesa e ataque para pegar o Japão",
       "resumo": "",
-      "fonte": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/sao-paulo-recebe-festival-de-filmes-sobre-mobilidade-urbana",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-11T10:10:00+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "Monitor do El Niño: apenas 284 municípios têm planos de contingência",
-      "resumo": "",
-      "fonte": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/monitor-do-el-nino-apenas-284-municipios-tem-planos-de-contingencia",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-11T10:08:00+00:00",
-      "categoria": "brasil"
+      "fonte": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSjZfLXY2eTBueXhlVmFkZm9FTm94amVSZE45ZE5kVHEtbDlIaTdUNVI2dVRyUGQ0OVY5ZHlBLXpQMzliZUduN1BCLWNPU1pUWTRQSmg1YjZHMFZ3dTJBMm1lTjRyb1N6SFRDTEc5Z3RjNmktbTJmdzdVc2dIZzFVMGVvaHphQjFjSmx0V0hMWnBmcE1jSTdpMFdVZXFoUU1VVU5OVW1BaEVSM2d2WkJHeFZXRmZ5R0p2ckhxT0VUOWNKVjhvb2RhN2E5bUdMekphcGhmVVlGWlExWTZ5ejFrVVFPYUJhenVkYXV4cVJpeE5MZnhjRDRIajlrX2V6bVpZV2RLVTRR0gGUAkFVX3lxTFBPM093OWhzM2hTTmZKLV9Odnd5NTFiMVJtY0NGNGU0ek5rNnZOU1kwaTc1VUVlSnpXUUxfN3d4WjhNWk91blFxby1EeUdiU1RHalkxZ0Q4UVM0YW16M0NYUGRmSFhkb19jcWdjTzhjRS0xY05Ycy1wNWxKdjhnNjRfWVpVbV9VNi1jUGFjWGg0YXEzcjN2dDFUWUx1eHMzbEIxMV9SWmxDandzcVVkUHpVUlVsT1U0eEZ5Nnp3aDYzMTBxaEE2cEpLX21XUG9Bbm1LN2RKRFQtTy1YQkdOdXJaUjdSMEloVHRRNHdFcGFIanFEbWtaOGU3V2Q1Z2NtclRYbWZ5Und0Qk40WVhYUm1pY2FIYg?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T10:02:33+00:00",
+      "categoria": "esportes"
     },
     {
       "titulo": "Patinetes elétricos compartilhados deixam de circular no Rio",
@@ -79,6 +743,14 @@
       "veiculo": "G1",
       "data": "2026-11-11T10:00:35+00:00",
       "categoria": "rio"
+    },
+    {
+      "titulo": "Guterres cobra países ricos e petrolíferas em seu último grande discurso",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zZzBZc2JHVTVpRFdrdzRIeUlNT2JzQXc3OEJGZWQ2WDNfT1NXUzNDTnBOMm00bC1KVDNQdXR6S3dqbllpYmwwbXplT3JBdHB6b1FZY1Vpd1k4cC14ckpuYXZ1TXhyZEs2NDVMNU11Zm5wbmFPNjlB?oc=5",
+      "veiculo": "CNN Brasil",
+      "data": "2026-11-11T09:56:17+00:00",
+      "categoria": "mundo"
     },
     {
       "titulo": "Prefeitura suspende circulação de patinetes elétricos compartilhados no Rio",
@@ -97,22 +769,6 @@
       "categoria": "rio"
     },
     {
-      "titulo": "PM faz operação no Complexo da Maré contra o Comando Vermelho",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdW02WFl1YjJYS3Y2WEhJWEkzVV90MVhtbnpLdmVFNDlIanVaTnB4WkJTTFJpRGVYaFEzRDFIWXhPWGFTOXE1WTBJRXpldTZNekhHUjMyX1hWQXBkZDdKa1d0dElaZWREREQyajVWbXFPbnBpMjRQcGRxamo2d0JsUVlnUjFzZG9RVUotZVBsQkNMMlcyc0pjaHRhUEVSU2F3cUVEdVIxWkY1N2NwLTlDT2ZMckZLeHhCaUI0dNIBwgFBVV95cUxQRDY5czBEM0hRZUQxcDQwWlBBY0ZrcU9hWWU1TG83cXNlc0o4ZG1zTS1HQnlHNEVNTzhRUXhKSjJmdUlOb2VLRE9ORkhnTWY0S3ZBa2pBaWdjTzQ2M0tTb3MtVzZSQkc3U1dIY1AtMDJzSUxRd2NydFlkVE5rdHoyaVhsMzZSa1lobm9UdHluTy1yR3V5Z05jOWtUTmNaWkJWbDg2YkFhWnBfMWphNWp4QlFqWDM0NUNTN3VUTVpWU2U0dw?oc=5",
-      "veiculo": "O Dia",
-      "data": "2026-11-11T09:46:00+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Receita apreende perfumes árabes falsificados no Porto do Rio",
-      "resumo": "",
-      "fonte": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/receita-apreende-perfumes-arabes-falsificados-no-porto-do-rio",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-11T09:45:00+00:00",
-      "categoria": "brasil"
-    },
-    {
       "titulo": "Neuropsicólogo ensina seis passos para reduzir tempo de conexão e melhorar qualidade de vida",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYnBMTmJUWWt1b3pzRnhWSGtwZ3NNN0NWRmQyS3lYeEEzNVNzaEI3VEg3ZVhqZjYtTnhVWTlMZHZpLVJRbzEzYWxwUl9VendHUnJyWWFydkNCMTRFSldFbzFuaW05YnlmdzhydlNGa0VMdEttVXFGSS16N3h2eFJyV2ttSmFBcGduWjc4M0ZzQ1FHWm9HRE9Zc2RFTzA1R0EwYV9oc1ZGLTM2bXR4Nnc4ajRNSk5KV1pEdU9YTnZnZ3NEeFlESFkwUEtCOTN6eWdkS0NFMlZIYnEyaUNrdTg0StIB7wFBVV95cUxQRWYweTYwekRFUUZKSkU5TE1XX0R4emRKazlPSlJlMnFPeWhLXzdYc29VX0p6QXpiRHVFZlB4WG84OFhxcUpYMm0xc3VSMWtlRnhGSnFFdVpuOEs2TERpQU5adE5XdjEzam1fY0JyYzBiLWlSa0JpX1R6NG9nVndFMnNGQlVncC1xYjdyY3hoZmF6NlpRYnZKdTB3U0E1Y3ZlbUYtbWZLSjMzVGVYQUZnbDF2cnlLZElhcHM2MVFFRzlUb09rYmpRbFFhUElzVGRhWVpzSXpuQ29CWEpReTU0Ums1alR5N05nNTBQcWNnUQ?oc=5",
@@ -121,12 +777,12 @@
       "categoria": "bemestar"
     },
     {
-      "titulo": "Começa Cúpula de Líderes na COP31; Lula vai discursar",
+      "titulo": "Começa Cúpula de Líderes na COP31, com discursos de Lula e Guterres",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hRmQzYkJFa1d0X2EzQm0wakhUejIxdUw3dFEyV2otdzFXdjEyb04yUUMyTThZODNxcHhWX2dTZ0JEVjY1UUFaQV83dmZ5MDc5OUFmbmN3elVfVXJSQUJnZXpWSjN3M0Z3eFJHa3pjZzFKUQ?oc=5",
       "veiculo": "CNN Brasil",
       "data": "2026-11-11T09:30:02+00:00",
-      "categoria": "brasil"
+      "categoria": "mundo"
     },
     {
       "titulo": "Atriz e dubladora Cidalia Castro recebe ameaça de despejo e implora por ajuda: 'Desesperada'",
@@ -137,28 +793,12 @@
       "categoria": "famosos"
     },
     {
-      "titulo": "Homem acusado de matar frentista na Zona Sudoeste do Rio se entrega à polícia",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUVNV2RJVTZ1SDNYXzMtUDRfcEIxbzNCQjJOTF9VSXNFZ0hiTkItUENsWUNUcUkwbVdEZzJkX08yTS1QRmlvbE52UXR6UHVoeW1sMElxZjNDMXkwOXJEZkE3dnhNRVNDTTZlRHFXWC1vUElWbHdFX2V1UmhOUEQybFY4RlU4N0lCaWxKZ3FHQXJYTVk0a2VYR25QNTllZGlmNGY5R3JR0gG0AUFVX3lxTFAwWGZfWHJ5bUpwanVWZGdsWDhDbUlaSjJLaWw2MWxKa0VWWnk3QUtuOGQxdFJ3UUFMSU05M1loVmljZ3c2QTlhSVJrV0ZmN1N2YkFZUW5PNHA3R3E5UjFaUDFnekNqaC1ydnlpcUVFMW5VWTdSbXRXbXhxLXFYWHVUalZyaTlRVno1b1hGZFJUam1nX0J3NUtrTXN5MjVTMkFBelZYSmFKel91T3F6d2hhNDd5YQ?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-11T09:07:57+00:00",
-      "categoria": "rio"
-    },
-    {
       "titulo": "Rússia, Ucrânia e EUA retomam negociações de paz em Abu Dhabi",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMllad3hENlJPNkVCbVo0eFRKX3M4Q2pxQjZfU183MkVUYVJqemdCalFaUGRWN2l3YncwMGpDRkc4ZWJ3Q2poVzd1WjRZQXl3VXQ3VmRtZHIycFpCOGprVENVbnA2YlNFZUpPbnlHVHhYMC15eGViRlVFVDNFaVl5WHJiQmxnNW01LVdGYldpRlEzVkZfb2U1d1JZNzN4Y2ZGNDl0WlJyWQ?oc=5",
       "veiculo": "CNN Brasil",
       "data": "2026-11-11T09:07:35+00:00",
       "categoria": "mundo"
-    },
-    {
-      "titulo": "PM faz operação contra o CV e mira tráfico e roubos de carros cargas na Maré",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmJDV19mUHpSMXBIamxlb3JHdjFLU0htbGlrOWIxU0sydTJldGtqbmpLczItYXZOSTZ6V0l4UkRYaXZRS0dhZjdub1l2WjZUTnhIajBjYzc3c0RkRVpMcnlySTdqZlowM3VGaFI3SlpSaEFod2o4ZHFtZmlmaVZGT0xDWS1OOWNwdFF5RzBhMEpNT3V2M1NoMHliOWNaZkZadGFsU2FWZ3k3SmQwUzhDYdIBvwFBVV95cUxOY3loSDNhdjAwbkZhbjFwUGdQbUlMSkFYRzVSQU1NeHdPNUJxNFBRZzdyRWZOMDkwclluMkZrUlg3cmZnOXQxajRPODJzMWMyOVRiRDFVZk55WTkzZnBCbEJsOTlnU3VEckN6UlVmTjB3SHB5VmliOS03WnpOaWFMSXJNemZUNDhiSDlMYUNSMm1sMmJiV3RUZFJtQ3IxYzc4TzdrbjVodkdHSEY1NTFPbDJROHdzNkVnMDhCakFoNA?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-11T09:06:00+00:00",
-      "categoria": "rio"
     },
     {
       "titulo": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
@@ -169,20 +809,12 @@
       "categoria": "bemestar"
     },
     {
-      "titulo": "Cleitinho ‘confundiu’ eleitores ao gravar vídeo com blusa do PT antes do 2º turno",
+      "titulo": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUlFPTEdZdXJNc1dEM3NkZWNoTXVQZWJjRjktOHBUdXBCdzFfcUtxdGNWay1JdjhNalZvZmkxdXQtbC11aXF4VDB1RThTWmFodWp1aEppS2dzcUFBZ2NReTBfWGg5SXBUbmVMQXlJTGoyRi0wYTdwc1FHV1ktMUZ3cEhUa1dRYThaYjd3SnRCQ09VZVN5bUZ4TnJRWEd2Mzk1WmRGcXpXSzlwZEVtSThyMlhxSUg1Y3BOS3NWeFBlVTZNcGV5NzJ6T2ZxVXRLbGl5NFVhdG5kX0JkUQ?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-11T08:52:45+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Free flow: prazo para quitar pedágio está no fim e governo emite alerta",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUkzME5Db1FJTFk4VFJiVFFYSi0xNEw4amtQOHRJTi1LbTJ3SEMxLU13dXZKZlBzTzZ0cVRGYXQ0S2tKR3h5T3NYdkY4ajBOOTJpZUpST3R1QVkycHFqR2VCZGdZSFhrMmRKUE1BSkQtS3Mtc3EwZ0VqcGlyQ1d0M3EyRVBTQ01oT3FOcWIwWjdodXZCVGpMT2ppcnAzdkRKM2d4NVM2UDM?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-11T08:30:51+00:00",
-      "categoria": "brasil"
+      "fonte": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xMHZqVGM4X1lVTER3SWJxcU1DV2w3Ri1qSzM5N3E3bjJuSlZEUldoNW1GNkpMRVVkRk0yZG5JYUF2SUx5dTU3cEhqOVYxaWhFWUxocWdFRmlUcVN6NTZPbktOd9IBaEFVX3lxTFBOdjBFcnV0a3dSZHk2d1A5V1Z6d0ZWcDM0MUNySkQ0TzhfbFMtRDNEZUJha0h4V3F0NGhnd0dBU25adkJEVFRVcVByb0FaNmp2aDFIbXVUODJSYUpoWW4tTEN2dnF5Szht?oc=5",
+      "veiculo": "BBC",
+      "data": "2026-11-11T08:41:28+00:00",
+      "categoria": "bemestar"
     },
     {
       "titulo": "Joia do Real revela nervosismo em treino com Mbappé: “Fiquei todo borrado”",
@@ -201,20 +833,52 @@
       "categoria": "tecnologia"
     },
     {
-      "titulo": "Empresário do ES morto no RJ enviou áudios a amigo pedindo dinheiro: 'Eu precisava passar R$ 4 mil para um cara agora'",
+      "titulo": "Ajuste fiscal sério pode aliviar pressão sobre juros",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUl8zSVhXTE5rRm94czNobEd0c1hralo1WFhibWdONG1OTVBlZkZlSzFuZjRTMGtLOWQ1VlJ5amZnaTVhTDhNRWZlUDh2TFFDN1RTQ3IxLWtDdUdfRUU3QzNVWGF4XzlTNjF0YnNQOVMtclM3NjBhZWJJY1JZc2Q1dHBSNmtkcDJVSDhiUGxHdHAxSWZpQTdsc1laQjY3Y2lpc29tUm5Id0E4UjZBbWhyak1CSWFUOEJhclFfaFMzY2lBdTN1ODB5TGdpRlFGUUNHUEtYRWhnMWJWc1pnOUVKR05fcHRRUFpEV0E3ZHZOaTdMWnhRWTRLRTZkUFVKRVpTUnF6d2Q4bTRGZHdj0gGbAkFVX3lxTE5ZazRXUWZQX1h6Tm1CODVVM0tUemtDNTFEQVZucEJZWERKcm1zOHNiRU9vVVJDeHNvUW5vZjV2dFg0cDAwbm9LR1BPckJRUGJkV3o2NlBLSnpyR04weXBwdFY2UVZ0Z1FoSGhDajlSRXI3VXVzVVRHa0dIQU9DeHgzY3RRRzJOQm9ldnMxX0VPZm8xWmM0TU00dHhqU3lrd3RjMXpGSDhRcmI5cGl1UU5SYkdFY2dzOGpNUzYwdnJkYWZac3ZOQ0dzZ1Q4U0xQUDExbGRJVVAzck83ci1kbVotV08taFBTOGlWa1RrbVRiU2RmYk5jZmQyelRaRExJSVlIRHNaMVgzeFJBZkxMVDBnc2pxSEs3aU1kOGs?oc=5",
-      "veiculo": "G1",
+      "fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTjVSbm9taDVla0JKWVdMNFBrdVlWLXZVZWd5cFk4ZFQ5MXFWTWI0eGxVd1B0QzJmd2lnSEtpUmpsdUZ2cTAxaGJiMUN5bHFFSk01WkVubkJQQXE5NEtiSW5xd3Nmend6ckhJQUh1b1laR0R6TkRTWFFtWUhXb28wQkM2UE5PMUgydzFzWDAzTmhGNVpYWFpFNGN6Ql9QUdIBrAFBVV95cUxOTUtNTVE1am9zcFIwVVJtdE5TNVhIZWJudlVEbGtnYmQyeGo5bllPeDRlSGQ0aHJNM1pkQnk5WklPMEYybUJ0OEF2YnB2N21UcGNKWkswRTFFT0d0eE9hdzBYS0FpMl9EUWdwMVdERnh2cm41SDU4VF9MZTBlTWVlaURvT3hZYWhZbmZpelVFbW5xSmZ0TGwwcC1OdDM3ZkpCYklWRVJoTVVsUnNK?oc=5",
+      "veiculo": "Valor Econômico",
       "data": "2026-11-11T08:00:02+00:00",
-      "categoria": "rio"
+      "categoria": "economia"
     },
     {
-      "titulo": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos; entenda o paradoxo",
+      "titulo": "Brasil é o 54º colocado em preparo para IA em ranking de 70 países",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSEFEUmp5YzFsSFJPRmx2anVnZmNIUno5Uk52Y3RYYTIzYWZCX0ZaVHJQU2U2N1BPdGRydmRlaURjWTlSTTFNVUVIZmlTTW5wT0dUakpqbXR5UUJyT2VMa0x6SlhjRXM1LTc0RVFFQ0NZODZINlQxMktDMXg5c1lEM0hzRUdsX1ZPMHA5bjNGd0c1Zmh2MkRrbVpFdWhpcHpHR08xU1ZIdWxqbjN1M2tTczV3UzR6ejctUTc5WnpLb1E4MW5xNDhZaVM4Nm9xSE8zWi00MlBFcTJkVmg3SDZZTEFFM0lUR1E4cnl2ZG5ZQmdhWkd20gGDAkFVX3lxTE1uNHdtT04zaGJPaUxJZUlMbnhoZ0ZtOUdTblQ2N0VkNVVJTTVZbWdUZlVGcnpQSVRZNno1N3BxOHNodkJnQTQxeGdqWkQzUUpHR3c1a1FvWWtMT0RfSFJ4WHNaRXl0RWxzYlhzbDBtanVkdk9DazRxRTdhRThvSFFYZE03OEw1TkVuVGsxSndDdDNwaWY3TmRvRHFvaDlEc2YzeDdCaTcyTTRFLXVMWTQ3Zi11T0ZLVFlXaXB3RHBDSU11bUNWeldxNFNQM1EwVm5zd3JFNkl4YVpaakZEUHN3eTdxOGo0UTctR2QxaHZWS3M0SHhqRDYydkFnTTVCa2JuYkE?oc=5",
-      "veiculo": "G1",
+      "fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlF6WktQY2pyUm10TE91U1hqVVRfSy1lbVdCX3FoXzdLTllvWG5tcXdMLW1MM2pxSWRkZW82T2RTendKZGhndlZvRFQtV2xwVzBLclBSNGM5RS1ScTFMUUlaT3dndWdjYUJyNVpvTEtzZUdFVEJvdDk2MTY4aXdJRmxMV1VmZWtRQjFSZER6SjFVY3hVbnhWOTZpQ1RORzFsRjhkYWJ3RnBZNlRBTXF2Y3JWT2pCSzI5MV9vVUJQb9IBzgFBVV95cUxPU0lET1lXVVBJakpLbm9UNXp6d0wwaXRaYXo5bXBBWVNLUmhmYld1YmlVdmNpQ1U2WnBtcUFjMjdXVFVKYlNfaGhkRjR6NUI3ZHlYSzVBZUJoRkI1YlB0Y2x2enlwN1JBNHAzZmhWbE4yekc4cWFQSWhRQ3k0TzRQLXdZOWJNbS1JYjcyaUZfeWszbmw4Zk9SLU4xOEN4RE5lb2g4THpBOTM4cE5JYzM2ZmdsTERrSllxSEN3clNkQzNFTzdwMVI0UmM3U3k0UQ?oc=5",
+      "veiculo": "Valor Econômico",
+      "data": "2026-11-11T08:00:01+00:00",
+      "categoria": "economia"
+    },
+    {
+      "titulo": "Redução de benefícios fiscais mira ‘andar de cima’ e ataca distorções",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDEtUUxsN2tHZmFRWDR2dmJmYjFXOXpNaU00M3BfMFI4Sk15MmZTVk5hZVk5WkJfZ1BPQXJTRkxpSF9BLXZWdnZYT0hJSXh2amhJTEFwMTBoMUFUQ0llSVViUVlTRGtnVE4zVmJ4MC1UTXFyd0dkSjJ0YTFqRTIxcWdmajl2dm1STGpNQ2lTYWdleWFjaXNEZnpoaDdzZVQ3SWFKVVk3QU5HTDBuUGY4SE9RLURzUzAxS3I3V0xtS0bSAc8BQVVfeXFMTWVWYVJyaGpwYzV2WFZVODk2UVRKNlQ0My1QZ0dnd3g0TEp2cWN4a1BTTFJyalYyOW9OaTRjMlhDSUFWX0QwQkZfRHNzdnVDc1hJNXUtSEQyazN6WVZPandlTlFvd0p4MkE1MEFRSU0ydUc5Ui1sTXpjdy1OT2FnZTFydHRTQ2NJRmYwMlVrSlQ4Zzg0eEthNGF2WVltN2FRNEhWU1k5aXVPUGJNU01kejdkTVFpbHFMemY0ZjFRUlRuaXVXejVadnNnaC1UYlBB?oc=5",
+      "veiculo": "Valor Econômico",
+      "data": "2026-11-11T08:00:01+00:00",
+      "categoria": "economia"
+    },
+    {
+      "titulo": "Noriega controla peso, se afirma com Renato no Grêmio e empolga peruanos",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONW1UTThoVGdMdFo2SGh0WE1tdVdveHpTTjc3djNVT2NqQ1EzbkpJOWF6eWVkSXllNW9CUm02OTFiQTRtUEFwMUVLRkxwQUstYjFSVTd5ZnU1LTMxMDhic1haWFpoNDRhM190TDYwX2lfZnR3eThKTUJlRXVJVmRoV0JmN3dOdHBUcVBkNjJzeUMwb1JmZEtsQ3BOS2VoWGYzbllLd3Q0SmVXNGY5c0RNMFZaQ1lCakI3SzVuNWFWLVVBVlpqUlJaamdjVkZiQzQ3ZUZfUmdjTzDSAecBQVVfeXFMT1BIcHoyYlpLYTdYXzExVFQ3ampDenhxb2tOS0xpa2diT3ZsaHVId1cxNGRHRnhwOHViNVpIaTZCMTFsbFpDYUxxVnRXa0tFblRwd09WRG5ISV9wRzI0V19UYnFSbDVvakxtZC02T0tQYkg0ZlM2M2hQSE16cUZfeXZUeW1oVGVLU1Rtd2dwWXFnSXo1SDlIZGtEY2lCVTF0REQxeVNyZlhsQ1BZUFRnN2RZekpLWkl2RUtzUkRiV3BWR194MmpKQ01UQWM0NnhEYmIxT0Q4aXlpaFA4VWN1SWJmTElkRkVz?oc=5",
+      "veiculo": "ge",
       "data": "2026-11-11T08:00:00+00:00",
-      "categoria": "brasil"
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Ata do Copom afasta possibilidade de elevação da Selic",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU3o2eDVCSV9mekV2a1F6bVp6ZGc1VWJXcUJPazdidlpGeW1BWVNuazluaE1CLTUwWkZvUTl1OWYyanFmSzEydElCLUpUZzRKUkc5Rmk3eGQ2ZEdJR1F6ZFp0M0JfNVl0ZzZKWUdFeGlaWjgzbFZPOU5sRXF2VzlSM0t6bFZ1UHI1bHg1NGZMY3locnE2WmNkTVo4bW04dm45TTh4NzlzbllJNGU5c0VYQlBn0gHAAUFVX3lxTE91YWNFMHVwNFM4YTRVd3hNMndvYTlrOFdJQm9KeXdqQmthT3dLd2NsVEttYXdYVWg3Y2JNWGUycnJzdVRtWmkxVy1KTkZndEhSWDlGMWd5ZE0tM0dwcFhEMF90R1Zjd3JoOUc2eUx0YzV2ZkFJaTM4VUdMdER3YmFfY3RJd2NHWEhZZW5vZ2hkakJoYnFZOWExcFNfV3c3aGFrQUV2eHFlYXA5RXlwQ0l5LURSQ0J3eS1VLXJkSGxlUQ?oc=5",
+      "veiculo": "Valor Econômico",
+      "data": "2026-11-11T08:00:00+00:00",
+      "categoria": "economia"
+    },
+    {
+      "titulo": "Projeção para o IPCA: alívio de energia e passagens e pressão de alimentos e serviços",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdTdpeFlQb1pIb3ZwNk9QVkxXc2wxQ2poY1BSUzdRTXZ4T0NGWjllWF9tcjR6NkF1dERpN1EyTkNHRlRPOEkzYmFsNUdWME1PSjV1eVRBWThvZXk3NUhTN0o5V3huYzN2TlNTRFJmVVpSQkloNnBYYVl3bGRaMG9DR2NnTkl2N21QSldv0gGQAUFVX3lxTE9rb3ZZdXJRRU9aY0lmNjdPaHZoNTZsYUZOYWNmOFlkR1NPZmZ4NGxIUDRuR0RyZWZaZDRWSGJKM0JyRTBhZGwyQTBKVmcydXZrOXd3dHA3eGFWUUZSQjBnTW1uRHJvLURrblJiWXgxVjZ2bjVkN09GcS0wcjRUczM1a25wdWFtUW4xWWU5WFItRQ?oc=5",
+      "veiculo": "InfoMoney",
+      "data": "2026-11-11T08:00:00+00:00",
+      "categoria": "economia"
     },
     {
       "titulo": "Pele negra: da visibilidade à economia",
@@ -233,22 +897,6 @@
       "categoria": "esportes"
     },
     {
-      "titulo": "Nvidia na berlinda: Gigante de IA consegue sobreviver sem Jensen Huang?",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGNRbGVWYm1UMTNwVG45bXVnNzBlRWNhd1JXNUlTTkNkLWZ6Vms3RGEwUVpONVl6OVRxZGM2ZlY5YTBHOTgzeVhwbnc2c3hXbWt0aVNKZjJYcEVVWTFmc2RaWGd3VE5pQjQzcXdlbDg1Zmp1Skp4SjFrSm1lMFNSRHcwR003cEJOblp1N0pjdWg2NHBLczJqeEcxVEU5cmZ3azVGaGFJVTlKLUVoZk1jV0pBZmhQSUs1MjJRNlREZlc?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-11T07:20:48+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "Manutenção fiscal pode prejudicar governabilidade de Lula, diz economista",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVGpXb0IwV1B3VEFDQkZSbE90UDllRnJkdElydU1Ucl9NVnB1TGNtVmdHaEljVzlBNEVIS1hWRFFTb1N6UmxCZDlYQjJlaUo1ZXl3RGtkWXdqcGRFSlZVV1JfUFpzYVZHQlVNMEpGbEZzU3BWaE5DRWJTZXhrdG51aEw1LWhhSkE3eTVJV29JdFRzMTV5NFFkMFlYb0hRcDhtNmh5MkVIc3llUU5WcHl2NkxMOXNjcXlHZjVvdHJTSXBoR2RfNnhrelVxQQ?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-11T07:20:35+00:00",
-      "categoria": "brasil"
-    },
-    {
       "titulo": "De problema de visão a 20 gols no ano: conheça o “novo Haaland” uruguaio",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ05DUjdXcjk4NEFJRl9mOW1PR0doRUM0MGwwendwTURsdHNNdXFzSkMyaHUzMTNoRWZhYmsteGJ3OUNHLWg4Zjhwc1ZYbXdKUnZ4WUNCcHdObWtjZ1VnLW1aMlFiYy02NDdIald3ckpLM1ZXR2N1TkFfM3FMeDVVU1R3QXBGTHBQTFowTjZkQnlvYjJBTC05R19vUUZRNXpLN2hQRnFrVDN3SEpuRmFyMFhqeFF1NFdBV01MWHA3bDlJRFVJVkNhSUZVTHFTNHRVRFJubnY0azIxSXZXNFHSAewBQVVfeXFMTjlVc2MtV0dLUVBMYUVyU3lyQ09wVGxOR0M2aXptbVF6V1NSem91NEp6cmMyWkg4UldOSTVsTTJEQ0pDV1Q4RkthNExSa1lGVFo4MlczMm1jQnVvU1VQNElheFltOXlRZnpOSERRNTRobDIyWVdVeU5jMHFPX3hqVHFMdkFVV2s3TEZNT1pHRC1EWDhOdzJwbUdSQUVJQlhCWl9uZTlhU1hjRGVJTkhWUFVRb3BQVFJFM0wzN0MzczVFdFF5bkFVMkF5RHBfT3FhZV9GYXFNZjBwdWZKTmR4LXZFVU9aRnVXQXpVUDc?oc=5",
@@ -257,76 +905,60 @@
       "categoria": "esportes"
     },
     {
-      "titulo": "Lula quer ministros de volta ao Senado já para conter força do PL",
+      "titulo": "Novo presidente do America, Romarinho namora nutricionista; conheça nora de Romário",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcTRRYnpENVRGbnZ6Ym8zTDllZTMyZmpXSVptYW5jUzhseEpPbmd4ODhqYkNmNXBYSG01NEhfRng1TVUtdEpBVHZselFzbGtFREZNa1JjREVqNkpRZHVmbUJjelRFajBfS3NXdE9PZHYwVWhpT29sakE2cDdTZVRHcDFwbnpsVkt4QTdvd2pTckRBSkZfZjNHeHBLTmZBaE1UNUxNT0FRaw?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-11T07:10:25+00:00",
-      "categoria": "brasil"
+      "fonte": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS3lkbWpnRm5MVGlzZ0J4UjlibHhUcXBBaktXUVhtN1BpM1BQOXkyUEFPdTU2VW9TT2R5QkQ1RG12bTNYbTlqQmRwemJBcmdWR3NMem1UNUEyYWUwOExQOWI1R0ZQMFpTWWNKNlR5VW9vYkVFX2VpY1kzRTFOajBFWU9Nd2E2N284RU9YWW90YWlBTWN6TUZSaExmd05LcnlGX1V4TTF0X1NIQjZIY0FrVGtQYW5FLXNVNkMxd21kMXFvOTVPUXN0cWNSeTY5eV82RTlmWnpLSWEya2RYdEdJ0gHfAUFVX3lxTE9LeWRtamdGbkxUaXNnQnhSOWJseFRxcEFqS1dRWG03UGkzUFA5eTJQQU91NTZVb1NPZHlCRDVEbXZtM1htOWpCZHB6YkFyZ1ZHc0x6bVQ1QTJhZTA4TFA5YjVHRlAwWlNZY0o2VHlVb29iRUVfZWljWTNFMU5qMEVZT013YTY3bzhFT1hZb3RhaUFNY3pNRlJoTGZ3TktyeUZfVXhNMXRfU0hCNkhjQWtUa1BhbkUtc1U2QzF3bWQxcW85NU9Rc3RxY1J5Njl5XzZFOWZaektJYTJrZFh0R0k?oc=5",
+      "veiculo": "Extra online",
+      "data": "2026-11-11T07:09:01+00:00",
+      "categoria": "famosos"
     },
     {
-      "titulo": "Alas do PT disputam 7 ministérios de Lula 4 enquanto Centrão negocia cargos",
+      "titulo": "Gómez é alvo de sondagens da Europa; entenda a situação do atacante do Vasco",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODFnbEV6WVlBUEZEN0huRnRuZ05ndi1vVlJ6U3BIa05QV2JDYjIzRFp4aGMyMlVwbFlfZWVPUEwxWHVIbEVySTN1azhCclhXNHI2ajk4dU5FbVVnQXZjX0NkcUNIcDFvZ0xXZVc3U0MteVduLUJ5Y005ZUlRVGt2N2Q0VHNrbmhXOHlRRGtpWlNoVS12eWtfSHdMZmdreDk3SXI4YllRZDJEQVVzQXNMdmZjbFA?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-11T07:05:22+00:00",
-      "categoria": "brasil"
+      "fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT0xrNnVCaXFmazdZbmZhMUlzV1BrXzJta25Rcm9zY1hTTkp6TFlWWE05bG1xVTBxRFdIV2dEZE8yQXZnU09hVDBaOG5GQTVmX25lN19OZ0c5YWRyUWpKZHZaSExtMHBqSHVNWlpaSnl4d21Sa1QzRElZWXhSRVR3dzc1R1ZlanhvRmhCZC1xZ0c5VE5Ob2pCTUJFTVVRbTdJb2E2d2kxdzI4ekJjUnNYOUxFMWxQWVBrT3dQSFJoV3NSQkZKdnhwU1JYYjE5VmFPQ2t6ZF9nZ3TSAecBQVVfeXFMTWx0UzhKOEZPUGx4TFd2N1VZZm50TmR4Rl93Qmx2bXdWZHVpdEdWenVvczA0clA0dGFPUXpuSDNmMDc2SU9zY0xJdlZ4YzFqYVNpcm0tc1JiRFlFQkJqQkNBVHpoRHlTSk53aG1rOEl5NEpmMkJST1FmODZiWERBdmVyUlNLWGt5cExyNjdXY3BmT2x0NWhLbGRJeHNxczk3d1JQbEtOM0hwcTNnVHBrMlpoXy1TZkZwM1lWbEZDclJZUk1XRnVmQ1hPV2c2dzJRd2FDYmV0b0ttSWJKMzIwRkN4Z0x2NVpr?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T07:00:01+00:00",
+      "categoria": "esportes"
     },
     {
-      "titulo": "Goleira influencer de time de Beckham anuncia saída após episódio polêmico; entenda",
+      "titulo": "Santos abre conversas para renovar com Everton Cebolinha",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT05YNEF1OUxHR0N2QnVtLXNBVlUyalp5RWo0c3h5VWlWczFVMWk4VkxrU3NHV1p0WXdiVnNzQzdwSDFUcHBXSU1nbFdhOHNjQmpiempvQmJWMF9YS2FTVlRiOFFTcjN3OWZtR0pjVjlsa1B6Z1U5SkpaX3JGYTJLNWZaMmx5dWVxWjRMTWNSWllLb2wyZWF5OXF0QkZvU0F6RVNmVHN4QkdjVW5OTkNJSDFOOVNfX1JTa3dvWXMxNUdCdS1sRDVCVThMMlNLY0VSTzJFWjdUZ0had9IB6AFBVV95cUxPWW5OZldzcjRheFVBeEllQzZ1TE5lemtBbGNBZWRCN3VXaDFiT2ExSjFxZ0UxaS1tczhkN1o4anB2cjNiclRVTV96YXV2Tzltdy1CUXhaMTJwa1VnWDl2VjVTUUFpWlVscUNqTHR5Ny04bE5fMHl3S1lZNl9kUzRPWkJHazVOT0huQ0swLWVNbnV3akhUVkRSdkg2SlN6bHNMS1d3ZVkxSWtJUjRTTFprRUxrOTRPXzdheXpWbEl3X2Z0X0lEYm9RNFBZR0lnWmhySzVIMm5tNk1SUlduSHRnaUN1VFl3Ymsx?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T07:00:01+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Fluminense prevê área de circulação pública na reforma de Laranjeiras e retrofit do CT; veja imagens do projeto",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdll5V05OeFBsZFkyeXVBM29kdjJtdXg5V2RzOXYwUzB6NDdfZjRLc0V2VzFwdDkwM0kxQlFuNnI5ZWotbVlTUGZOSEp4eFdKdUdoRjJyd016TFBlMHFfSWFDdGRCekxYbko1cVZJOGlMTUxoaGJnV25qN3Q2UFFXaEd0NW5wWkxSUDNBUnA0UkRueENpV3pqM3JCOWZ4dlNxVWJyU0d3V24yQkFZTXZqeE1vX2RleVJCSG4xTlVWNmVObmluTVdnS3FTVTU4M3AzR3psNUFUdzFyNWs3SU04WWs4WXpJWVltZmRheFp2dWV3R29EZzBEcmlvSDkwcmVMWDdzTF9XRWtvb0gyS2fSAZwCQVVfeXFMUHpSMGVaRl95WUltYnZzZUI1OC14a2thc29QVjZhNjRadUNiLVVFd28zaGpGRzhGclpOZllENlF2WU5hR1RGRjRVbzV3Um9DamxNUEYwZ2xmT2pFWGF2Rml3WVl6dWdJeWp5RVA3OVB6R0lBbnBnWG1TNzhtbVpCLXhVVTIwQkpQTHJRTXBDMXVVTEhMbl9GRHdVeDVZYTBGWE4tbzVMMTRSM1lvaEIxNjVuaUZMRVd0eGxuWXMtQWlrWlZlbU9weHRLSFNEb21FSHJsZGRnY3ZubS1qYTBVemkwdVEtQWhaWXRCRkdkcDU0ZXhhUDlFMXlscG85eVcwdldZY0tuUU9vYjg5UFVhZjNrVTM5WFFRNWR4dlQ?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T07:00:01+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "São Paulo tem 12 jogadores em último ano de sub-20; oito nunca foram chamados pelo profissional",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZjNLOWZIMmtRZ3FaUDltT09kamVHQWhuSmVjRy0wazNxT0M2ZXhmV00xQUVNV19HMlo0VVdDejRmNG10M0lnZDFULVdKMUV0b2dfM0RtSVZyQnhDSV9JSm9zaExyOEVqcFNNRmZjVHBRT2RUNEhZcGtQVEdXTkZqc1REVFY3bHIycS1EUnlHTk1LUHZmQmk3d1YwckJkeTNab09zQXpMaEVqQUxMX1NHXzVzTWNtS2NJU1h5bkhLNE84U2NjZFdfYUVBbHFrOFdXbERIZWxtUlI5VWxhVzQ2OG4xaFRFYV9WdFRLOGE0cV9OYUU2dE1n0gGGAkFVX3lxTFBmRjJURXpROEJrRXQzUlZyVld3b054NGtadnVRT2JaOWhoN2lzUmZhV0k2T3hqOWNvV2tiaHdLVmdEcklBRUlaQjQyOW1BWVBxNmpXRXNhTjd1WE9rUUVNcXRfaS1VU3k2OFBaVllmakIySVhNaGZId2dsVm56YUJzQXl0SWJMcnlpUWdKcXVEWUlrUUhueGM1SmZmbXpmc0YyazdJZHZXV2d5ZlBRWThNX255U2toR3RqalRMMDQxVGF5UElvb3JMSlBIaU5QV2pUTlBMT0JsaVFBMUFzNmxndG53X2VTcHlldFRTZnJaYUJKUVhfSDRvaldYa3RUSXl2V3hmM1E?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T07:00:00+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Entenda o plano de Seedorf para recuperar o protagonismo de Memphis no Corinthians",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLWIxZnRGZExSOTV1OF9ZQTN4MjBsNjBxYTIxZHRLWUVNVG1XZjlPOHBLOG5xZDlRN1F4UXA0eU1rcWhoWUFyWmdzblFMUV9DZHVMR0QtOW1GTEppeW5nZTFSTGt5Zlh3eWVpeWFnUTZTS25BUGpQc1pVUGd6QkRGVi0tNTFlYkNwcUtEZ3Nxam1tSjF6Vnp1NmZUbFZxZng4aVFPWFFnQThfbjlXQUc4MEczVmJNNEhGdHZOVTdyNWNxUzdYZUpZZ2JjcWpBOGtaM1BQMjhLWTFrV0l2OG5xR3ZHOWFyMG1PeVHSAfgBQVVfeXFMTmxaWHJaMjYxdGtFc2RsNHFxZW9iV09XZXpnZkZuOWxicFViZlhNSmtBX1ZkQTY3WGdiYUdELWNjeWl0YThtX3FmZXYzNVNaSWc1aG5xUWJfVWc4cF9yS1BDNk5CdVlpaklsdDZiSWZlcGlEajh6LUgxdlJudTNVSkIxcVNLbzNzU0UxdmJnNVp1elJma3R1LVhBTE9Ub3ZpVmRIanBmMUd4c0tqUmVndkxBRVFpM2x6OUZDNzFTb0JYVjVJNmlUbUszNEV6WUxpX05meTd0TDZiR0Z4WktRWU9yYldhaFNCOE05QTI5TEx5ZTJxTkgtY2k?oc=5",
+      "veiculo": "ge",
+      "data": "2026-11-11T07:00:00+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Goleira influencer anuncia saída de time de Beckham",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVlVwWEtHRmo0eFNpU01fU3o3SWxwZFY2U0FzNjRBcmdyRFE5TnhxOFE4dFNPYzZ1SG9ObHdHeDJCcXVLYmozT1ZQRWM4eWZEZm01WXcyMzRTcU16bFM5SHVaOWVaNnI3bVFUeHVuTU42UjdRb0FZQ3ZhTVlILTVPWXd6SUxRaVRpZS1EQXktWERndVp0cGpEcTVhcmhCRWFfNmNTcFYtVFJWWVd0TTVmeER2TjYzM1dlRmFHcFRHT3JtY3hoWmE4TVNLbm5Wb0x5UF9qRUJ5WXQ2THlNRWFsSUdaUWpUdXFQdzU1T2530gH8AUFVX3lxTFBlQUI5d1hUcjR5aVZHVVhXLXVacjBGRFpJQUFrS25tTHYyQl84OXk3aHlzd3Nzd1FwQ0RDV1dxMkkxOUlqYmdLLXgwbl9zYmljempuN1BOeHhMYVlsVWxnT2FjQmJLM3FmNnMwN3o2dTBnTVZET2U5d2J2eHEtMXp0UEtLNklEcDNVc1VLWTh5R0pnVXd2MFhGc00xckpWSHZic180VnRyZ2dYNFFWQXp2YUhfWjdRR0FPQW00el80LUE3bTVlcmlwTkpmelp2YmwtMjB1eUdubEF1RUhpUURzVTk0QWZTdzRZaU81dVU1NlF5XzRIajl6TlZsbg?oc=5",
       "veiculo": "ge",
       "data": "2026-11-11T06:57:52+00:00",
       "categoria": "esportes"
-    },
-    {
-      "titulo": "Irã classifica forças aéreas e navais da Argentina como terroristas",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeE9IVm5SM1d4TloyY0xFTmNYNUh0N2ZzMi1vMVBZUFV5ZnZocTBFb3hQeTY3MkloT0ZSSEVrcEZYLTlHWjZRMlBocDZlcTdQQjRzU0EzdEl6OExrd3ZZTENJaDU5NjltU25qWVlVWUdzX0UzajhxS2lTeEhQeE9lamtVdWtCemdDMGZQYW5SQm1tWDR4blNySnctczB5cEZvS1NWMlhBOFdaN3pnQ3NZSQ?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-11T06:37:32+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "PF vê ala bolsonarista tentando ocupar órgão; delegados negam",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEwxb0N1YkVwY2x0RzE1QTN3MlBnVzU2a3RSWkdiellrajUwUzN0YXVXVDFKVDFpLXJWZnZfb2FOSDc1T0lvZHRBRGY5RV9vaFJNUzhGV0Z0MEJnNEpJVXFfMjk5dWxhYTFjRE9Ob0tINU4xUEVaQ002RGJDWkFaRlMwWkJwRWlhQ3A0WjdpYjJmaGlCOVlUQlMzVk9lMnZHWTlvbU4tQ1BYTlNVWFRTYjU0czJPSlBpZ3h5bA?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-11T06:25:21+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "Governo pesa a favor de Alcolumbre, mas oposição mira romper tabu no Senado",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdExHWlBfNG5OVXZQcWs0T3l3UnpTZmhkb0dNVjh1VjZDRExldW9PUURJbjU3UDlZVm95bW13S2M2bEVpcmNoLUtId0RfS0FSS0lUanE2eFVneVdnRHczcTdDV01fT0N3dU82UTJJQ2dNNU1QTXQzUXZGUDlBZ0tsRTJOc3V6TmtVOWdiekZKRVBJTUNZa1BIMEg4QTVFdw?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-11T06:00:46+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "Opinião | Legado do trumpismo e relações Brasil-EUA",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0ctNTRsU0ZzTXRIblo1VXRGc0RhaWV6N1h0ZEx0NGJVc2l4cnhMUVhHVDVBMW82aEIydEg4QXVNcmRUalNQdjFtejlSdTdGSWJwUk55SjdrVlZWRmQyR3dNNldEbkkzR3ZEU3Bld1ZCUmlNQ0tZV3EyWkdreE9ZWFBoYnFXcUFrTFdmMmxSeVBGODBfa1E?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-11T06:00:00+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Crise no Paraguai impacta futebol e pode provocar prejuízo de R$ 55 milhões a jogadores da seleção",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX1lHWlUwc1FhbHNTMnB1N0d6X2Jock15WlFFbXlneUpGUnFaazVYampfeFNDdmtYZ3lpVDZ2TlU3cUMzUFVoWE1DeU9CYlZJM0tHZUVoQ1VHYnFYVmF4SU5FNDAweUdkUDU4bHMtYlZtakFyMnZsR2pBcnAzeWpVN3F6aWJMOGQ2SkJnaWZ6d2hzMV85amNYNWIwYVJRajdSbkFQM3dKTndCWThTVm9FcmRIU1I2QV9IWmtXVW92LUZxWmFQRC04QlBEelFKY0ctZXIzbjkyVWhLOEx5bVI5ZGMtUGUxaFUzZ0Y3YkhNZXFxdFpvUW15T0lxZ05KSWFXTmhv0gGSAkFVX3lxTFBUeWRZY1BfTEpTeUhqS1NPNnp4bnliWXVYXy10MHFhRWhNY0JORHEyMmV2WXBoc0o3QnJVaHZpSTZOV3Q5c3ROZ3lSR0pGdVhhM09haDJOa3JTVWlTblBoOEg1RDJLMWVlWlktaWxTaEd1ak9LUGRIQXc1QVExSmwwS2FBVTNTOFJKVXA3MGt6dEpkQ0FBOHpIYWtEQldlNDVHLUpiSENudTN0Q19QMU1VVE56ZGNMTWdtRHhiUDVqc3FyT094LWlJdlR5MUVjVnhjVVkwQ2pkUXVSeTJJR1R5TFk3a2ZaWTlWZUR0cjJvbHB4UC10bUFsOTFUdkhUWHliVEM0enVSUEhWR3dUX3FPcmc?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-11T06:00:00+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "Filha de exilados banida do Brasil aos 3 anos durante a ditadura será indenizada em R$ 100 mil, decide Justiça",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFliZ1kxQ0NHMUZfZTI2eENqQVdhQmlUMXZOSEVvU3lmOGxKb1YxNlpnSkRyRGNxaGo3ZFdyQ3ZIQnhsb3ZFUXpoNkRhY3JtS1J1eU1FOFZUUjRzSEJEM3dlZ3lLNDhjX0ctamtGeWNlZG5fSm54U2t0anZ5aXFEeE81WjlSUmpmMGVOMjE3SVFLcGcxTmFwVFhFY1c1LW8zNGhENG9VenFXWU9WRGxWTTVYYk5ocGg1NGo0dGMxUXZrMzRkWFo0TUdqTHRYeWtkcjdr0gHiAUFVX3lxTE1sOFkwNWhMbG9MRWdya291aEJuUDRvUFRCMk85M0lfRmtOUENYUmtSMDlpbml6aWFKRGFKSkxfZGhXa1Iwb2FYT3VYdlBKVEFGTUYxaXplelpSTHdUX0lLZXJ2bXhvWlE4RVZVbVVjSHlLNUNNU2xxcXZSOXVtZDVPWFd6VHpGcGRsMGtoLVF0SGhMeklsNW5rMDZ1dXdMVHBxUk0zaDYxQlNiMFRrdVFQdXFaNGJfajFpcl9yVzZBNkR3LVBUVFBvalE0Q0d1eUVodjFFUXB6UHpqYzBqbko5c0E?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-11T04:00:00+00:00",
-      "categoria": "brasil"
     },
     {
       "titulo": "Carro invade calçada, atropela pedestres e deixa três mortos em Los Angeles",
@@ -335,22 +967,6 @@
       "veiculo": "CNN Brasil",
       "data": "2026-11-11T03:59:31+00:00",
       "categoria": "mundo"
-    },
-    {
-      "titulo": "Obras em Maricá abrem nove mil empregos e trazem qualidade para moradores",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaWdXcW42bHdwTEg4c2E1ZFdpS2lDZ0w1MkRwV1hZUzVWdURvWl90S0NGdmllRHJTUmtQQ19Dbksyd004ZEZWcWliRmF2Zms1cGM3OTd0UklYMnhDZE11M3RMR2FQRUhxZ0xsMUhFbUlsQTZUaHNsUWl3QUg3WmcybkxTbUFacmg1U3NTcnZ6eVlFRVZJanA4eVNjbzNkeW85TW0tMW1td2tCMFRrV1Y4d1NycEIxZDZpbW5fRDVHS1JwU2tSRzlWM1BxU0LSAdIBQVVfeXFMTjlCSzFlTTc0bE80TFU2aHJkeE54RzVyR05ySFFUamdSQno4bVM4TXRzdWUyN0tBYjZRMTBsYWpZTXBYQldXbEVfVDNXVjhwNDAxRUJlSmgtOW55MWloUThva3BsODYxNGJNOWptcFI5VDR0T1gySFdXZlg2dFppY01PYk42V19aT1VYaWF5ZTB1bDdrckh4VGVsbUlFYlBvT2ZaZXhHQ3JQLV9teUhsQmlPM2FoVF9CSF9NUGhmZGpkQnB5a1BwTkcyR3l1bFppeFlR?oc=5",
-      "veiculo": "O Dia",
-      "data": "2026-11-11T03:00:00+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Cuiabá 2 x 0 Chapada | Copa Federação Mato-Grossense de Futebol: melhores momentos",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmpTendJN0NBVHBiNkotVUdibmdiZkJVcld5d0FpLTgxQkk1NmRjZVdYRG1SLXQ5WFdBRlRZNkVBMktxMDZTMGxYYjV1OHFMczlFYzlldDJsNWZ6Wmc2VUdPMGw0bnZ3Y1RvX2xTX2k0Y19SRDdGekVVNzRZQlJTajBOTQ?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-11T02:57:35+00:00",
-      "categoria": "esportes"
     },
     {
       "titulo": "Pré-estreia da nova temporada de 'Arcanjo Renegado' reúne famosos",
@@ -369,52 +985,12 @@
       "categoria": "mundo"
     },
     {
-      "titulo": "Vice-prefeito Mello Araújo aponta irregularidades na Virada Esportiva e pede investigação do MP",
+      "titulo": "Família Kennedy entra com processo para impedir \"Arco do Triunfo\" de Trump",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbXZoeUZmVHJIU1QyMWxkVTdhRjA4X1I3Z1pKLXpkNDlodU56UWFMTTJwZFQtaUlIaGM3bDQ4TTRLMmZxVFlpVnM4amVMNkc4NmxycXo3X3dJS2Z5VHF5b3NhTnZ5RTdNWmF4YktrbC1rSkI5Wi1peTh2a0VrT1RfSlR6LVJ6QU5CaHZnWDFmU1V1MFc2ZWJQbl9xVWVack5Oa285TTc4VlJTMFkzWkg5dm5yTVNlOUpUNUpPRWltcFJEUWJ1ZV9MQ3ljUjFLXzJVMUxRWnNpNA?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-11T01:59:17+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Vice-prefeito Mello Araújo aponta irregularidades na Virada Esportiva e pede investigação do MP",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRG1yWXlDdm5DTFFhUmkxbFJRMXlRUkp2R2FiTHBXS2xlMS1YZ2FqRC1lY04wM1lEclJNZ2FzMTFyYkdKdExGQnR5MktyeHFmT1NqVC05UXBkWmdsLTZvMkNLZ1Y0WlFKM3RzRHkwemU1Yjg2alhJNFB4dWZiZ0t6cXBwNDdnbWpYQVBVVDBZVG9yV0VPX1JGVDFpc3ZBQk5kYl9WVkRJNlpHWExQUlphR0V4OWxzZk9Gdl8xVnVUZjZaOHFEVnl6YTZfY1rSAdIBQVVfeXFMT05DbDJQUFVsTUlKQVQ3cmtEREpZT3Y2T253d25Md3c5VlNNMTdNeW53a3d6NEdnWlZadzdhR0NINWNEMVN0RTJPVGE3VzBxa3RXZ3NILTF2aVJxNUNydGtjcFlRaWRKZ01nam9yV1Y5Vnp2Slk3TkhGTURSR1ViZnJnY0huZmRyMjZBTWZVbmJKM3dzU1Zla0tQZGZxN28xNmpIcTROOW1GZ1E3UGxwc2tsai11eEl3N2JOclBfVGw4aGliUldxNnU5WG9QcUhzcVhR?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-11T01:56:29+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições",
-      "resumo": "",
-      "fonte": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/tse-multa-meta-em-r-75-milhoes-por-descumprir-decisao-nas-eleicoes",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-11T01:56:00+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmN2dEhPOVJvRUl4U1k5LU9HSGE5WHdNRUVrY1NTcUVBOWlKSHhNc19kZmExVElUQWdtUmpIclZfRXhPWWVfR0lieUwxSVFROUI3Qjh2Q2dqWXpBTG5fc0xfckVUVkV0WEx1c3V1WEV5QjZibDRoNGVFTFUtSE45NWFXMUxPNDFNeGcyYURNYXBZMTZ1dUZweDhJTUdVUEM3OE54ckFFSHhORU5tTU1HNzhmWXlibEdvYUJEa1VOWGo?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-11T01:56:00+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "Vojvoda aceita não receber salário e volta ao Fortaleza, que busca o acesso",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnZlT0doWUN2Q0V0YlB0UklaRlVHcGhOWTRBVHVrNVlKeVV2QkN3OGhhRkVoNmhLMGFJQ21UZzNYV0N4NnphSlA2X3BUX1hydlhFelI5QjFCMURfMGpSNmVUMnpwNGx3elhuVkhqektuWmlBRFhub2dhUGdjOTY2Z2lWTmxvZW1rUFROaTZmRzczVEU5MHJ1WTU5Y1VTbWpzNGZueGRtUXQ0eXZYbjJYcVpWVkNNZU90RnVNeUZCb2lwSG1jekhTMVRGMA?oc=5",
+      "fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUmpFOUktTlV5dUthRmtzZHZOZ1V3TDVfLWhMNDRvbUJrYVNTcHljekNYcHZ5RXp2ZHJyXzlsUUVYbnRWUlhqMTBEeksxOFhJeUlDalBROGdrUWZ5MV9tdEdQODlWdk0tTnJtUTE4X1o2cU1kYlJLS3I1blR5VEFJaEdIRUdJOTlBcmVfTTZ6eEc3ZHVNM0RqNGR6eEZIdWZBdU5lanVxbGVpU09NLVN5clNBbW04M1E?oc=5",
       "veiculo": "CNN Brasil",
-      "data": "2026-11-11T01:46:11+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "Bolsonaro é líder da direita mesmo após perder eleição, diz Marinho à CNN",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWlpxZTBWLUNiSU01NFpGUjhhRWFheVdyQ0FrdXo0WGFDbVFfRk5ZbzdPREo4TkhHcG9YdE5pQklRZEhTZzNPSF9DOGFTY3d0SmRvZ3FXelZBMG56aW9aRl9NOGMzTXJnbnN4dmN3VnktZ2wxTENlTXlWVXZCMWpqWEExbU01TWF3YnNqS3Q4RGIyRDM5MDBqZg?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-11T01:40:24+00:00",
-      "categoria": "brasil"
+      "data": "2026-11-11T01:37:20+00:00",
+      "categoria": "mundo"
     },
     {
       "titulo": "Quem Ama Cuida: Diná descobre que está sendo investigada",
@@ -425,60 +1001,12 @@
       "categoria": "famosos"
     },
     {
-      "titulo": "Goleira do Palmeiras se emociona com convocação do Brasil: \"Foram meses de dor, lágrimas, medo\"",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcWxranZscEhCSHhZYk9kR25WQ1RVZ1JZeTV2ZHQyYjI2UUdERi1SbDlibFlPekRncl9QOEZlZm1kWVJneFB0dXlReUVkVXRfNGQ0YVBCbTA5SlVsNllEalA0UUpuZ2RSSHVIMXFMdGZkVzlPdFA3RTZjQ1JSN0IwZzlCc1A2N2QyZmwzcVQtM1BPU0tUNHRTWVhfbWRBS3dQenFTMjk5LXlyUE9OR3FoQXNvNDZ0c0k1cWdlMUwzUmJ5aVo3M1NUOHpuY2hHMlVxaTVCYV9rNENfUUlweHFrNDVRTmhVTFdINmpLZTdYMXlNZ9IBgAJBVV95cUxNYnZUcS00VzdXbjY5VEQ0S0pxTDNuSmhYbHdwUGVrc2NoLTVxVTdBdnl3MHlWZHczcFd0c0JmRlFNU0REYkR0NXpwbkdHV0JGTzBpMXFwZ2VsMUt3Y2Z2VVNPeEJqMjVITmZBZFF4NFZmdW9YWFNwSE1meUE5WGF1VnRQWTZ2X2NZR1ZuSTRpQ254V1lEM0hzVzFTU2V5ZDNURU5MUzFEQXc5X3N6bllYVXVFcUtILTZWT1E3RGFyVjhCUkFaSTBSOEFtRkZpdXF4S05lajV5YkU0Ykc4Y1pNeHNGZTktd05OQ085RGhfOTJwR0VHTWdHdkhKV1BURVFu?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-11T01:29:35+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "Velejador americano é resgatado pela Marinha a 1,6 mil km da costa do RJ",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNjFRaVFuRS13VDVxaW03TGpseU9DMVhybDdWYlUxWV9TcF9nMUE5czhPVkRFWWp5bHNtaERGRmhBQUJSVG1Bc0FCV0ZuLUNENzRlaW1LV0ZPcnY0MHgxSXp2aXptSGM0elp2YXZTN3NNdWFPMUNRcER3ZVFRek1MdXI3bkVkMzhHblBnY2NobkxDMzJKSnU1YlRWeHNwNW9jMnVYczkzZDhnT1A1UHFYT0lVekE3MFphSW1XeU1ESk9xUk9qajBVWk44QdIB2gFBVV95cUxNd0pTZGZ2S2VNajBfeU45WGZxRG5QMVdSa1I3bHB2Um13MTlOcmZhU0FPZ2F1c0hicFVpcUFpeWN5MjVRUkxtTUVWWGRYRWlNLTJRYXJBSF9IbTZLbXAyRkRMcGo5QUl3MGdDRTRYaFdNeWduVmlIM29QUUlaUHNQXzJ3MEwtOE85cGJ3bjJFYjF0d04tbDR5TjJsVm9QdlZsLWtqR3hnOVB5Q1MxVVJHRmVQcEtNenQyYjZNalZwUlZHTEZYWEQ2aTVSbnpqWUpKSDZZTHQ3M1poZw?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-11T01:13:59+00:00",
-      "categoria": "rio"
-    },
-    {
       "titulo": "Justiça proíbe programa da Uber que faz motorista pagar para conseguir passageiros",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaHBuLUVkTl96X1NVaWVuWmZFMGYzOVZXZzhrMnhha1ZWZmt5T1AtRG5rU2lWUjEzZG5rTk45bmRnZnJRU3hha1ZlSVdrUWhMRjh2YlZ0bEI4aW1OQkppOFhNcl9CYVlRU051Tm5qbzJKSkluckdNY2QybU1DazZKSGJlLVFRc3drc0M2NlFXaGt0V2h3SEZSeW9neVVmcUxzNmFBbFBzNHdsZWt0ZmhQdmI5U01pQ1pjTXhfR2tuVUpPTVhhWnhCVllKNUEtMHZlMG9rX2JlZTMzQQ?oc=5",
       "veiculo": "Olhar Digital",
       "data": "2026-11-11T01:13:00+00:00",
       "categoria": "tecnologia"
-    },
-    {
-      "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir decisões de isonomia entre Lula e Flávio",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYktlOFQ2YnpsT3hrRThwVUFkU0RMWTM0T1piUWdmTkxmUVRzbWtLYVZWaGxReU5jWmE0QW5tZGZYdXRUOXNOSVRiTzc3d0R6T1JFS0hic3lGdHRXZW9acnJGcG5rVzR1am90SjRaV2lEOG00UElMMGtOWFdCYTAyZU5KWUwwbGQ1V2ZlNDZQZktyT2xPbzN3X2w4aWNfVmhwS0NxOUk5UXd6MFAwTEQtag?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-11T01:07:25+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Vice do Palmeiras diz que clube sofre perseguição e detona calendário",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaHowMHZMTlA5Z0JVb1NqUURaR3B4NWdUYjNDSWxPS2ZYMVdndHdyUHFBbnY4elBUZjNFNFVrdURZazd4NXNSbzlYcE44MmM2eUVkQUhMdkFxX2pDeXNwV0xIcThDbDI5SVRJeWJVTWdGcmFjV1hIVGxSME5XeHhoaDc2RFRlcGlaOXYzY3d4dEVfaW5xWjB5R0dER2F6X04ycUUxYlBlUnRGNjREdlpyVkNIZTVNbWhSU29IcnZCYWlxMHE2SXlSR0VvVUFOMGprc1VQdTRoQUtvMnNVU0gwY2RSc0k5UmMzLWxJTzk0OF9jUWlqalRuMzVaaVNHMzV1VFBLSGtWSGMwN1Na?oc=5",
-      "veiculo": "ESPN Brasil",
-      "data": "2026-11-11T01:03:29+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir decisões de isonomia entre Lula e Flávio",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNTlyQVQ4YkJ6S084WFRiekIzRzV5OGpfTUhTY3lqekhhTDFobEF4WEdUUGVVUnJPYk1ZRno0d2xYcGplYVJRYU51MU5GSHZDam0taEZvMEJDVjlodEdwY0l2TGRTNGlXUzloV2pWT0kzaEdHa1ZNWjlBWS1xQXowNW1xeWUyY1JkZUFsQ09QZmdISUhIa243OW1jRWwyTTBUVVJ3NVNR0gGrAUFVX3lxTFBhY1REdmdXYmNxR1B1S19vc3oyWkZwM0pmdTc4bThtTGNnOVhfVnhlZEtDWWlVdXpWbmc3Sy1tb004RXkwNXY2TUhGSE9CMmpFSU9HdHo4bVJwN09iY3NDT3B0cGFuQm9VMTdJeUI0YVFFMlJ1bTU3Sy1UOUZvMmswU0JaWXd1Y2J5eUFlVWZTME9CZU9KOVNQaE9uOWtudWtVamRaNjhEN2JTdw?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-11T01:00:26+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Vídeo gera polêmica com Matheus Pereira e Carrillo no Corinthians; diretor diz que caso está resolvido",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOLV9PRWNvY08yM1Y5TzlzTlR6X3d2VzJhR1pEcHQ4akxzNzF3cGxyc2xpVWNBSEh1TUlnN29aM1IzRTB4bW1uQXR6RVpJSzJaTE90LXc1WlotS3UtSXJoNUxJVmtxcldlOEJmZVdYbHVkMzhzMDJQOHZKV2dJcEFoRWVSbzd0ZW9xbUtmMUZZeGRPQWUwZjlTNHNIb2JjbmowT3R4RDRrN3E2TmdaeEJQZWZsVXZlVUgxUFE5cFQ4RDVCZDNPN2dOUkttcFFmU0JEYmpZRnFoSVRUWmhfdUpaTVRHVk1Za2FTQW11Z2g4dGllZWs4blV2bl9kLU42d2pxUFYw0gGSAkFVX3lxTE5zQ3I5bUItR04wdUJNUC1zYXBXaDNZY2s0ZWI3ZzBLTFBBSFhiUjBvN3YxWkhndmNwTlpDY1BsRmU5dlFCSEVTRV80MDJ4R09IbVpSdjFUOTB3R3hJdzBKaXBhbmp6MGcxQm9TWjJmWTNXWVFELWNyam9LSElucTJmd1RrajBPbV9uVnFZVXdMYUpGdURwOXdoNFBPYjY4MU9NN3ZWM1VUUWV4N3c4M1pJWDJiSzdtSEl6bnpyNFFFMElneGM0Rk5XQzczWUVKeVJrUk9xM3NYQmVPZUxfM3lST1hINUpxMDJrekRoUEFxVk52RElFaV9FVEdzX0xENlNIRkt0OXhjZ2RESHBqUEpNbGc?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-11T00:57:02+00:00",
-      "categoria": "esportes"
     },
     {
       "titulo": "Socorro Acioli fala sobre sucesso de livros em encontro com famosos: 'A estratégia foi justamente não ter tido nenhuma'",
@@ -489,20 +1017,20 @@
       "categoria": "famosos"
     },
     {
-      "titulo": "\"A gente tem muito interesse\": vice do Palmeiras comenta possível retorno de Raphael Veiga",
+      "titulo": "Petrobras tem lucro de R$ 39,8 bilhões no 3º trimestre, alta de 21,5%",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdDhDUVNDVjU3WnBDSVF6UGM4TXFFajRpRnZVblctcmlvSjhRczg2NUJ1VGxkWTR3cjVmRTMyQmRtMkhOQlgzODdjdkZ6d3ZYcDlLOXBGUjc3OWJYNEpaX3ZUNC1ncXdCSWpEVXhTY1ByaHFnX2lEaXQxNFBUck1FOVNwcVdsLWpOSldCM3lhMVhvc1lwQjNxTWtnSmQwdGN3TGplcVhmNm5XeW5nYzVfWVpZaDFpZXFIYWNGT3VBX1lkQUlRQmNlaV8yUHg0VEZjY1l1U2ZrRG1TNk03emRSWHZoRkxBLTd1M1huZ0pR0gH8AUFVX3lxTE1peHlfV2ttLXR1Q2hzMDljN3Q3MDQzRndzcGFhdTE1bjV2MXVYVUN1cFl2cHRLTzVwNGdxREtPa1BDam9lSFBuNFlkWEtOWkp2bU9Ud1lTb3RKd3ZTaVgtMTZzQ3l4ZWt5YXFlSldHZ28zYnUxdXRNRU02dUxmR3IybEJpamhCYjkwUDFmWENTVkxXaTdBc0FKbFpzdXNLZDdOdXZfcXB0c1F4eFhhd0g5TXpqVDFCRkxFZzVsQUlSWHp1b296c0E3dkxXT1I5eUQxVnJmdEllOC1vVmtIZi1hOWNGZ3M5SjF4cDBSRFVSMXBpX0tERmotNjZtRw?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-11T00:35:10+00:00",
-      "categoria": "esportes"
+      "fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONlBJaGFPTW12TXJuMjlfTFZwRE5sajA3UW9QRU16aW9hR1JDM280WjlSa0dYQy02WGFaWXNwNHpTRy1zUVZ4S3dWODdqRjgtQjR6a0oyRzc0d2dwSnQwU21XLWtMQk5namtCVVhwTmFXU2FSQVk3MjRPNDRVeG1aR0poVFBvQ3FaTmZBSGlORFp3anhxWnZLUHNnZ3hlOVl4WUx5cGlpUnBzUQ?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-11T00:37:00+00:00",
+      "categoria": "economia"
     },
     {
-      "titulo": "Bastidores: Vojvoda aceita voltar ao Fortaleza sem receber salário",
+      "titulo": "Vídeos do capítulo de 'Por Você' de terça-feira, 10 de novembro de 2026",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOamZPdXBqV1UyanB4RU5GWm91dVlJZ2s1S2RSUnNDaWZpQ0ZVVVUzYzYwT3psZUo1ZmM0QWFqVzhnc1lxZGZndFY3aWhhMjVPcUtHMllKUWlPYUZXM085c0pwRThNY2tUZVQtelBrUEVXTzdrQXQwRFRjbklJSmJ3MEVINF9palNOMW9WLTB1dXpwZGtwNWN2Y1JJZ014dURfZ2NUZUstZ2VxRTFfNGYyS0czRGt6SXVTZjBManFDMFYwZ055SjBYNVVoODRvVDlfRzZLNNIB4wFBVV95cUxOMGpIaHBKVGVwWWZLUmlKTUREaDgxbms1cF9pRmFDN28xMHZPeWNSdC1OUThzcWF4NHR2N0NkMkxqUU5MQndqOHY0Q2lZYnZfMkc5RzZFWkdhbHkxQ0lQZkd6MVZTcEpwZVdsakFsakkzZ25Sa20yaU90VDBuNUlMY3VuMnA2ZjZrV0tQOHdmS1FWTGRvUVR1TTRxMmloRVFiX0Z4d1RpUHZSSVhnRFlCb2tZZHY1Rjc2SWdrWEtwdlY4MFZZMDlMazJmLU9wQy1qRWItUkdDU19icE9RNjJDOHYwTQ?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-11T00:04:11+00:00",
-      "categoria": "esportes"
+      "fonte": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUzJoLWh2QXhvMGZFcHI4ZnViZ3R5U1JxQUh0YlNHQ1hUbGhnLW5ZYkh2U3JFSTkxZFlhWjB5eFotZ1lhXy10R0h2aVpCQXZpd1g4WWJ0ME9FNTJQaUZzVVJwT2N0RE1ETVdxSWRpQUttdHBBVUhyaWhxWk1PeEJQaV9hdDRBbU1uTTNRTHphcENYOG9sSGE4cGxEbjBWdjZFekROTUxOb1BTdnViZFRKUGpLTk9LVUxTMDdXM3Ixd3plWVNYWkRmT1hiQ2JmbWcw?oc=5",
+      "veiculo": "Gshow",
+      "data": "2026-11-11T00:15:00+00:00",
+      "categoria": "famosos"
     },
     {
       "titulo": "Giovanna Antonelli relata susto em voo: 'Pior turbulência da vida'",
@@ -513,22 +1041,6 @@
       "categoria": "famosos"
     },
     {
-      "titulo": "Ruas quer descentralizar emissão de licenças ambientais no RJ",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSHJ4UjRrQm9UN2kxWGdnR2x2ZWFmZGE5eWh0cWtrUncteTRYaXZHV1YweUhza0hWNkQzanU1dWpQUlhrNDh1cVVncXJRWkt6TTh6WlEyWHRNLWpjaVJ5ODJDd01hVWFTV3U2bE1OS2VHWVdGZzlNZnotMXd1M1c3VWdLV2puRjNycFF6T19TSll1Q3JGVEp4cGhxY25HSXlwcHd2bGJMLS1qTFhueXhXUlAzY1FHRVVIOHZOedIBwgFBVV95cUxQTDVsYmR2OFpjUjBaS0pINnhOMHJaVzM4YnR0UGpjNkxBYnIzeUZhWlRBRnNnbTJMUkstSS1NNnJ1YmttcUF5S0NURGtoeEg0VXF3S3NuNFhkNTNFUDBpd0FfOEFUbGRVSk5SQWxvWE1IUFVCMllRalV5VnVMRkFPaHpuZ1JZZS1KOGVBem9yc0lmMlFsTllZVTFGcGFVNWZoeTlGZmxlUEVOb1NfajVnY2JnMEN6VC1vNWpRaU54dS1CUQ?oc=5",
-      "veiculo": "O Dia",
-      "data": "2026-11-10T23:56:57+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Campanha de Lula recebeu R$ 1,9 milhão em repasses após eleição, e Flávio obteve R$1 milhão; veja",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORW05aFl0Y2xBam5NNmxwbTNQWTQ2MlNyTS0xY3d5N3RlUU1idjlsSjdHb00yMXZQX3h1WF9ncUdQUFB1TEdTUlVpanladThzeDRGV3gyaThnOF8xRnBBdl9IdXNibkItVGQ4ZkxtM0NmbWk5TWJvNGtWWldEWE1BcWJBLThZVldmR2Z4dF9scGZMbUNXM2F1aXEySGZXM2dtMnNrTkFueXZKMzQ2eEFTUmJpN2d6XzR0Z2JrQ19zc2ZTQ0tzYWNCcF93TUNQeXJNR0x1UV9QSUVGZw?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T23:44:32+00:00",
-      "categoria": "politica"
-    },
-    {
       "titulo": "Republicanos barram proposta de impeachment de Pete Hegseth",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEdLaW5RSHNjTWxDaHNTVW8zN2RHVjM3YlB0cmF6VkppS1BWRWtERDNwS0l0V19LTktyc3p0QjVwWVFUZ1FxRFBOX0hSaFFuWFdXRWQyaEhxNHppcDYwZFY1Tk4wTldWQjM0dVJyZGIzbWwweGlLUWNseklkOXN2SDhtUjd1N3ZXWGl2S2F2YlJIX2xRdTJrRWRyNXVMSGNhRUZGNHZn?oc=5",
@@ -537,20 +1049,12 @@
       "categoria": "mundo"
     },
     {
-      "titulo": "Campanha de Lula recebeu R$ 1,9 milhão em repasses após eleição, e Flávio obteve R$1 milhão; veja",
+      "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTG5qbURXMnhmM3lsWlhVX2RiTWY0VkZ3V3RFNzhwZGtEeWVTQk0wVnlnZjJLSUwxM2doQ2U3Y09FeDdIVThkaWlELUN2UWlUVlJmcVloTTRjbUVPejM2RHZqV0ZTVk13TWtpNlV4NXlBTGpPWHU1R01EZGRkNlkxOUxodVVJMEpvUURPNnVNdk1FQ2RDcnhoWUhIbi1aM1JERU5Wb1p6UHRqeFVGMjYtVDNFbzJIV25pT3BSdU1DUTdqUjRWTjBnaHhjMElvclnSAdQBQVVfeXFMUDZydXNqel9ZblJuZ3pySVgtQnVzVXg5V0JmOEg0LXJNb1hrczNWU2xxMVp5RlJiV1d1MFctNHRXU19CQUZaWW5sNnlKejh2V3V4eWI5djRBdll0Mmt4OVVkVW9tTGJRRVdPNC1yb1R2bndremFyR2tUY1JDVzlZSE5EV2hKbUVpbWNXNWpNVlhEOGlwU3MtZjF0V3lYSFZEdE5lQUJ4XzRxeTFnUEJFS1QweFRxM2tDRHp6THp2V291dUVvOHBhT3d6YXdJZzVGeEVON0k?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T23:36:00+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Campanha de Lula recebeu R$ 1,9 milhão em repasses após eleição, e Flávio obteve R$1 milhão; veja",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTG5qbURXMnhmM3lsWlhVX2RiTWY0VkZ3V3RFNzhwZGtEeWVTQk0wVnlnZjJLSUwxM2doQ2U3Y09FeDdIVThkaWlELUN2UWlUVlJmcVloTTRjbUVPejM2RHZqV0ZTVk13TWtpNlV4NXlBTGpPWHU1R01EZGRkNlkxOUxodVVJMEpvUURPNnVNdk1FQ2RDcnhoWUhIbi1aM1JERU5Wb1p6UHRqeFVGMjYtVDNFbzJIV25pT3BSdU1DUTdqUjRWTjBnaHhjMElvclk?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T23:36:00+00:00",
-      "categoria": "politica"
+      "fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWNIcmJWMXAzSGtmUHByQmc1bWxON0ZaQVJvY2RzLWItbXFNaFRZbmhCbnVrSktWNktvTlJZMGlfa254MXEtOC1fR01fcVU2R01LNnJXQTd1bHNxOVZvWHktaThxUjJFVktQMVc3V01LYXRHOVlIQURYRUNzNllBdGJwQjE1QWtMOUZwenVoN3oyV0Z4VTZvM1ZvdUlwclFpel9LN3lJS0tnWlU?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-10T23:25:00+00:00",
+      "categoria": "economia"
     },
     {
       "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
@@ -561,124 +1065,12 @@
       "categoria": "economia"
     },
     {
-      "titulo": "Lula e presidente da Turquia se reúnem e falam de comércio bilateral",
-      "resumo": "",
-      "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-presidente-da-turquia-se-reunem-e-falam-de-comercio-bilateral",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-10T23:24:00+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Massis sugere que novo presidente do São Paulo renove com Lucas e Dorival e mantenha Rafinha",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTjF6Vy01d3BDMnd1RHR0RkJtcGdTd0pnMTFyQlFBSTNkREdQRlFMMzZBTmlocjdDam5yQmRPcFpyRkI1N2JpdEtYSDh0ZUhOUHJTRURoSVVhY3Q3SjBNTl9UR1R0S3Z6MkV4ZmtYcEthRERfRUplUWJBNEcyamFOa3hKYVFLYnFQY01WTFVrUlpuQl9LOWJPZGllY2g4X2lac05EejZ2bXpiRnhYZGp3bmFGSUpUTE1FdUVZSnJ2cGVuVm5udGhBbWNaQmlKc2xKdlQ2cTVzSWZENWpaWlJ1aHVHaktqNGdDb0VYOUJYNDdqc3dh0gGDAkFVX3lxTE8wR0pDb202LWhfUzZMamt2ak5MeVBQcEpuQU52UmFjRGRFOV81aUVKR3RYMEo5WGFINVptQXMxT1NLNkYxR01aX20zQlVsOTg4U3RqejJQNnZ5eVJCYkprU2ItMVFRcHUycW5PZ3pmaTF2LW5vNV83REk2WW43enF6TkFCX0Z5Q0xfdlhNS1Z6WHlnUDVDejQxaThyZEtoMHZyUkt5MHZ6Y1ZfTXRTVEFCWUhJenR6SG5kdk45SmNqVGdLRW9fV1V4cmFsRnNUeXlPVW9EUW5DUm1QZTdEdkFiOEFwREZtT013aTZyY1BBeEVSRWtYamEyLVAtQy1maF84YWs?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-10T23:20:18+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "Prefeitura do Rio propõe prédios de até 80 andares na Zona Portuária",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSF9QUDBHTEQySUl1VGxvVm9LakVIT2N6UXJ4Um1KM0FITUVZeXRHOXdHQmk2SUpMSktqUlpUTFpDX01yQlVhVXlsd0lXbkNJTWpKdGMxOTZoNjBEcUNaTFZzMTJGZTNvN1ZTdzFsVTcwdmJsRTRkQ0NEYXFlMEQtVEF3OFRNTFhJdUZvU2xZemg0QlZoWE1jWFl5bkJDcmFuZ09KM2VTLTNrRkM2YUp1aUdqSkNWM1dQLV81T09Oc19OUFF6ZnfSAcsBQVVfeXFMTmZwNDZyY1Y3NGVwaUpweGtVa3IzSzc4YnAzbndxYXR3VkgteFN3ZTZfaTZNLTVOV1RHNFIxQ2w5S2tyY09mSkxIbEZLR3RfaktLUks1eW5XS2pzT3docVpsM0hPQ2ZVd1hPam9IR19KN1AwMkFNRmp6d0J2b29MOFZHRkJZbEV6WDZKMlNIR19HY1Q2eTNwSDE0REJUaFpJdy12eWktWUwzMFQyUmhoNEFGNHBiMEMwdW1laTM4djh2Nk1FY2ZEWGpVV0E?oc=5",
-      "veiculo": "O Dia",
-      "data": "2026-11-10T23:17:00+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Palmeiras anuncia auxiliar Bruno Proton como técnico interino do time feminino",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWk52RFczOWdibXp0cGRfb09UWndSZnJCRXBjd3dQUzlIVno0aG82NGJKaFNrOXJzdlQyZ3o3QVhaWjVOQzJGVWJDWi0wdzhiMWZjNW1UeDUzLXFLQl92aHpvUnV5cVI3cHZ1WXBET2RpZE9hWDBRWTliSEFTeFRXb3lnVjBJUDdUbkJKUWdhaEMxa1g0U3NvTGdUa29nd1RuZWoxenBPTEdudDJwaHZrR3E2d1VJWEY5d2JOREUxbUJqa0tucWxwcG9FcG5YNUNy0gHfAUFVX3lxTE5JMlZ4YzRWcTdkZ1pzYWM5Y3VNNW9IdHY2a1JBb2ZCTGRnaHJLUnpUZDA0X0JoZS1lOVJiYkwtc0V2blRJR1IwcmVhNlVTR01COFJ5X3dtS19mWDhsTlc4OVhyU3BIcFo2NmtVdC1tUEM1NmFwWS1XM0dPNTVBVHFaeGVZSkdOc1Rkdmx1SjJVZHFGMzl3LW9ncjlTelpfQ3hFek53eF9FWlNFWnoxVzhXUGhYdFhWZzF4bUQwQmdfeWtIMVkxaDBOblE1SjRta3pIcHo0YWxCRmxuM0J2RDg?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-10T23:00:05+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "Instituto Evandro Chagas comemora 90 anos com congresso científico",
-      "resumo": "",
-      "fonte": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/instituto-evandro-chagas-comemora-90-anos-com-congresso-cientifico",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-10T22:56:00+00:00",
-      "categoria": "politica"
-    },
-    {
       "titulo": "Saúde e bem-estar: 2.130 novas empresas do setor foram abertas em Alagoas em 2025",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMUYxS0U5SWFTSVBVX1ZkQ1RZUWtBcHJxT0NSQV92MHhzdEFudzVrN00taWlQOW1ia2FZSXBkeG91U2k4UmFrc2lHY3JiU2xjMzdYejlNWnhmNHVVbkU5QTg5VllBZXMxUHo5VDE3S0cwNjZHNVYwV05LVEIxVTlGMmNsdEctcWVzQjJ0OFFqWGtLQVFhMm94VktCM3dBckk1SUdtSC1NVzlBR25yU2ZfUjk2MWxMa3RETkJtUHBUQ3p5NUJZSnRzOHZvZTV4cEFMTGlnM3FWQ1JJa1pjRTJXWFp2MmZyd9IB9AFBVV95cUxQb1JBbFNMQmV1NFhQdUQwdWFCcnVNeGpIU19RTjFXU1JlcV9lYk1HZklJXy1aNE90c3NQRTRFM0hLWko1ZzlRZlM0SFBMOEtFQTBVbFpIdUxKcWw1R0U3aWdFS003aUd4MW5qaXpmblViZmJPV1lBMnVLRlUyM2YtQW9QY1VybmZfQkp2cGFvSmJHd1dfb1NheW00RHphMnZSd1RqVm1EdHNhbE8xcnlheVFaUm9GYVhURlJiREM1NTZQUi1CT0kwaUVoOUN2MWlvYkZCLXpXRDBHMTh0aExhWG5QQXhPWEtXeURSU2ljMDV1SmNJ?oc=5",
       "veiculo": "G1",
       "data": "2026-11-10T22:43:10+00:00",
       "categoria": "bemestar"
-    },
-    {
-      "titulo": "Canal de WhatsApp ‘Tropa do Flávio’ vira ‘Direita Já’ e ignora candidato derrotado",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaWNJUHBmYWFtV2RndDNhbk1tTTNyMUZkVWZlbTg3a0hpRmNPRTJsVzhkNUpUdk02UzlReXd5S09wVFA4S2xEclM0S044U0M3SmtpbnEwM0JBRndhZzdtS1NpT3NqUmNVTXVGOTJKeEItQmtlUUJ2Rmc5dDFJS0luUm5aOWNXNlZ5Q281RTU1dk9OYzd3U2pFOC04REsxbXRPSWhBU0I0bzZKMkhCUDhvTHoyUVJvb2ZQY1hyNE9IclZSTmg3WDlSekdfaXZ6d9IB0wFBVV95cUxNcHpMZU9lZkRpRWYyZnM4ZGZzYzhWbnppMVdmZGRoNnlpYjdTTVd4OXhfaHZZbzZ3SmJ5UDZwa015elYxd29FNDBiR2FYSk9ZMEl0VHZHODRnZWpqblZOdkdyM0g5bWREQ0hrUTJ5X2tjSE1taWpQS19lOGMxaUxDVjNGNy1jQ2ZDOHBfbUV1M2VjaUREMTFRcFdqOWFaM3kzc1NNSXhKLTZueFpaWUxmakwxVE12REtUZkltQjlCd0ktRC1nRmlKR1JLQUxFUk5jSFdF?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T22:38:00+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Transparência pública no RJ tem índice médio de 62,5%; só 30 das 92 prefeituras recebem certificação",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRExpcS0wQjFzUWtKR2VGNFowU1Jza0xOd3BZS1hFUjc4SFJZVkY2VEFpZHFEeEw2OG5nZG9wVXkzYUJ3aTZacnM0SzlDRE9sTkVnYjZQNjBuQzNNbDhIRFlDejg5dVg2Slp5TVFaLWZnWVdlUFA5cmowRlBJRGxxWUk2d0ItamtsWjg5NUotS1k2SVBZbTRHeWg3aEc4Nk4ta3hKNnZuNUt5VzZVb0Ntd3JmV2ZWaEwzb0lvdHF6c9IBzgFBVV95cUxQSHZfX2hlWXVwNEswR3E2VU9Obm1PLXgzOU1OSkhkSVhJRllMYXBEX3Q5MXVucVk5VmxMYlZ3akM3Nm1pQ2hCZ0JXVkF0eGlvLUZZanZ6ZGZjMEo5bUlNNWt5b2pQU0V1RW9PSllyNG04cURKSmJlUGFiWHc4U2Z5MmUtVkxIUGdhNXo4NTJoeURWMUlzcXpZNWFDczlQOTZqVm9NTVVZVDVzanJ4ckVxSVhjSmNJVlEtTHVwVkhJbDY3bjFFSUhVRFVkTENyQQ?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-10T22:37:57+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "RJ tem 90 obras públicas paralisadas que somam mais de R$ 12 bilhões, segundo dados do TCE",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYnliZi1WTWV3dWx6RTdpNVhpNWkxMXRldmdsWjhEV2RXaTRsSHFDS1o0SjExWnlYS0E3bjdvRzhyRTNSZ25nS0NjdHhwemhaWUZUaGxENE5SYUlmWFRsaUo2Sm1SMUdrc2Y3dmgxcS1IUDJJTjhDaGgwZmdRaWpzY3F6OV91S2hyY09HWmRHdDNDenNFTTI1MHMwbnpCZ9IBrAFBVV95cUxQSWtfa29GN3hkTWxBUldkZnJPeHAtSmdDdWM0TFBQWkhBZjE0OWtMTVFUTTFzUzl0WV9TOTJxQkoyTllEdHNvX1NneXJqX2ZONVhZTVRiWEZXNUtBVmpyUzVUTm5iOXYyNjJjTTJiNXcyQkFHVHBIRFBxY0ZRNVR6elBrUnN0OW1HZUxpWGY5NEhvR1p1T1lmc0pBTTlSYVFrRlNRM3V1Q2RSRlhi?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-10T22:31:56+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Suspeito de integrar grupo de extermínio que atuava na Grande Natal é preso no RJ",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMmFSU2ZJLUR1Z0dGUHNKSHJWUVJjdW1GVWFUaHg2dXM1MUhkbzJSRzZod3RwU3p5Q3pWUjlxd3RsMzNxTVRGZ2FORXdvMUs1RnprZTNDNWtuMjBqTUVoc2lXOF83Qk9CMjNMZGZseFlSSlFuM0w3M3NLWlRLNWcyRTl0ZU5vQ3NjdzlsUWFaVjFHM2k1VmdkT05qZUlQS3o3ZU9uaVRxazZNdjU3VnpwSXRMUGZROVFDLUpNamtaTEhUdFJLVVhHUEZBSy12R0swT19MeU5Fck5vbDF5dm5lVjBoNVbSAfMBQVVfeXFMT3dfdEU5WFNWdDBmM212TGVpMkFJWHFXZXpPQnRvUVdORkxHRWV5SFJoWHpvWTZrc20yMG1HTWhVbWppT0NHcFVGeTFDWXphSVRkX2tWYmRDRVVqNElYa2F4VlBFckI5NzY0RVBITWpkQTByTzlWd2xrM0w5VE1sR09lTXZZaWNQX1p6NHlQczE5bTBPaF9VVWxCeWxXNFpZeVRoYURZUkJfcEpfU2FuUHNaT2EzZzRxX1JKMk5wNUdtUUpCSy1JSDlDRHRfck5PTUYyZmcwbks2UzE5NmpRa0k5dVVudzF4X2h6d1ZQLTBkV3VR?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-10T22:29:06+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Autor de sequestro de ônibus na Ponte Rio-Niterói, 'Jhon Lenon' é preso no ES após fugir durante saidinha no RJ",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTmxoeHdBckdMYTJCSWtCMkZuRmpoYzVmNXZOYjdtNlRfWlN2cHY4bkFHYWc4QlVpdDlmQlVzM1ZPSjN6N2VfaGZFTklxaUJfZUVQN1l6TVNacUUxUlVtWE5JTmkxem8yYVkwajBpdGh1NEpVRG5TRlFldTlCdGVIMEo1elo0MjBsS01FQl9BOTBDbERZNDFCR1pOM0pXc21MTlFaWkFFOFNHS1d6VnVBVU11dEt3dy1RLTBsbWZMMTFZT2xtUkNXU1NTWjZFVUsxend2VFF3OFFwcGJHdTFOZTRKcThFSWpoNnROZmNmeFFCOFEzMENTcFl5X3dZZlBWYnfSAZACQVVfeXFMUEsxcDZtYkw1c29LVFB6V19oUUNSWk5VUVQ2Ry1WaVJjMFExOVlfLUtSd19ZcF84LUw2Wllzbkt4VGJ1Q1dsVkdFT0xLOXB0Tjd2VVYyUnpocEw5UGZ5czlFV0Y5TS1nUWtRckxqSDRHQkhvRmJ4Q2piNVFKdHFyYVI5Rm9LcjFVSXQ1QXZyN3N4UnFLLUJLS1l1NzZrWmpldXNsQmlNbEZkbWFZM3ZTU3hMNjQzMmdYQjNJUlU4UFhPYl81QmJ6SUNUek1ZRExnTmRwaERHN1pBM3E3aXFvM0ZodUt4Y091ejJyVzdFckRJQjRvVnZ0NEZQWHU2WjFCSlhKNFpUMEJtTXJjTDltdXk?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-10T22:28:02+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Vojvoda volta atrás e acerta com o Fortaleza para Série B",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeDA5b1lCMUhXeHMwUTZfX1lxbUJ6SGtTMThiWlJZYVpHczhIanRlSEw2dE9LYUxuTEFUVE1TdFMyRkdGWnRQYmtLeVQwXzI1MEY4aWdGM0NKdDVZMzlSY1VBX3dubnY2aEVoNks2OWV1Mmp2OXpiVnd4WUtUcFFpMXJEeF9UQjhlVzRETVF1WWlpRVd2SjdrdGlCWFo1dko3N01GZVNuRmRjYUlaSTJ1VEk3eVpCTzBU0gHHAUFVX3lxTE5lbDNMZUo0NVQ2VEM2cXJfYVpWTndsNDkwYkRIWTA4SUZoZEV0dTZpNF9saGE1M0hZd1RnS3oyQ2VRM1JfWktLT0xHZWsyN2x4ZWIycldyaFh1MmM4Z092ejB5WjdnZDBJLTNaenFFTFZmYWFOenQ1WlQ4Q015YmRzT2hOM3Rka2FLWlRQeEJ6UGw4cDhIVS1ob2xxdDFmNGdKREFqamQ2bFhwQ195UVdjMmF2Sy1tSkpyaVlzMjYtWG9JZFRQOTg?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-10T22:27:00+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "Após menos de dois meses e só quatro partidas, Dudu é desligado da Chapecoense",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNXFjOUlJS2VGcEpEOWRnVGdYTE85Vjg5X1UyT0JueTJGbDlRUEoxb2N3Sm1OU2IzV1BoZEZIQWdFQl9DWldVMWJhTi1Kd1JFaVhha0RPd09QYW1jcHlVdmg1R3J5bGVTVzhQbk44ZGl6V1gzZzJVSTR6c0NRUExGOUlDc1pfMVpSdTJQdVZvSnZCWW9rRDdTalF1eWlXT0Y5SjMyTFJYOE1fSWxOZlVlS2pkYm9sYm5DWDJkRXRLS0xoak5TQlVLSVdxSXlzQy1Hc2ZvWGJ3ZGdLTHh0NVBuTEpUMTJvMlnSAfYBQVVfeXFMTjdpUC14Njh6NTlwalNIbVIycEVwZjdwZ1pHZFVqc3Uyc1JLWlZRM2U4VDFQRGdhNXlFSzVWM0JFVmNDb1V2OFN3aHFuX2NuZGc5a2UtMlRXcEV4ckphY0taQWo1SVVIcXFyOXdmY0J2UTU0Ri1majg3eFJ4VmdBM3ZVVUttcE40QnJTLUZ3NU5YWVRYUGYtZndGNXE4eXhSYlhfRndfdDlKUF95ZUh2SDBHYUZTdHZmRlR1b0hkUnNDa045VjN3UE1tNmlUQnMwMDR1RlJGakRJODh5RzFCZW5qU19KOTlhbTRLQ21ycWRxNkg5aWpn?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-10T22:24:12+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "Campeonato Paulista de 2027 terá clássicos na primeira fase; veja todos os confrontos",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa1RtX0lCM045UjR6SWx2NnAyOWlnUm1LSkF5NmprdHFaUkdTRWkwV3BfWE9GWHZiS01kcE5lUi1KV0dCeW9mU2xsSHhiZ0Z2cG9VV2Y1OVgwZ0RVS05ZTDBmSDZzWWlEaEhPS0pBbUJmckFoSlpuWWhrUF9wZGFqTFdZNDVxTGlqWEJzcERaa0xjUzU2eTdudnBOM0tOTC0tX3I5ZnhJcERXN2RGZ0FfVFhWa3Y5SWxHZVdMUFZsRm15TVZfOGpTa0JwMk9ibDhGUFZMNThJSkFKb2N4RlppNm1PeWNIS3pramRxM0pfUWxENFXSAYICQVVfeXFMUE4weEpvdVBOWTJwSlAtbVREWDNUMF9tamxaSWtESkkxRnJZRmQxR3N2dmlIekZyUGVPZmhKT1lpYzRwRVVfWlJQLWlFSnE5Ql9Sd3hPMFBuWmNWdHlTeU9OUG0yb25EZ1lCQUtZYVY3V0g2TkdSLUJQRGNGbElmc1pZOTVPZkowbW0yWS1tWmZobWdyOFBNR3A2M1NndkdLcEhVMmNZTExCc3FSckVsTVdoUWJHT3NQb2RDVS1MV2xQdUtkbGhNQXA2Q0RzUUw0WTQxdHcwaTNkWXdZSTBwaGtYTUw5QkdlZ0ZpT0lEWDZjMFRqZzU0NGRabHY3NjU3ZWVn?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-10T22:23:35+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "Unafisco pede a Fachin que mande tirar tornozeleira de auditor que abriu dados de enteada de Gilmar",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORWc5Zjg4Mk1wTGNxUXFMcXBKNmR6LTdYdXU3OFA3UUpMY0RIT1FCMjU2X2R3Zjd6T1FhYmR3d0ZFZGF3eG56Z2VjYU93RFVkTUZRUWpWV1VIb2gxQzVYY3lNMFgxV09OWGdfdU14YkR0Q0NYN1hWcktfVzhSZVFRNzA0THhMVGFnd21XdUJSZ2E3eGlXMnNBMVZQMFBZWmdQeUJ2WHllcTEzZGFIZndaaDFGMnd3dE8wMVUwM3VveWZmV0hPd1VJaFpwODA1b2tENkhaNy1vNW5aMHJhZzlyenJFZk5sN0NQNG1CaDlEQ0V5VEdiWng1dHJB?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T22:22:04+00:00",
-      "categoria": "politica"
     },
     {
       "titulo": "Bella Longuinho, Ed Gama, Marcia Fu e mais famosos marcam presença em prêmio em São Paulo",
@@ -689,46 +1081,6 @@
       "categoria": "famosos"
     },
     {
-      "titulo": "Cirurgia antecipada para não perder Seleção e diálogo por minutos: bastidores de Raphinha na Data Fifa",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPem5lY2I4QVpxSmlGczBkbkkxcUxkcUxJeGhqdWxNc24zYWRYZll0SDg5N013QVBjWHNsV2Q4Rk9ZbDhCcjdLd0JtbGtQQk0zcldEcEVudGhWR095S1AtTXpWU1ZTaThFRDhnaW5Md1lUNWNpMG5ZMmtOVV93eHAxUDNzbFZkeFJMdU94REw4ZzNHVDNfTlcycU9BM1RqTnRmTEJ6RFU5OGJySGY0dHRWbXpRR1FsWUgxaE9PN2NRbnFvNjgtTHVQLXFoQU55TU50SE50Q2trdjFHZ2RFR0MtV3pQdVNPOHJvWUNyVXhRQnFXVXFjUXlmdXA0dTlDZDd5Z3ZpN9IBkwJBVV95cUxObS1kZi1IY2dtdnRDQk1kNXdkX281VzlnQ3NBVGc1aDZjMG9SUWdsOEplVUpMaVJoa1NRMkRkcHRnblhiUlhZRWFWbVlqeEI2RE9zLTg1Vk9hc2FycDNuX1dqdHh6T1dEMkhyWTFVYXhXVU5DMWN6U080bWhkRXV4eV9ITURVSzNKOGNxaGFBTHljRHFXaXNBNGNHRDV0VE5Qa0dHZ3dkbHBDcExmRlFlbmYxX3VaR3R3bVBMZnluS0Zra2gtZWZ2RExFdVZYNHlYZE5QZzVsLTE4RUUtYzdEb21xN25Fd05Ic0p1RHJDYVNiSmhQTUlhY2gwcGlOYldvOUNDRC1TbHB4MVpRUzU0Njg5cw?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-10T22:20:36+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "VÍDEOS: RJ2 de terça-feira, 10 de novembro de 2026",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUE8xRHpUNmg2dnR3WXlwUmFaQzBOQl81LUZZOXNVNmVPZTVhNnM1QUtQQWZwSF80MURWTHNoaG9BeE1XUDZ4NUo3WENlWnRVMFVtU3dRYll6RHZDaU12U1NkeGV4ZWVXNTZaREtYNUE3ODhiakFtaC1vRF9JLXVnaVBOT0E2VnkyT3lWXzkwa1RDRVhQaUFWTW92RlFISUpQQkRmMk40VXNabWxsUUc3MVpMRQ?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-10T22:13:00+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Menino de 8 anos morre atropelado na saída da escola segundos após subir na garupa da bicicleta do pai no RJ: 'Sorriu, me abraçou e senti o carro'",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdUgzYk1LRE1EdGpObnBtWEV3NjRFeGJsZDRNeUR1djZDbGRtUFF0ZGZFa3JyWTNQcm8yNWRvblNVMHNlWnpQLVBxUzVxNzA2V1M2MWZSdlpHb3k1eGxmRHRRVktxY0xUNVJmUG9yZTRNbExic19lSTNKQU9yN3lhcEJsT18tSXFXT1ZmX0xlc1lReV9GYmVNcXVGVGh1R0ZfRGFWTU0yNktXalpvd0g0UEdRR05KWFpDRzFZdjBfelhrSmhnN1FpblEyVDVpR1dERkZoalJlU0s2a3VpdEEyUHJKcmRhQTc1ci1sX1YyaHpPazBOcUg5a3UxZzNjbmgt0gGPAkFVX3lxTE1aVGFnaTRhNnZ6cEJudDhkTlV6Um1NSkVhaU5TdVpNWGhqYkladXA0eXNqa29ORTlzQko1TjJQT0plZ2luSFhNSVdNZXBRa1hKNUVpRm1ZSHYtaWx2OExYMzJoRy1oYV81LXFkUUM3b2Zzb3NCVUJXLVNGR0ZpSmo5VHBSUm1iTTMyRmFOb2xiZWd2RlpUbl9YWHA1aWpzbGxBOEFVZzNrLWl1YjRLdHlBTlpsOXY1aF9FQjRTQ2dwYXlkS1Z4eGtQRVowbVEwdmN5VXE0SnB3QldoSlFjNGlJdGhfZ042M1M3Q3djU1o2LVNiZEhtUk1GRTc0UDVVMEJqazY2UEdSdlo0UlN2alE?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-10T22:10:49+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Casal é preso em flagrante suspeito de torturar filho de 10 anos em Manguinhos, na Zona Norte do Rio",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTEdQZnlOOWxuM1lmNUxFRVEzbkFVMThQU2lvRzhyQ29RZUo3b1JyX1VxRmpPeEpMbkNtV3RoVzRjcVlnTUlOVzZnU1V3dWVZUVFlUmFFY1JTemJRcFdJTkpDNlh5TWdXQUpwdFFWZkdvX0FfRUYwUkVYSjZqb0RNTFBVaVJvdXp4dldVb0ZnY0RTdHVmbkVuX183Ml9UVjTSAa4BQVVfeXFMTUQ1cXRWUG9IRllDelpRMmg3bTBCYmVUQ0J5ZF9FM2kwRXpfNnNjSF9Ec0J2NDFjT1FkMUVObXo2Sy1yQi1iZzJORlRJS1RzQjBPWXZ6Q3RJMElqNUVtMmpnRTJJbjRXemNJeW5SNEtsdk91anFIUGxtU2d5eS1YRy1feEh0Sk04c011UkZuQV9uQU1vSDY3bkNmeXdTRnZjeDY2azBoalJYandzYm1n?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-10T22:09:29+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Paulistão 2027 terá intervalo de 18 minutos entre primeiro e segundo tempo",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2VrY1lFTHdFMDRDei1Ya1NobE1fSEE2LTBNa0lTRDdMdWZURzh3cTBwbldxb2hoOU4wcTJYdWlOT1RaSGswUFBxeml0Z1hwdmp4MlJwZ3h5Z2dlSDlFVXBzLW1DZ0F5b0ZjUzdER3R1ZjZZTUgtb0VPLS1UXzJGNm5BTUhHajAwTThmeWh3Y1JNYTRPQWxEMmdfVnZuUjVzcjVuSE5pUFZoLUkzalpaZ21VcFRjM0NfcG5Wdw?oc=5",
-      "veiculo": "ESPN Brasil",
-      "data": "2026-11-10T22:09:00+00:00",
-      "categoria": "esportes"
-    },
-    {
       "titulo": "Quem são os famosos que aparecem em 'A Clínica', nova série da Globo",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWXA3NjhNb0RINXdvSHlScEx0U1NJZFBCbXRjMkNzNlh2aGt1cDBzRHFPQ3JTb0dOU2hRUWVpNE9zcHVIVFUyZmQ1VkFueERRbmlyeENjR1EtYTRRYlhrLXFHVDd0SU0wZnJLTmJmRVVGVDF0REppdk5OSW9vaTl5c1c3aEpqdEJQLXpHOTRpSWV1c2JKT3U0MVV1RFBudk5uSjU5dVdyMWFuc3NkYVRZSHdrT2dHbzMyWTY2TkhzV2ZJV0RTOU5ubURXcDFpeV8waFVPWHZHazg1M3RKSlhtY3dPQUV6dw?oc=5",
@@ -737,7 +1089,7 @@
       "categoria": "famosos"
     },
     {
-      "titulo": "Governo sinaliza ao Congresso economia de R$ 70 bi em 2027 e foco em corte de incentivos",
+      "titulo": "Governo sinaliza ao Congresso economia de até R$ 80 bi em 2027 e foco em corte de incentivos",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajdVb1VVbVoxeHJqZjU0bllWZXdrQkI4MmhKSnNzSXBoQTR5aDRBV3V6dy1hb1BvaU9neXFFTlcyLTFJSEVFUDhXbFR1VGNKX2ZIVHZMeG9fbWQ0Vnl1WDBXSEZuQVBPcVVBTjZ4WW1WZHVZYjc5WjViX0NvR0tHbi1FT3hlcXN3UHZsYnNrbEFId2tTN1VNRXhHM1BFaV9TMXpQanl2TkQzdERpdmlocFVaV3QxSnpjUXRjdTRqaW53dmZuUFVTLUdDMmFwUTdVa0ZEbFdaZDNrVXhvN3fSAewBQVVfeXFMT24zb3MyUDNON0k2WGd2ZlhvTy1aRVVZaFNQRVRaeTFRbjA2cGY5WEY5YVMwZ0g4aFU3dElvZGVTMkNxeWQ5SEpzOGRwYVNJTjNUdmphTGZiNGpieVB5NHQyaEVhWkswSjFDNkdrVFhUM2tOclI3enhlbTd1MGJHcWhrOGx6Wkp0QUNSSWs2N1FsSFpvWlBaRk5obDdzblV5TFNqbnJvOXpmTXpmUERZMHdQQi1Jei1jQnpUc3pEQnFrTkZHb09adGtFeG1ISkl1MWMxclBmNlJLY05Mb0ZYMEVZSDZOcVVub1VBcEM?oc=5",
       "veiculo": "Valor Econômico",
@@ -745,44 +1097,12 @@
       "categoria": "economia"
     },
     {
-      "titulo": "Flamengo leva multa da Conmebol por mensagem na camisa e outras três infrações na semifinal",
+      "titulo": "Deputados admitem rever isenções se IVA superar 26,5%",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMGltWWlwOGYyZ3hiNEJlLUh4OWlLMVVzWC1fOE02X1hiaEZMOWZweUNTME1Db3RMVFVMSG9xX2kzWklkRkVPbnJJN3htcXVQZm1FZGpTaG1NaVVxajYzMWNvaXBScEl6dVRyd1U3a0VnUG91OFZ2YW14ckJmclgwQzByYTNTQkdqaEhlY3FZTjNfWk9jVFlGaDc5dTdrOHdOeVJZWkVPa2MzZEFSQUQ5MHk1cTZ4YVpMQUFYeTh2QW5LMWljNTRfSmhVZjB4ZF9KYUJyeGY1aU04am53bVl5blhkUHhSZzE0M3VaTHRQSXhaQdIBgAJBVV95cUxPWWVURVB1UlpOaURRY01Sd2YzdnVxYnZfTGdYLVpGaUU1c0lYb2IyVmdmNzR0UTVXNlF2d2NyelFwSWlQZHltYjRPbXk5ZnplMVZpS2o5N3l0LXBPOUJWeXM3b0x4d0ZURGZDWGNLbDhGcVJLUURPU2tMOURPdVNaUnpDMzRDaFJTOHc1WGI5enpCRUdPWlREUWlneVlQcGlESDdyYjFZdzJwakxVSFFZVjlYWWNjUVdtX3Y4WHhhMFBSVWRBRzVEUUxlTzhZVWgzcVJRNHhpWUpkdWpWQlN3RHZ5VFVhdGtieTY3c3VmTFN1U0dyb3hMUTJOSVgzMFc4?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-10T22:01:02+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "'Fiz xixi na calça', diz Astrid Fontenelle sobre aprovação do filho",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdU9iRkpFSVRxSVBFVWNrYkhDVXVoMmpxRVVyeU1mOUR0aVRpQXJiWmFNUWVDZXBSMEhudzZTMTc4blZQY1JWc3BORHNJU2dKWXRhX1ZiUjVsZnBNdXhqbFdrV3F6SVhkd0Y3a0dHLXh1VkVUaXAzTHI5VUpHTXhNMWk2b3NaMkdJU3lSLWNzVGdRcEphdXVBV3F6SnplTWhDeVFxNnR4RTFyRHVuMncyUmdVWHZhamJMU2tqTVNvMU9IT3daSUtCUFNR0gHPAUFVX3lxTE9fc1AyLXZacHN0RXRPSUlhalNuTVhGWUkycjlTaHIwVjlSRGtaTllNVjBCYmstbkpaZlVfUUZheWtBMzBGUHplaU4tMzZocE1iUjl0OTNPTXR0LVJrdkRSWUV6b3h1ZnctZks0OVhLVFRya1dJZTZoSmRaWWhfMHVBVnlsTzFRM1l6V1AtRERBWXlqMzFPNGJfTGxOUzlLZzFrSGpaTzJySTZKSDBMbTMtSVBSa05UakFJQUJneTFwOG5MTmRJdEVSWTFyRmJlQQ?oc=5",
-      "veiculo": "O Dia",
-      "data": "2026-11-10T22:00:00+00:00",
-      "categoria": "famosos"
-    },
-    {
-      "titulo": "Atlético-MG se reapresenta depois de eliminação e foca em jogo adiantado e final da Sul-Americana",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVEdvS0RzQ29YcHd1d3Y4cnlXYS1lNklUY01EYzVXWDhWdldaei0yYUpCV0pzLXRxUTgzbnFIa1doTHdmM0I0ZEFrcllOdlMyUDZ4M3hLU2c2QTg0QVFwUXgyc2NrYTBldjdzRkdqeVFkRTd0MkpCYW5VYUpCa3ViUDNPVEdTYlVCeWMyeXJzMnFiV3F1NHEyalJ3Rm5NRDhPXzJXWkNmWEM4ckZZSnlCWEpIVXVqLUVlcWY1SnpNa3N1bXRIWndYMjFLX3F3V3QxSHlSWkpxQ1BKVzNOcGtZUFAxZ1BSN3FIOENCS0VMd1JRZ21qRExVTFdSNUtkZ9IBjAJBVV95cUxNOU52a0k4M3V1dXBweGplOEtDYXRWRXNGUjlabmFDOVZDd0pUVVlDYk1XcGtWUXVxVUxIdVU4SUpZTEFqSmc2Z2MtUWlNYzVLa0J0UDIzWFVWY0Vrc3EwOTFfcUE2b3hCcVlQQVNCSWQxWVp2aTZwbndxLUlyTmdHSXZ1a1VLQ2ZDdGFyeEtmM2ZpcnRaZ2RPcDdlLWdRRHN3RDZhc1g3WkZtbW04ZmVXQ3pWTy0zMmVQTHY2Z2MyTXJKcFJuNGlyTV9vNUxHZFRQOFh0b05VaU1TcDg1R3lCUDV6N2NONWJKOE5ZVWw3ZFdmbmhDX1Q4V2M1ZkNuR1RuelM5WUNHQU1pMXQ2?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-10T21:58:08+00:00",
-      "categoria": "esportes"
-    },
-    {
-      "titulo": "Carro não tinha um arranhão após esbarrão de bicicleta que levou motorista a matar entregador",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWlhQUmtqOEg1MTlBdVMtbEpadHdlTmthMEVHRENMaVRVdV96QWhUTGJTWW1VNUFmNTlMbkJCMldEWEhac0VYRTdkRXoyamhDLVNRUS00MWh5VEdSUnJNOUJFa3VDSGJlckU2TzhGVkNhOUFRWjE3RmpCTnFNT3hwZERZMGYxZzY5ajZteWZ4MHJJTnJZaUR1emE1OFJPRi1iUG50bmFTR0wwT29WTjczakYzbTRQNWRZYU9oVmpBMHhUNjNuZTIydGpNUjhPWUZlM2VBbGZhVll0Rk1kT1NWbWRqSlNuLTlUVFpaNUJn0gH8AUFVX3lxTE1FbFl4NC1LekxGNnZUb3lxbDZ3eUJ4RzcwOVhrXzVSNkt6bHJGUktZLW9kVVJsV1p5dHpFWjRiME44bzdrdl9pekJQMWhUaVdGUmczNFMzQ1doMEZqeXZBVEtTLXRYNUczMlJxZ25nSjU3WDlKVDdxbER6YnlLTG85c0xLaEo4TWtraXZPbW1pSVhIVDJCSWltT015a2JKUXlvUUZSaGFiUVVMNmkwVTlJdWw4dEF3NTZBYlFUVEFCUHYyMm9GQWZrZG0tYWZZazJzcE1FbDdCOE56ZWFRZ25ESmtpYlZ4UjhVYzFrRHZiMWxhR2ZzODd3SnNlUQ?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-10T21:48:39+00:00",
-      "categoria": "rio"
-    },
-    {
-      "titulo": "Mais de 2,1 milhões de moradores de favelas do RJ ganham CEPs",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWW8zazB1QUNPVGlLYmpsdzRfRzJTLWlncDk3N09uNkNrYk4taGhQSHpGWTE0ZTFqbk51cG9QbXdFTU5rX081eTN6SHdZN1YzdER6YWZQQUJWdUFDcTdCNGMwN0laSHJoWW1SQmJRTmYtUlRJMlFPNFZnTW5rVkpqd0dIVjRVLUQtVVVnNDl1Sm5OUHdHV3dQNy1CVm4xYnRFOUNSUmh6WUJ3ZXNrRG1wZUVseGNkOUx3dlJj0gHAAUFVX3lxTFA3NGJXc21tZ25uMGhOWktWUWROVWhlSng2N1VVS0Z2R3JCSFF2c1hST3N3TVdvRUt3Zm95QmtrRUFkQm9DWFNQZFNwZlZLdUdwU3RqQnExOGZXUGx2WWJ2VzVzbEpSZk9fUll5dmIwaHJudWdveEtxSk56d0ExRlppSFlINnJaNkk5YmdYbXRJb0xsanZCUHpONlNtX2VLeVFJVng2SXBRMVZBbnA3Y0lwalVFREh3eVYtUlNZQ2FTaQ?oc=5",
-      "veiculo": "O Dia",
-      "data": "2026-11-10T21:37:58+00:00",
-      "categoria": "rio"
+      "fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOUJSTGZqRnMtU3pxMlYzU0hFak5zSkVIRnBsMWp4VmlWTy1OSXBuZmItLURWczV2bnByX1ZEYm9iSVljVlpiSVRjcEJCbmtYV29YV0JPZk1DNUpzMS1FSmxxbW54S2h3U1R6bEJGWnB1TmpxczBpMVpqUjdmRkFFd3JtTzVucHlmb0V5STRBeG5UcnVCRlNwQ05KaDVvQUNoZDYyTU1aLTNyalpLUnc?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-10T21:20:00+00:00",
+      "categoria": "economia"
     },
     {
       "titulo": "MEC libera IA para corrigir provas, mas professores continuam responsáveis pelas notas",
@@ -793,20 +1113,12 @@
       "categoria": "tecnologia"
     },
     {
-      "titulo": "Marcello Melo Jr., Erika Januza e mais famosos se reúnem em festa de lançamento da quinta temporada de 'Arcanjo Renegado'",
+      "titulo": "Trabalhador poderá autorizar bancos a consultar extrato do FGTS",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQY2Z4Vks3UnNlZUUteWdNSkhmcE1oUFZDbU9SNDdrUm5JUW1yVVZ5ZnNVTVdJcUw5d1l1bjBjaVhBdkpyN2pGM19PQmViQUxIbjRWVE10Z21BNm1UOTM4cnJxeVNDZFY4d1drYy1LNlE1VE92MmxpZ2dMSzF2aTBYZlU1ZHNkemRoekNKTUJLTk9vWWRvRV9yNVZ4OGRCTXp0OU9EMTJNVkllTjhsZW1uaGd0T19IVXpXM1FpSUNVVGREYXJnemROc1czSEhBd1pELWRnUDdmUFM1cmlydVlYWUZaTFNVck5sbHFLZG9tWmxQbVZnckHSAYQCQVVfeXFMTzdIV2ZLUmVMSDFFdU4yMkpBNG54a19lSUJhd0JGWUU1M0c3SWF5WTJiT2ZBR0JTVU5WZFBFSkRmdXFuUzdHOXdvSHNTMVZGUnVFYnUxUV9qRGJyeG1GWTRudl9PaUR4dXpIVmJpc2IySS04dWtGcVJpT094d1BKVG1IakFqb0FKc1dFTE4xRDlsRDdmdjdESC1kRE5rRHNzUGt3OUJjeGl4U0ttSnVRbjJQWlY1elQ4RHIxcEJPT0xyNnJPRnNMUXhLVWRLRGh5UUZlVjF5N0ItQ3ZaSzUyd1ozTWphQTFUaGczTExfbi01azdtQ2lfV2NjNzdxdzZYM0x6bng?oc=5",
-      "veiculo": "Globo",
-      "data": "2026-11-10T21:11:27+00:00",
-      "categoria": "famosos"
-    },
-    {
-      "titulo": "Rachel Sheherazade critica novela da Globo: 'Festival de ignorância'",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ1FIcFh5R0lkQUZHQS13TTZKV09FRFNLLTZRcjNEOTZPVF9YakxCamUzQzFWWVg5NWVHZ281VVNFWnl3TFJKcmFqdXdsV2RoR0hCRmtEaFF4M2JOUjZhVmYxVHZhbDNrYkdfQUoxTE9wRFFMWnkyc2p6ckFMSmQza0FzWlFqZm9yMFhTZ28xQTI5UFVBejhSOTRCVlVHTmFGbno3cjBqQzZtUDVEczFsMC1rYUdiWWN1aDlPaVVBXzF2ZjE4NjMtV0lRQdIB0AFBVV95cUxQVVVvWEN1SjkwZF9hWm8wUjl2RDFDUFJZNWx2cGFna2Y4U0Nsc0J2ZEptRE9CTFFyZG50TnMtVUZKVXZZb3lfVV9ORWNoM0lHOUJjdzRQaDRzSEY5elpobWp5ZE54WDdQeWwxcGNvbFN0ZV9tSTg5b0NHZjhSbUxYeXZfTmtlNU1mQ1lSQlpsVWp1WUl3MVhwMTFyWkNyMDR4czc3U2hXcThNaFpic3gwWHNNUFFvUVlFUHdVY0Vpa0x4YXVGTk1tc1NoMXI3bEpk?oc=5",
-      "veiculo": "O Dia",
-      "data": "2026-11-10T21:04:00+00:00",
-      "categoria": "famosos"
+      "fonte": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVlPRDVJUFZwXzR0Q2haaXpJR0J6YS1VUHNJZWphXzBhNlAtcy1yNTVuWmJtRVBxelNsQjFVaE5uM2dPQ19ZTUcwcXd0dm1GcEZ1bWdaS2hMdVlhV1FEM1pYclE5RkZpbDR3bjUzNzNWVXFJQl9XSkhjbHdfdkhkU3FwS3g5dzl5a0VwbG5pekVfUU5zMTduTUN1UlpGU3BmcEhIcmxIXzh1c2NZQ0p4OC0tUGdGNDZBVjh3?oc=5",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-10T20:49:00+00:00",
+      "categoria": "economia"
     },
     {
       "titulo": "Paraguai: Cofre secreto em casa de Peña era quarto do pânico e estava vazio",
@@ -817,20 +1129,12 @@
       "categoria": "mundo"
     },
     {
-      "titulo": "Renan Calheiros propõe inelegibilidade para condenados por violência contra a mulher",
+      "titulo": "Galípolo diz que nível dos juros de longo prazo também reflete credibilidade",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNazRCWUNXQTZiTDBBY3B4Y1NOYUpCWFRsWXduZXI3THM0eUtsZDUydnp4YnFOZEJQQmgwbXNqelpFMjlLdXFSQUVyRVI5Qi1OUmNmZjFQQlBXalhYZmtnYmFsZ28zOC1QempiUW12TU9neDlHN0tYZFliNFJwSnRSVHo5dmpsbnZiU2psaDBoR0lXU0U1TGdXdzRsM01KSWk0YTZIN25HbHdjZVNyYTlXZGxXU3ZSSzJESDdvMGhYNE9NVzdtYXZ4WDJScHJRRTg?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T20:17:51+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Renan Calheiros propõe inelegibilidade para condenados por violência contra a mulher",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb05QNFBCcldmcnExeTRMNkJ1X1JBcEF6XzVHU1NGMHFDRS1tZDFRYi0zZ3NLQk5iYnQ2SlZndkRvYmZVUFI0UEczbXVfU3hYUS1vSDJ0LTg4ZUxGaFI5dURBNElLQWVpWDROYXA2N21SZFdqWk51YXhNY0NVb1UzS2hfcVZscTJRS1piUHVTTFhKeWI2THp6VU80bDR3UGpTUDI5MEMzU3Y5VUJiSV9QaFh3ZnpaWkQzaU92em9IajBoeUdp0gHKAUFVX3lxTE50V09mRElzb0lhYURRLVozWHJwSVN2V2diX29OMjJxUDlkemVrQU5CZ0hDVFptVjRtcXlMNEM0ZXk4V3JUeVJTbnFNSnFuckNKaFd6TW1jWmktY05XWkhhWElRa1hmdUk1dDZKQ2pHTmVTLTdJbTh6aW5jZ0xsd3V6bXBiYjBkQ2gzMElwX0N6bmVCR25HRXRhNlFJdzEySzlwSW9id3h1TWQwLVUyanFtRnVKeG5qbEJPSGJZMXIwbWdETlFNemdwU0E?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T20:11:15+00:00",
-      "categoria": "politica"
+      "fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2dmMUp0RTBCSWVZQUt6N1MxY2cyeElway1KNkpYS3BhYUtMbm1SekVpSDc5UmJzVGl6X0Y5Vi1sTVBQa0ZZWlFpb29qZGhFLWFKaUZweTNzOVdBdWlGbTFJU21nUDlKVjVFTkxhay0yWXY5ZzB2RkVtTk1YS2Y3UElmQmRtN3duZktRb3dXQ3dlVFp3bk1vUjJabm16YjVVUjFFVm95cWJKYVVfcWt6T0hZdmF2UdIBuwFBVV95cUxQelJFbFppNU15Q1ZHNVo1TWM0cjRWcVJlTExzcHpjWnNCa3lVSjloZVZvelNEMTZkQ0RZN3NHS1N5Rm9uVHpsZENNTVczTlJlSUdnRzZoUy1xbU9hVHhfT2pSQXFCbTBnZU82SkoxVUQwWk5NekppXzFxYUNNT1BDM1h4XzlyLXZwVUZtcldCbWpjR3lFQTNvQk5CSjJpcHRJX1VhS3JkcjMyajA3Z18xcmVaVjlxNURJYU5Z?oc=5",
+      "veiculo": "InfoMoney",
+      "data": "2026-11-10T20:07:40+00:00",
+      "categoria": "economia"
     },
     {
       "titulo": "Mitsubishi derruba preços do Eclipse Cross e SUV sai mais em conta que VW Nivus Highline",
@@ -839,30 +1143,6 @@
       "veiculo": "Canaltech",
       "data": "2026-11-10T20:00:03+00:00",
       "categoria": "tecnologia"
-    },
-    {
-      "titulo": "Como é a clínica psiquiátrica que atendeu famosos e virou série da Globo",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmZ5ekVvVy1QR0s2LWFpcEg2X2xOYlpqNU9RMnNleTI2UFllbEhyTDl4ZVVtZW5Pa1pyZ1hCSVhRQUhJRm5jWTdDcThYLTlOb0RBMG12M3U3ejR4aV9vLTEyb3JOX0hqVThuZng4UGltOTNnellNUXFYSDFyeUVzM3FESE90Z05CWjBTZE0xYlJfUWhVYXM4U0ViZVo0R1lCNzlJY1d3S3BMSTFoOTR5QUpHcHZDVE15RklFVGwzN2l2UzN4U3I0bzlBNXBVbkhrOFRQbEktdkZUUzlZSjQwZlR3ajdzWEU?oc=5",
-      "veiculo": "Terra",
-      "data": "2026-11-10T20:00:00+00:00",
-      "categoria": "famosos"
-    },
-    {
-      "titulo": "Relação de CEO da Nvidia com suposta espiã chinesa amplia pressão sobre Trump",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1VtOG42Ykl6blRHZUdqRnNyRElTYU1XemNPcy1IcGozSGE0TVo0eC1VZ3pMX1p5TU1xTGo2dHZjUU82VnlnaHY2VV9mQnBpby1ZRmtHT0YxT2ZLOW14RWpCMm5ST2hCdWVYRkxGUzBCc2REVzRnNkhxSS1YTlFHbmFqSm9BUW1uaXgwYVRDSjVxc2dYRFNzZTZaV25vaTY1V1dueEtOVEtzYU5vSFlZTXY3bEpfQmk3VUxDNHdmX0JWUdIBxwFBVV95cUxPcm9CcDR2WnRqdXZ5MHNEY0IxQmNybFJHWXVXNzZ4b2ZyVWJTRXdvamItcjRrU0Z1LTJZa3R6UEU0cTdaZ0xocTk4clp0Qmw4Y1JaYnRSQkFiNURtcWs1eFY2QmliYkJlZVo1ZGV1X0xxbXJLUGpYcEN1cm85a2ZESFdFcF93VE9LT05PWDVKUUZYZ2MyX09IWVR6NlEyLU80cGpXZGhiX3B2aW1naDUydHZPQ3pKMjlHVjA4Yzhwb2dFdVNMU01J?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T20:00:00+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Novo affair de Virginia? Piloto quebra o silêncio após rumores de romance com influenciadora",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcEtLYjZhVmNTNS1KaFlqZ2tocUt0S2VCZU91NmxWandfb3U5Y3o2ZTZuNnJGQXJXbFpqUVFEUzB1Qk9MX3kwcTlKNzlMTmdRUlpudGFFWUJvME9HMDlQRDdDaHRqSWFEVmM4dDdsOGc4Ym5DbzJEWUFzb3NkQ0Y2Z04tblFRX1dKRFBqYXdkeVAxZHI1VEgxUXozR3ZldDhYNnFiWm0tMF9WMk91ZkhqcnJSUWR0WTE0c1Q1NTh4ZFU1dENJQzhyRUxacXJFOGI5UUpweVJDdWZIVmFUUEl3MTN5SHRFREJYVEFpWmlVZmZPWFg0OTRlT0FHNFhqUnVaM1dvbGptclk4c19pU3fSAY4CQVVfeXFMT3BLS2I2YVZjUzUtSmhZamdraHFLdEtlQmVPdTZsVmp3X291OWN6NmU2bjZyRkFyV2xaalFRRFMwdUJPTF95MHE5Sjc5TE5nUVJabnRhRVlCbzBPRzA5UEQ3Q2h0aklhRFZjOHQ3bDhnOGJuQ28yRFlBc29zZENGNmdOLW5RUV9XSkRQamF3ZHlQMWRyNVRIMVF6M0d2ZXQ4WDZxYlptLTBfVjJPdWZIanJyUlFkdFkxNHNUNTU4eGRVNXRDSUM4ckVMWnFyRThiOVFKcHlSQ3VmSFZhVFBJdzEzeUh0RURCWFRBaVppVWZmT1hYNDk0ZU9BRzRYalJ1WjNXb2xqbXJZOHNfaVN3?oc=5",
-      "veiculo": "Terra",
-      "data": "2026-11-10T19:59:36+00:00",
-      "categoria": "famosos"
     },
     {
       "titulo": "Comprar lingerie online? Saiba o que observar para acertar na escolha",
@@ -889,14 +1169,6 @@
       "categoria": "economia"
     },
     {
-      "titulo": "Deputado eleito do PL vai cumprir medidas cautelares por violência política de gênero",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblJzeHZiR0ZVR3MxbEpIUlFuTmJjVjRpVGx2SHZ0R3NMWGp1NERHRWF3WDA3aFNrRHBRUXVlLXRKcXE5MUxWMGhtdGFLckZaZV81WkZlWlplM2NhQjFYYmFiU1AyUUZzME5sR1g0V1ExRDFDZVBwRkRORmIwOUEzdE5SQVlURGJrUzU0ZS1YV18zc3dqdWdQREJLSkR3ODJxWlhuWV93MldDLUhLU2h4MkRIeFY2cVA1NmhTVDA1VGE0enZQU2d4QWNCVWsxZ3dU?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T19:20:44+00:00",
-      "categoria": "politica"
-    },
-    {
       "titulo": "Casos de covid-19 caem 64,8% em Santos na contramão da alta no Brasil",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVGE2NVZabTB0OUlxclFZVWwwOXp2TllEQjFCeEVoWHZ4WTZjc19HLUFaVkFQSDZjcFgxckhkelFqTHhrd0VIQ0hkQ3FnQk1WdWxSOGh1LWdBYUJoS2MtSWx1bFFmN0VETlRmUzR6SlNMQWs2QmFNSklHalpoTldyNDQxNDhRcHNDX1ZfVkFUMDR0TE5NSGFLZXFtUm0wMXdlUTdrcG9IcFpFdDlpZms2emIzX0hVWl95U1ZVa1Roc04tUUlZZnV4V1Y5QmdERGJwOEt3ZHFoeDduN1RjeExCWG130gHwAUFVX3lxTFB3WklLU3B2RnJLR2pnTW82Ri03QXVrS1F5QmVQOWJrRXltMFd5WS1wTjF4U2lyay1ZS2xtT1hXcFJCcUZJdG9rUEJUM1ZUTGxUWlBjRWZaOC1Yam13NXYxY2ZVb0pvUFpOSXQ1UUNZSUtXOVhNQ0xIUXVVa2JaekVRdHo1RDExbXA2ajdVUThIRVI4RGRSbm9sTEUzWjc4WEd2bnRBT0VjaW14N1p1Z0xrV3doZjZZdlJ0THdZNHEtblowSmszMmtockJIQ2o1cURoZ1VDaElxWjE3Rk1vNktBTEM3STVmMlg1ZHFDbGpreQ?oc=5",
@@ -905,44 +1177,12 @@
       "categoria": "bemestar"
     },
     {
-      "titulo": "Clara Maia desabafa sobre perda de filho",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQTNxWl85ZW5GLXI3b1ZjNUZMZkdBMXVhcGZjZEo2ZjJwRWtzYXlabmR1MzcwNzNMMDdxNkxjMkJuaUNrdmp6aVk4R2tVWERHQ3ZQLXc3c2NHOFA5TkwyQ2FtTm9WTEM2LU94SlhMQzJqVVhKbHctTVBhR0FMRmJfTjZZR0hrRERXWlk0dzFUTHJNcG1aVFlCbm1iT0I1eGt4eldtODRTWXRjQdIBrwFBVV95cUxQa2dOMFRCb3pWRnVpZ0ZSanRQSy12cWdETWVpendsNF9aczRNV2owdlcxUXVsYUNNYXVSMW1La2hSRWpyb0dJRGNmTDJqb1pxcmJjQ0dadFQ3WU0tNE13eWpIeHFZSlJpZDByUENTQlI3YXJqUVpKVDN3RU5kbWdqamNEb2FZTDh4VE5sSzgxZ2J6M2ZvUXZlaU4tUmRUM2pSUWZ3VjhjUXZoRGxYTEdJ?oc=5",
-      "veiculo": "O Dia",
-      "data": "2026-11-10T19:15:11+00:00",
-      "categoria": "famosos"
-    },
-    {
-      "titulo": "Deputado eleito do PL vai cumprir medidas cautelares por violência política de gênero",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWM5QUxtUU9OQUpfU0NacW9QVWx6Q3hhVC01MEUyNnVfVk14MUcwVElYQlFWYXRXSG9MclZ2VDZ4NDloS2U1U0RIZ0k1MFRZSXJDOFd6NHVucmxGcmdpUE5WS25RaW5nQkVYRWVCRThmXzNRcnpYVFdUY0RkcjNkMEdhbXF1MGVyeFhNdHBueDlpb2ZQNmFWaEsxU200NUhVRGN1Z1pFU3JEU3RYN0Z3aFhMTXBkeUNhSVhUN0ZCM0VwSFBwMGfSAcsBQVVfeXFMTUF0NU5zbkVfU29LVkI2eTZ2eW43SDFxaDV0UF9JZVc2WG56Y1dTNXpTYktMVmhTdWpGbFBKTjNsMjlmZEszR2Q5aTZUSHVBdm9vTTYya0h0NnZvdTR3bDVCSFhRd2FMc3FoeEJtNE1ZNFR0UDJQMW1CeHN4Y0UxRkZBeWFUZE9FcUxfWVZwUDV2VDV3NlpMeXR0QjVpdm1yN0lOSzJNZmxxclBGa0J3RUlSbUxHSXlfX253V2lJTlJMUnhUMmJsTlMyY0k?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T19:12:20+00:00",
-      "categoria": "politica"
-    },
-    {
       "titulo": "Hipopótamo Felícia morre aos 28 anos no Zoobotânico no interior de SP",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVjYyakV4MHhGdU1zbWdQTFJPTk8xOEdnb0haSzh0bzhMaWhJdF9oNXJfeVhlcENEd1NJMFJBYnNiSjZ6QlQwWmJDUU9pS1hqMWhRQjJwZl9rYm54bWpITVRqUEVlUnhWdVo3d1g3a3l6eVp2aUNTOFhwSVczQ3N6aEFVMUdjSW50bnZabXI1dU5PTllvRzF2Mk5fcDVtOVRyT19jSEZMcS1DU3l3eEh4QkVSVUNjellDS0FtRndXbldjaml6V2g1Y3ljcU1QWFdncjVtdHBMX0hJU1JWaU5QSlJaYk_SAfMBQVVfeXFMTlV4dVJZZDI4YUlJN1VBMVRCS25EZ1BzMEVZZmZjQWVuTktaQ2FVQ1E4MEs0Vk1UcnRXckdJX0R5TmxZYlhULU8zNGFuZzloMDFsQ0wtNDlXT0JmQmRRYXk5cDYxM3FmRC1wNXQwUzRtZWxndlJxcWpvY0tjRFZxT1lXZ2U1aVBuMl93Um5NdWkyOXRYYklVVVVqaGYyQVFMeFlUdlRLNFhZNjR6cWVKbW9ONWw3dkttT0pDcExXOExTTEdTRm1OYWRHVzcxcl9wZHNPd2JXTWY2cXJFRDlUNE1EUHNiS0Ytei01WTJNd0pqRVRv?oc=5",
       "veiculo": "G1",
       "data": "2026-11-10T19:06:04+00:00",
       "categoria": "bemestar"
-    },
-    {
-      "titulo": "Nikolas Ferreira diz que acionará Justiça para derrubar licitação de iPhones para Senado",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQVBxQXhUQ2QxcW96LWJMMFp0UU5qcDVYMGIxWDljTTY1dV9RZ3R4UTc4YXh0Y21JVW5qS1loODJVZ3kwZ2V5ckN1am9mNFpNRlFRTkQzMkxITkJvaWg1V3BycGdGajUwYVZCSll2N0pNamdleVlaT2p3QUEtTU1YbEVHSHdaMXlackVnYXB3Mk44bXlMWEhOTDhDbGRtcGhKNHJvZEJwYk4xY25wLUU1RmJtYXBoUTBiY1VuT2hEdFBBTEtYY0V0amZGNDY3eWhkSjFIbmpJclVHdw?oc=5",
-      "veiculo": "Estadão",
-      "data": "2026-11-10T18:21:21+00:00",
-      "categoria": "politica"
-    },
-    {
-      "titulo": "Apresentador da Globo exibe cicatriz após cirurgia de emergência; veja",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQmVSMGlkOXI4OVlOOHV2b3I4MEdDNGI3UWl2bGxNNW8wbFhBbXBqV01WWWowRFJzbFJBYXUwcEM4TkJraWUtalJ3WkZvNklKU0xQSkhfdFQ4LW1ZMlNNZFB4RHNEZUFEWUdYRXEtNE5oTW5IaVlCWVVQYzF3dDBuT3pKckt4UnVmeXpqSlBCMHE3ZW8xSlQydUtLLUIxRi1WU1p6X3J5bGFyRkZUZXlrekhpMUMtbU1YZjF1UTdURnh2aExNdEFPZDMxN1NfeEhJanI1aFRpcGdyOGgzVGsweUNSZkc2ZmI1eWpkclVaVF_SAfABQVVfeXFMTkJlUjBpZDlyODlZTjh1dm9yODBHQzRiN1FpdmxsTTVvMGxYQW1waldNVllqMERSc2xSQWF1MHBDOE5Ca2llLWpSd1pGbzZJSlNMUEpIX3RUOC1tWTJTTWRQeERzRGVBRFlHWEVxLTROaE1uSGlZQllVUGMxd3Qwbk96SnJLeFJ1Znl6akpQQjBxN2VvMUpUMnVLSy1CMUYtVlNael9yeWxhckZGVGV5a3pIaTFDLW1NWGYxdVE3VEZ4dmhMTXRBT2QzMTdTX3hISWpyNWhUaXBncjhoM1RrMHlDUmZHNmZiNXlqZHJVWlRf?oc=5",
-      "veiculo": "Terra",
-      "data": "2026-11-10T17:59:32+00:00",
-      "categoria": "famosos"
     },
     {
       "titulo": "Microsoft tenta barrar proibição de tecnologia chinesa em data centers",
@@ -961,20 +1201,12 @@
       "categoria": "economia"
     },
     {
-      "titulo": "Famosos reagem a afastamento polêmico de professora da 'Dança dos Famosos': 'Não foi impedimento'",
+      "titulo": "Amazon derrete preço de ar-condicionado poderoso da LG: 24000 BTUs Quente/Frio",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbER1QlpLZ1dPSDdpbmYtUVktVHYzOERWUjJ0X01zQXdKZ3hFRDBsRDZpazM4SEs5RFlzSVlGT0NyTzhQckFrWmhJUlY1UHgwcVVxYTktWWxBc1NNMmF2YkhYYlR5VFVtY2loWUxaVWZoQUxTeVVCRWhpeW1WYXJzZU96dXZjdVF0OGcwVG1Yc2VfZnZ3WnlnWUMzOUhtdFZQaW43UzAyVTJWT0dibXBoVXg0cnRsUEJEVmdEcC1wTHJ3UU5mUDJuWmNkejhxdGJZSnV3akdyZHpRbHZfZmpZWXcwSExlRDVEM3h5eXMwZDI1MWFSYXhYb2JHdjBzQmRGWU9YbWpR?oc=5",
-      "veiculo": "Terra",
-      "data": "2026-11-10T17:36:00+00:00",
-      "categoria": "famosos"
-    },
-    {
-      "titulo": "Tatá Werneck está de luto, mas não falta na gravação da novela",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3oxYURSa1dqZ2N5X3NHTHB6aEFwcG9iVlZpcG5RT1RFMUxhWm9OV0NOaXl4MjlzUDRNdlhRZVlObHRzekl3VC05VnZDTnV6ekpNQ2Q5Y2lEWlRUVkZJdU1JVWd3c3UybDg0OTNPSVI4WHF3MmdSX3B4Sm04bHlqeW00ZG15b2g3bGE0N0NwaXBJWjRxQlE?oc=5",
-      "veiculo": "OFuxico",
-      "data": "2026-11-10T17:17:00+00:00",
-      "categoria": "famosos"
+      "fonte": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON3lERElPLTZ1elhLcnhDQ2RFZXVfbEtpUms3S2IxR1lKZDhQUGRTWi1GZnVMazctdXhXU01ReHZ1clhaOGZlTkVyUnpXWmswblB0TlZfV3BkMnFZRVVvZXFSSE10M3JScE5fcUM2bXUtSENQMjZxNi12WjVocnZ3TGJJS2t0ZUxGU0ZlRXhTMVRvZzAzNG9sTDB3WmxkRjF2ZUlFdnpQLUxqVWFKRmc?oc=5",
+      "veiculo": "Canaltech",
+      "data": "2026-11-10T17:37:53+00:00",
+      "categoria": "tecnologia"
     },
     {
       "titulo": "Movimentos sociais denunciam proposta do mercado de corte de gastos",
@@ -991,14 +1223,6 @@
       "veiculo": "Canaltech",
       "data": "2026-11-10T17:00:00+00:00",
       "categoria": "tecnologia"
-    },
-    {
-      "titulo": "Pele à mostra: fendas e decotes despontam como tendência entre celebridades",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnI4YnJTNTFfRXozRm0wRjV2dzBaWVZ5ZnFkU29ydXktem5jUWQxc0lhUmxHcTFJa2dJY0QwdmRBZkxCR0steUdod3YwYXNnem5JN3RDTkNVTzFvaHNaU2ZkSXdKWDVRaEVQckI0VWVLRzg3T1FORnQwRzZ1RmFjdV9sZ21fTGlqcXJiVFpoV2swOHNsb3o4VWM0Y3lIRHZHMDMyeGFvbG9iMmJCV2N1ZU1NMGxGQmpGQzF6TGxJamFidmxZTFlV?oc=5",
-      "veiculo": "Metrópoles",
-      "data": "2026-11-10T16:37:00+00:00",
-      "categoria": "famosos"
     },
     {
       "titulo": "XBOX One vira o console mais barato para jogar GTA 6, mas há um grande porém",
@@ -1049,30 +1273,6 @@
       "categoria": "bemestar"
     },
     {
-      "titulo": "Explosão na Espanha mata um policial e deixa outro ferido",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW5Yc3NoSVE2bjdMcV9ubGtQdUhRcmJjT0VsRW9IRk5rVlFiUmJrYlBfQWE5TFZ3YVN3c2psRG54c2NyVjhzZjk3YzdjWi1kVW5FMWRXMjYwZGxhTW9hRzFEOWxLRVFuUEYwdURGZTZkNjFyQkZFaC1WTjc2Snh6eVgxbDNxQmRLWVV0OUtDX3puYlhBSDNGVDZLaGUzNkpGZmRR?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-10T14:54:12+00:00",
-      "categoria": "mundo"
-    },
-    {
-      "titulo": "Ata do Copom indica que desaceleração da economia não conteve inflação",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlpoa212eGR3SEdDejd6U3hTQWdiRTVkV1lEU2hHWEVVQVVPdTc3cF9xc1hDeExEa2FYSDB3bU1sTzRZQ29aMklTNTVnM2p6WTVyLTdocEhnMkh6WWxfV091V0xNVFRDbi1wdENOak1KNURnTTZ4UTYybi1zMVlrZF81emlKLUFBRWw5eUstaDZBVTNrZTN2S2JkbnJjZm9tcG83YmRiR3NPQjc0bEtBVkFxZlZVUGJ3SWpQeGQ0VVZ0b0w1dmZV?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-10T14:20:00+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "Ata do Copom aponta 4 riscos à inflação e joga pressão sobre gastos do governo",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWN6OFFOaWJidHZaVWR3SnZjeGQxZnhwVlhvS19fb3B0WlVFUUxqSl9RbHpvdUgxZlFQMzE3WmRXUWhoOGhpOTlzLUZmSWlTZ21PTGFSUUV3emVmaHNfazBLMUQ3b2RnQzdQSjNZUXUtSlAxRG1fZHBjUGtrOUt3azREVGtBaTFZQTI5STIxdEg1LU42UXNDWTFhWG9jTE9WNS1mNzB3NzlOdThWWV9KOHdwWThXZnM50gG-AUFVX3lxTE9aTFQyNTQ1OVIwdm9zNElZcVhPcTdFNWlvRkJNczN3LWFIVk5BUnk4b0c2Z04wNFlWNzVhSnpwRXd1bGkwXzl4SWQ2d09XTHRFX2hVclVYbDVkYlk4SlIxWS0wWUZMTU83V3NQSG5nZ0RuUkJ2Q3V5VXlxWVZhbmpoeUllWXE0dVliVDl0aWM1Z3d6U2hKNjFYYWNwTzRNdWFPR3lud1BEUEpobTMxWWl2cGJWOFh1a2c4bTRIaGc?oc=5",
-      "veiculo": "InfoMoney",
-      "data": "2026-11-10T14:12:22+00:00",
-      "categoria": "economia"
-    },
-    {
       "titulo": "Câmara dos EUA vota primeiro passo para impeachment de Pete Hegseth",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUC1INnBmYnJSdmx0VDRMNFBEM1R5NmljcFhROFItamRURDJ6UWh6b0NzcmFUTmJ2TGt6RldFMVBvQWFDQVlMM2RvekZ4Y3hVQVQwU1dYbERCWkRWMm5kU24yeVVqNng0VTE4dDhjNFAyRUkxbnRHUkNlREpBT1VQUGRJSjdId2d2NVM2aExxQVZCZTdUVDFLTXBUMzhucTAxOWxPQjRIUnVIRW15RmszWQ?oc=5",
@@ -1087,22 +1287,6 @@
       "veiculo": "G1",
       "data": "2026-11-10T12:37:40+00:00",
       "categoria": "bemestar"
-    },
-    {
-      "titulo": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlNVRTdXWktWc1lIMlR0c3JyR3F3UkItSWRnUWtPbmthYjNCUE8wWFhraFE4TnR0dF8wbGhMNkt5dlIxRzNBNm9jeUxuOEdxZXVRYkdTMEhKWGd5cnlGazZtRjgydmhZUk9VZU0yM3hzRFpRcUVZb0MtVld4bnphWUcyamNqUDJMMnJaMGJGYjI1NG9KVHMtN19Kd1JRb3E3S2VjYlhVeVJWNi1lTUxMSUEtX3FfWmRLODNoenVTXzFfRy1kV0Ew?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-10T12:33:00+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "BC cita fim da escala 6x1 e depreciação do câmbio entre fatores que pioraram expectativas de inflação",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUDgzOVI3TGpiWXJXNlpqc0tEYTVPTDVZNktlUWs4V01qUTdId0doQU5McHZIeHN3azgzbUVWMDZhVVI3MWF0em45UTdMLTFfTEVaUXA3b1BGQ29aaDZtU3gwSV8zMnpTaHFQT0lCbW03M0g3QWdIU0VrbXp2MHJUNlU0bmIzclkweDZqU3FZZUhFOUw4Vl9VZC10Q2hVZlZNcFFuQno3R1k4ZXRkX1gwYjVqVGhlMmMwazJkVlA1TUdjVjJhZUJCU1M2aExuV1lmUmQ5T1VmR1M2OWRYTjR3Qi1lTi11RDduLVHSAfgBQVVfeXFMUFZBNzh1TUtBMmNpUEFDbGFBZmN5b1Z4WjFneks1Z2RTWVEyRXRCaU5DT2w1MnZRNEpYczJ4eTNaeW5KRGprT1JGSmQ3U3RfcDloQXpzRGlTeWhDbWNJNVVGNDd4YmttZlRWYllvMGxLenlfcEZqaWVxSXBSSWd3Ny1zOWVKQ2s5dldfY3ZVaDIyZHd3YUJQam5QNnVhY2RJU19LSUNoTl8yTkZwbExkTjBvSmZvSGlQS1RTWUFuUUxRN0djb3VGUWtncER2Q2FSUDc0bEZ1VWpXdlBwb0tmYk91b0x0a19wZzE1Rkw3NnF5V1c3eV9NWEU?oc=5",
-      "veiculo": "Valor Econômico",
-      "data": "2026-11-10T12:30:12+00:00",
-      "categoria": "economia"
     },
     {
       "titulo": "Lula terá reuniões para ampliar parcerias climáticas durante a COP31",
@@ -1129,28 +1313,12 @@
       "categoria": "bemestar"
     },
     {
-      "titulo": "Ambiente de expectativas desancoradas requer juros altos por mais tempo, diz ata do Copom",
+      "titulo": "Explosão na Espanha mata um policial e deixa outro ferido",
       "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTzBBUDJKTzQxR0lLVnBMQWtmTWVUcUE1Zk9zS1NVd0s1TFJpLXZkNVUzSHBudlpsbjBEbW8xRFFjbzZneTF0MjRCWlZiTXhCSTNMN3Ftdl9DZlVOcnlMNF9NVFA3RUFLUEk5dHNVSGFsbDhlNFpmTWdCeTRmazRSRHc2R1M4cy1RbklWVWs2MGItUlZRc0JqV1FmMnYxUVgyeFF2UlN4TU8wYzV3ZHJSUmM4X0puSHVFUGo0UVJxLWk3WUZLbG5VckltQnloUWdfRTJzSk1TdWJTVGQ1T3dj0gHuAUFVX3lxTE9OanoyV3N3TmhMNUVqTUY5YjV1aTQ2MnhQeXM3YlUwV0s3ZHFIMlQ5bnhnd0h5TGVtUWVfOXE2ODhWc1kwQTdMTEpfbzRSMjVHSHI0a011VDBORTZVWUlWd3VnaUNndVBMNVBsQVF0d1pLWFNFRjZQMzM3bkw2UG1xa2xtbHJheXdGSW1pUS02czNqTmFwcWtLcVVzTDVxanJFei0zZUtDWENBcGJ3UWJHeDd3eWR0VUVGUzJkandoTmdXcy1lUkEyMFRZMjVZa054ZkkwY1hocG1YUGV5UVBMem1JVGhWR2ZRSFhubFE?oc=5",
-      "veiculo": "Valor Econômico",
-      "data": "2026-11-10T11:41:47+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "BC vê choques do petróleo, El Niño, fim da escala 6×1 e câmbio pressionando inflação",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM3BQRnBlSGtPYm5fTFhNb0c1aW5yaGI4M0xKQkVVT2VlT01wbE5ITGRRWldBNjVqLUFjTXFiV1c4RkJFOW1maVB6TFhuZUZWaHZmT29nRUM0SURPWGFwd1BoTkEzeDNYTnR4dFBDaTg4djNwa2hSQmRFUTUzLWRZMmZNRHY0ZVRPZ1pXYWhKUDBxRmltLUVWa2pNNDJRaF9hNzFkb9IBqgFBVV95cUxNRTllb0ZXZWNRSlQ4Ni1vUG9uc2J0eVhTU1JsOF8xS01IQmJucW8xVWhOVXZuMmdzQWRhZHpHNzNLZXh2bElXTEZlVUF2a0hibkhqeS16MHB3TVJIeUdEbEI2dEFZbUdlbHRDSnRvMXliZmhzSFJtX2V1djRHdTAzeDQyWDhDSVBSU2ZnWC1wNElKNjh5Q0dia0FnenJNaGdXMHZjUm9adUdRdw?oc=5",
-      "veiculo": "InfoMoney",
-      "data": "2026-11-10T11:12:19+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "Gás do Povo libera vale-recarga para 3,1 milhões de famílias",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTE5OFpValFONWJZVGN3N2JBVzBlLXV3WU0wX09DLXhlM2V1eF8tYl8xQUF2cXNnQm1kU1dQcG1lWXNTNmZDb3pfZmVEY2x1X2xQY2RkOTlQU3gtLWNrT2Y2VlJjRGhBN2ZuQVB1ZjhpM1hqOW0xck13S1lJSHFKQlZUd2RJZ3pnaUZhOTBKTGJiVmlnUUVuOWhXOFVDVkxfUjFTeWV0djIwbW1zVFZYWkNkb28wUmgw?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-10T10:30:00+00:00",
-      "categoria": "economia"
+      "fonte": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaW5Yc3NoSVE2bjdMcV9ubGtQdUhRcmJjT0VsRW9IRk5rVlFiUmJrYlBfQWE5TFZ3YVN3c2psRG54c2NyVjhzZjk3YzdjWi1kVW5FMWRXMjYwZGxhTW9hRzFEOWxLRVFuUEYwdURGZTZkNjFyQkZFaC1WTjc2Snh6eVgxbDNxQmRLWVV0OUtDX3puYlhBSDNGVDZLaGUzNkpGZmRR?oc=5",
+      "veiculo": "CNN Brasil",
+      "data": "2026-11-10T11:54:12+00:00",
+      "categoria": "mundo"
     },
     {
       "titulo": "Homem é preso após dizer que havia uma bomba em voo nos EUA",
@@ -1169,6 +1337,14 @@
       "categoria": "tecnologia"
     },
     {
+      "titulo": "Anvisa proíbe fabricação e determina apreensão de suplementos de quatro marcas; veja nomes",
+      "resumo": "",
+      "fonte": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVpLRXR2Y1A1eVZ1dkxwdzRBc0tPVzY5dTBtMm9fQkxpMUVjbWN0REo2R2xYYzh0bUJNd0hjRUpmTW9LbGo1Slc1cTFFNDhESHF1alpBaXRKMnVlSUVlVFdUVFdzenBzQXMxZ0RSei1GOWhtSHd5NUVFcjBMS3Z2M1FRTk5NSHhJd0lsN0xDRF9IcWI1ZWhZV2c0ZnE5OWQ0MUdZWS1SbDlFSVFzWTIxbjVtSnZ2RzRaWkFvcVUtQnlPUDhSU2NUbmR30gHYAUFVX3lxTFBFU29zWkRFc19HbzlLYTdJV0J2cjZ5c0tYMnBlZTJMZ2ZZRVlfbHR4NExZVUlsT012SXQ4V3Q2aHlCbDZkYnpPWk95UHdIbXQ2X1lFYVRmdmxaejV2WExxVmhZUDE4VkNTZFo3NjNCTG4xbzJHdWVsZnZTVU5adVYxN3VVZUlXcWtVeGRYb2hsTWk3aEs5R3FfNzBrbTdhTFVIS0Jxd0ZjeUNsRXRZMU5lQWtqWC1taTJEWWRIT2UtLTZQdko2OFFJS0tfN3luSlV6RjduWC1UeQ?oc=5",
+      "veiculo": "G1",
+      "data": "2026-11-10T09:47:54+00:00",
+      "categoria": "bemestar"
+    },
+    {
       "titulo": "Meghan Markle cancela discurso em evento no Parlamento Europeu",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXR1bFYyc0p4MC1nckM5aGpvU1FvQUFWd1FsNEJZSEI0Wk5Mc0tuS0hmUFh0Q2NJRVJCZlBrbnc0SG5nLXNLbmlhRWlfWGhEUDg0a2tINF93SXl0MG1hSHdHb2VObllTVW1YUGg0UlRtMHAzUk5GdHQzUUw5WTlsaVpONTAzbmhQdzdNbmlCWTc1N2YxWGd5R2J3bGxmVjdjLWNvX0pVMExvUQ?oc=5",
@@ -1185,38 +1361,6 @@
       "categoria": "mundo"
     },
     {
-      "titulo": "Firpo propõe ajuste por critério de qualidade do gasto que pode liberar 2,8% do PIB para União em dez anos",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOEJiSGYzUW9TSzhNZUt3RVotMVlwU0YxT1IyRVpVd0ljRlV1Y0NFY05zRGw4Y01YWXlBMFZxaFBCclZZaEkwRXgyMmZqVWxCTEh1SjFuWHcxNG5xNVNZR3AzbE90b1pNMG5sczdZb1YzdVg3UmVXb2Q5Tk9XeEtaTW14dEd3SDhVLWxFYjFRVWRvQkVUVFc5QlZFc1lEZ2dXV0ZWa1ZCNWtOWUhfZ3RGa0c0RkFIamo3dUljajM4MldFVDVjQ0w3TllqaF9jRmVKZUZXS2lVT1FCY3RXamJYaFpoZjlTR3RxZzRCa2ZwbjRSUdIBgAJBVV95cUxQYzZ0aDQzSHRkYnczdVZkd0gzcW1fbnAwTXNBOHp2S2tES19WMlpvbnhrZ000LVlSOE9LWUlhQU1ZOW81ajFIMk1zaV9OLXR4X29BNTZrWjlXZmRvQkNlSXNDc1ZYc1FHeVZVRGhTTzdGWFVCYnVGOERUY0dSXzQ4N1pDVkhLcDk3RmRxcUliTmtzQnRmckRkQVBjTUMwd2dnSkk1UHVNcTlFM2pLU254bndwVDVGYzFYS2lsaGFEdnQwUWFrSGFSdkRtQUZyYXoxQmlTamZaZmVlZTc3WTFFcmF3bHdpZW9jT19SV1FHUlNjOVZrZFVHUTlEaGpVc2FN?oc=5",
-      "veiculo": "Valor Econômico",
-      "data": "2026-11-10T08:00:00+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "“Império do CDI” deve se prolongar 2027 adentro, vê Bradesco Asset",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaTY0NXF4Y21zT3Q4bXNteno2MFNIbTRMM3VXQWJYdVVNeXlWemU0OTVGZzVjNzBhQl9mUHFsYTlPLU1kOGRGekJxak1Fb05OQWowZW5ZWnBKd25TbnQxc3ZCYkJTR2xJbnBGRklCTTgwbmRrNXdrbVBVdlE4U0RrTV9OdlBOQmFiWTM5Rzh6WnJsU0V0SEhuN2xwQU96SGtkRDF3SDduMmlLYlXSAbABQVVfeXFMTl9KZzJrSHJQR21GZmdqX0FsNk9Qb0Myb1A2TzluQ2Q3Z3ZoN0lELTJmcF9YWm4xc3h4MUpjRnNRZmhlcDFGVUg1b3F2dXVwQTdYdldDek9CN2VDZGliOGQ3RVA3Ym1Kejk3MmJUUzBkeVZGQVMzMGw4c1Q3R2VTYjhMWENxUlN5b25rbHcwdDNzS19kcVl3ODlwSXBnc2Y1dXFpQ1VUZXFSYVhwc3ZUQms?oc=5",
-      "veiculo": "InfoMoney",
-      "data": "2026-11-10T08:00:00+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "Medidas do governo devem ter impacto fiscal líquido de R$ 190 bi em 2026 e 2027",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaTNhcGpYeTJFejFCZUtVT3lsY0V0TzZSVTNYMkF6Uk9EZ1E0UFozTXRndFlaQ2ZhbUdMZHBKMEZWeDlOelN0a1l1bE9jMk9JNmVQd0d4ejhpcnl4MmdoeE9lSHkyQmh0UHUzVURmRXFhNVZVSHpqUDc0emVza2N4UWtMSXg2ZHhkNGV1bUJFQVdyb1J1cXhjeTZHV3JLdjE2QnROSy00aG80QWpLR0p5c3hsNDN1WHVKZ3NKd1BZVHZYeGF3VWc4eDJVZWROV1HSAd4BQVVfeXFMT2ZDekdWUVVjSGNXQzcwMS1icFpXWUtwWGRRVklGZThYU21qVG5kcFNPV1RSZ2s0WGNZdWpCWEk3dGw1N3hUZVRNRWtISk5uNUJNYW9rY2hsUEt2T1gwUDhRY2RhUzY3TEhlNm9UWHhuV0REa1VENzVER2lfOFFNTHVNT2V0U1FpbGE0S25OTExaLS1JaW9TSTRyRjlFSFdFRnkteExwMWhtYVF5ajdleG1Na200NXZwWFlKRDBya1pBeEZQb05nQWU5cWZaNmdGRnhQR2FsWkhyLTd5OUF3?oc=5",
-      "veiculo": "Valor Econômico",
-      "data": "2026-11-10T08:00:00+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "Nem imprudência nem choque fiscal recessivo",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWFmWG1DazlyWUQ2SFJIUi12VTM0czNfWTNqdUtFNDExZGt4Q0l0Yk5xSENhNTVsQURFVlFMRXk3NFpsVktQM2FTTl95Sm9HYlVnMF9xcFdGUEl1aUkwR0doX0cxYmUxblFwUDdfcmRaSkdoeG13Y0o5bUtydkxZazRBYnVlYW95MzI3aE5iV0PSAZ8BQVVfeXFMTU9pT3k3LXF5VUM4OVp2Sk9scndPWV9XZTQtME9Eb1lScnJFdXh3ZGkzUjh1cGlpMVBxUGZ5QkFpUDNJeWNwUUdCV3RxbWRRaDV2WE96bVBOYXJhUE9Uc2pEdlJBQm9GejF0RjJ5QnVyU2U1TWVMVGlNUmY4VzA5d1YtdmllV1djLVZ6N1NsWWttUE5BaFJGUEpkLXR1MDFR?oc=5",
-      "veiculo": "Valor Econômico",
-      "data": "2026-11-10T08:00:00+00:00",
-      "categoria": "economia"
-    },
-    {
       "titulo": "Alzheimer: como a desigualdade afeta a saúde do cérebro",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUtjdEotSVY5c1JmTnJpQjdoeDY3dWxKalFzbGdMMFlOTUFLa3M3c1VkRFZMcEdyMGJQM01kcWRkdmhGc2U0QzhkM3RIaU1LR3BfVW1wSkxEcjRueEdQSE9JTEZLWWhRcmh5ZmZuWW50dUNxX0loN1J3RkRiYWhVMzZteTFkSGRsM21lOUNuR2h6eWV5UnljaWEwaUhDTnZfRmJEckEtUFAyOUt0Z0czRk1hc0g2a0xLMGMzSGpzejQ3QTlSZGFDV2FUdnl6TFV2U0HSAeABQVVfeXFMUGdYM3VPUng0dk5yMXRWT2RFQXphdGQwODI3VV9wMnVZVHF4b0F6bm8tbzFWRjUtWXh6NFNzcFo4bUtpQlBBVzJMVmY5V0FXWE5DTzBsOHVkU3pKQ3VMV1dTdkFpdS03NDdzQUkxeGpxOFVJWFNaNEttQWhrenFxbU9GN2tLNzcwVnBEUlNvUmVBUTg3ZERKbE1PZU1xbHZmYlNYUkg5czdkbTM2aG5MSHh6alJMRHprSGhQSHBtRUFmMlhuNDBuLU50a1pQa2M0MTBoT25QVkozeXpRaXFvUFg?oc=5",
@@ -1225,25 +1369,9 @@
       "categoria": "bemestar"
     },
     {
-      "titulo": "Avião particular com seis estrangeiros cai no sul das Filipinas",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTlwb1BSMTZvRC1tY0hBdjJhdXlPUExyRnVtQzFkbzJCb2J6Y2FsX3hTandYcFRCbHh6ZW0yS21qaE94NGVxcC1fUGtvN0RBdG5wZkpjaVNWREdYT0RodGZ1b1dpczNzZUlpd0xvUTdBQlZORVdOQ1NETlZoTE4wVTE4S0k1MTVReVJRUi13SHBFNUhLa2c4MHd5TUhpVEJkbXZlUw?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-10T06:10:58+00:00",
-      "categoria": "mundo"
-    },
-    {
       "titulo": "Novembro Azul leva ações de conscientização sobre a saúde do homem em Macaé",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQTkZ4VU5EZ1E3djg4ZUh0VnhvOFQ1NlktSmNjVGNiV3U1czVMRER6MUM1RzFwemJ0cFpZQTA1dC14VVh0RmNJMWh2bTVsUFlOQmxkTWlxZkx2MTlSUWh2bFJMa21NTXRTOEplMzJES0RqTWxBN0hxby1fa2FlYkF4SXRVSTFTRllOV1Z3NEFMZ2pPZWd0dFZPUzFDQ2ZYNHppaDdtOHpfZ210OHhDRmM1SWZLU1VDc205eVBHU2k4czA3bnVpYlVrT0M1WmtzOFF1TFJvaG5HSHNselVKa1lFdm9pcHVBU3JFSHE3NU82aTFKdWxFOTFpOVFkUUVpOVpBcTVTdWNqODU3VFJqQ3lDZnRtUWJkam1GdW9OWndKZnJfRlZmZHNNSXFOUkpTd04tdVhwUFBRaTJsSUo5RGZRMlJhMXVtdTBEWGhiN0Q0Y2rSAd8CQVVfeXFMUGNuWXI2RTNzRURseG1OWTBZc19xcW5CRG42YWhzNnZDN3RvajR1SEl1OUF6c2ROYTlVeVdjMFJ6UFpSS2UyU3V3OXlEdU01VXJGekVXeEFycHIybm5CcXJNOVp6bWlMSzAyeDlQQUpLOUNtNVFlMlZ6cERzUS02a3FOdXRXYmZ2Y2VXcEtaYWppY1I2MHozYkVjeGlpUzFuTzNHLTRRc040eXFmTVlfUjlOTllTZURGY2tlOGI0Vzh6T3FnUXNGNWZ6VjlMQVBKN0VDQnpqVUN6R3BMVFdjZkxDUHA5VlZhZ19oTnkySWU5d0p1MEpKMzBkWDUyelFTVGNkZmJ5WWE1a2Q5Y0dmelJyQkdobVZaRExaQXctc3FFT2Viak9nUFY2NnI5TnFlLXY5YTRuOHpTNEFwZG1jbVVQSFRDdF9yTW5PYURmUmU1M2N0WllFdFphRDFGdFk0?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-10T03:05:00+00:00",
-      "categoria": "bemestar"
-    },
-    {
-      "titulo": "Novembro Azul leva ações de conscientização sobre a saúde do homem em Macaé",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQY25ZcjZFM3NFRGx4bU5ZMFlzX3FxbkJEbjZhaHM2dkM3dG9qNHVISXU5QXpzZE5hOVV5V2MwUnpQWlJLZTJTdXc5eUR1TTVVckZ6RVd4QXJwcjJubkJxck05WnptaUxLMDJ4OVBBSks5Q201UWUyVnpwRHNRLTZrcU51dFdiZnZjZVdwS1phamljUjYwejNiRWN4aWlTMW5PM0ctNFFzTjR5cWZNWV9SOU5OWVNlREZja2U4YjRXOHpPcWdRc0Y1ZnpWOUxBUEo3RUNCempVQ3pHcExUV2NmTENQcDlWVmFnX2hOeTJJZTl3SnUwSkozMGRYNTJ6UVNUY2RmYnlZYTVrZDljR2Z6UnJCR2htVlpETFpBdy1zcUVPZWJqT2dQVjY2cjlOcWUtdjlhNG44elM0QXBkbWNtVVBIVEN0X3JNbk9hRGZSZTUzY3RaWUV0WmFEMUZ0WTTSAd8CQVVfeXFMUGNuWXI2RTNzRURseG1OWTBZc19xcW5CRG42YWhzNnZDN3RvajR1SEl1OUF6c2ROYTlVeVdjMFJ6UFpSS2UyU3V3OXlEdU01VXJGekVXeEFycHIybm5CcXJNOVp6bWlMSzAyeDlQQUpLOUNtNVFlMlZ6cERzUS02a3FOdXRXYmZ2Y2VXcEtaYWppY1I2MHozYkVjeGlpUzFuTzNHLTRRc040eXFmTVlfUjlOTllTZURGY2tlOGI0Vzh6T3FnUXNGNWZ6VjlMQVBKN0VDQnpqVUN6R3BMVFdjZkxDUHA5VlZhZ19oTnkySWU5d0p1MEpKMzBkWDUyelFTVGNkZmJ5WWE1a2Q5Y0dmelJyQkdobVZaRExaQXctc3FFT2Viak9nUFY2NnI5TnFlLXY5YTRuOHpTNEFwZG1jbVVQSFRDdF9yTW5PYURmUmU1M2N0WllFdFphRDFGdFk0?oc=5",
       "veiculo": "G1",
       "data": "2026-11-10T03:05:00+00:00",
       "categoria": "bemestar"
@@ -1265,92 +1393,12 @@
       "categoria": "tecnologia"
     },
     {
-      "titulo": "Lula desembarca na Turquia para participar da COP 31",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDNLYzg5dUJkdDdEN09XVnUyVmtoVmhsbThfZU1telE2VXRXektOX2tybExUR2JwVFFjRXpFNnNqX3ZvWnVmM1oteVVYMzEtem5IcG9fWFlwdUhYRUtDdmE2ZzZoN1ZmWE1wMzBYTF9Fb2Q4OVpkZ2QzZTU3QmIyME9paGI4a2VQU05aYkE0SkI1Q0cxU21hWXlGY2s?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-10T00:57:04+00:00",
-      "categoria": "mundo"
-    },
-    {
-      "titulo": "Rússia rejeita tréguas limitadas na Ucrânia antes de negociações",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaVJKak1kWFpESmZOVGFKd3BrVGlnNmtvWFg3MlB4MjZ2U0tlMWtfTHlxTUhfQld3cndrODJ2ckhTWTZkUk1Pa3B4RDJYenBYYUYwLXNNNEQ3RE5KellkaU1qUFBmaWFWR0Z4cUJJenFZWlFoeVc5OEdCT1dmMGk5cC01akl0elNDcGJoVkRpUlBwNFhKVktQLTFSN1NJWGNhbTFBdDAyeDZQUlgt?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-09T22:43:37+00:00",
-      "categoria": "mundo"
-    },
-    {
-      "titulo": "Bolsa sobe 2,22% e registra maior alta diária desde outubro",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM21uZWNDLUN3WnZSUFdYS3F0OUpGM0tpVFluVFhBUW1OampQRU9Gdzdsc21kSjhSd011NVUxcWdENDlCR05Qd21nTVcyeFF0dFQtRGMwNzc1Sk9QTkQ4WHcyaDNMRnd3S2xkcjBReFFLWkhCZ2dXSmxZaVZZb2RMVTlYc0FTRF9HV0F6LUNsYS1oZkozV2N6Y0FWM0Z0NEo3RGc4NnJ0V0lRUzc4YVhraUNfVVdwZw?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-09T22:38:00+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "Trump diz que sua política de deportação “não mudou” e descarta anistia",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaExvcGhqQkZTVFNRVFZUWkZDa2g5V01TMUNkbndzWV90X3lmeWMwS1hsYzFMT0VLc3A1NXd3TTdleEk4dGQ1ZjQwTVFwRTNBNzg3ZFBYY1RVeDJNQkY4WHhUREdrclZXSGozRzdmUVRUekxFU0pWZzE4YmNvczFHc1hFMVkyajZmejRkR2N6cHVIRVYybmFaMnhnbElKbVE3bkRDZWRmaHRPamZXUTBTSVZkSQ?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-09T22:37:29+00:00",
-      "categoria": "mundo"
-    },
-    {
-      "titulo": "Aneel propõe Tarifa Hora Certa para reduzir valor em função do horário",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVzBEWEFkdXpoREg0N21fUnNzVlFwV1ZkajJBWm4xelo5dW9oblEwblNNYml3Ri1qcGJRbDVoY216N19HQU4wN0Z1a2lVZldxQkdZTzZ0Wmg1bkZkNHB3dnhpNzBjektWY1NMZkFFQTJIS3JDMUZkdktXYzJyUThHN3NybThlNm5kTG5UNWxFblk3S0tBVmdpYXJ0QzFqX3BGc19LTVFwMlpvTHE2VFlxMTFYenVOMFo2aGdJMnM0aFc4elk4MjQ0?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-09T22:23:00+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "Chefe do UFC participa de coletiva na Casa Branca, mas despista sobre cargo",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYllPN2NiWG1wTkh2UkhZY1Y0ZU5OS1NtY1lYVkp5X2tOSVFWcm9uNXU3TEEwZEl4OHVmMTd5VW14RTdwS1kwSWw5U0prZ0pUdklXOGRBbzQ2NjJuaERBNXByV1pxM01HX3IwZk9MNnN2MkJ4c2xYYjd6SWd5aWRZOG1CR3RxYmFBZGs5Z3NnUE9rUzVoQzQxVjhsczVZLWVWd1JuZjlRLVBtX21OenFMTlF5d0VIODM4Qmc?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-09T22:21:59+00:00",
-      "categoria": "mundo"
-    },
-    {
-      "titulo": "Trump diz que EUA veem uma \"forte inclinação\" para fim da guerra na Ucrânia",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXVXX1hNb1VlakdHWFJpQkRKbEpEVlo0eWxFZGhTRVhhd1dMbVdRMXRGaWdBN3FDMWs5Wjl2bkZyTTE0SnN5Z0J3d2pqWjg2eGZMaXlpLXUySjAwNy1sVFNVZVg2ZFQ4NjZlUFRXQVFYbkVTR3JaRzdlRmxfQ3pEV2xFaTd4cUU4a1N3QUFVQlE4Rk9Hd0tXVnJCVGNTWXRJdHR1UGZUWHFHN0t3NjBib2dVYnNKTlYy?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-09T22:16:44+00:00",
-      "categoria": "mundo"
-    },
-    {
-      "titulo": "Trump diz que ação militar no Irã não é necessária por enquanto",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUMzNktUR1BrTjA2YkU4M3pYRjJhcTZzUnVtaVM0OWtGMlREZGFZTENzXzFydkRmMWdnc05lSnY5cVYwR01PN1lNODFUQWVfY1FsMTd0VXpKS2VyYWY2U0luYzR0cF83dnc5bnlJM2NLcGlGRXYyZUJYWEMwYTNXTkJKQ0NxSlZST1c1U29EX1NBTkVoUFdjaUpQV3RvRDJhdTEyTkk4MmdEcms?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-09T22:03:15+00:00",
-      "categoria": "mundo"
-    },
-    {
       "titulo": "Black Friday 2026: as melhores ofertas em celulares, TVs, notebooks e mais",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qQjNXb0FKTzFqVFVpYndnWms5VG9ieEtHYkpBNGJKVkZZMWJnTGNXRTJENHV2MldENWZNaVV0VGlhX3BMTjgtMUdvTXpjZXUxWlNlb3QtVHZ6akRzZmxkcWNLTnhWUHdMNTg0cC00Sm5hQQ?oc=5",
       "veiculo": "Tecnoblog",
       "data": "2026-11-09T21:55:20+00:00",
       "categoria": "tecnologia"
-    },
-    {
-      "titulo": "Prefeitura de Vespasiano suspende aulas em escola após caso de sarna humana",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYXFCc1dXdlplYVNSZXJ4ajc4T0pXaWtQSkxXRUNhLW1MQ0l5bnJVcWs5QzZSSnljaGZVNGtfZXE0MEloa3ZGanFOc3BLR2ctR21tRDlFSXc5RG9LbTRPZEhlcjBLbS0xNVQzS2NtYS1EbjllUDNNRUhkQURMaHVMbGFGMlh5MTRxQXV1dkVqZ1BXSUEzVTRfdmNoWmRXRlN2RlE2N3ROTjlST0NDenhKSFJSOTFlYmMxQWpvQkNuNVljb1NqSzFTWXVJbjNsY1U0R0MyNkdIN0tLbkhTaTltSGpB0gHiAUFVX3lxTE1hcUJzV1d2WmVhU1JlcnhqNzhPSldpa1BKTFdFQ2EtbUxDSXluclVxazlDNlJKeWNoZlU0a19lcTQwSWhrdkZqcU5zcEtHZy1HbW1EOUVJdzlEb0ttNE9kSGVyMEttLTE1VDNLY21hLURuOWVQM01FSGRBRExodUxsYUYyWHkxNHFBdXV2RWpnUFdJQTNVNF92Y2haZFdGU3ZGUTY3dE5OOVJPQ0N6eEpIUlI5MWViYzFBam9CQ241WWNvU2pLMVNZdUluM2xjVTRHQzI2R0g3S0tuSFNpOW1IakE?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-09T21:45:53+00:00",
-      "categoria": "bemestar"
-    },
-    {
-      "titulo": "Unesp oferece serviços gratuitos de prevenção à saúde em Presidente Prudente; saiba como participar",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZkFPT2ZBN2RIdnp2MllTQWFqVkhkUkdES3JQZkhwczg5a1hWYzJuRVN5NmZYeGlFVVA1cnQtY25FQWJQVmhiVHBBQkhLa3BYXzkzMEZPdEFJalhkX3Z6ZWM0ajFxbGEtNEp2alpBcWdTZzJWTUFKdzVrcjdtR0gxMUtoSVp4ckdtMXZod2g5TjdrdmpYUW9WSTdzR0d0NEFGdzl0M2lfTHFJZW1FZTdPS2ZUd0tZenNSZnRKc0NSY1o2VjdjOG92UTFVUUtVV2FCbURDcksxN1czTVR3MGVMdWN1ZVB6NUxqU0JoOW1BMjFPWExoa3UzNjY3UlVQQjMwZXhiTXN6SdIBlgJBVV95cUxPZkhuSWRBQS1CS1Y0dWhsSkhVQmRjRy1IMXNlZkkwUm94UmJFa1BTY200aGFxWW5zdWh5OTVRcHBXaG9DSjJqNXFXT004bGVtbXhxZDloS0R3WGgzaWFVRkU3YTlvcFd3UHdGZHpmWkVEc1dBdWhHNmMwYV9JQjBNOVpBTEIwakRXYy1seHN1MzdMUWVucGJkVnNiN0pzNU52a3hkRWRncUd2cF9MWmZqQWhzTEtpTXRKR0I2a0JQMllkTE5kTlcyX21Jalh0ZVEydEhjSHRXOFZ1ek84OGwwZWFRRWZhVUhXRlN4Z1I3MkZxTGloQjJxRFV5X3VBUWFzOVZnVUNrS3oybUFtX3dPNkl1a2dnZw?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-09T21:03:25+00:00",
-      "categoria": "bemestar"
     },
     {
       "titulo": "Alerta para devs: Claude Code vaza senhas e chaves de API em massa no GitHub",
@@ -1361,15 +1409,7 @@
       "categoria": "tecnologia"
     },
     {
-      "titulo": "Cães e gatos serão castrados gratuitamente no bairro do Pinheiro, em Maceió; veja quando",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdGMwV01fS09DazhVakxDMDdCd0VpMHFWV0JlalpVbDlhbm9NVm5rTzhRbmhIc1pWQWt4SzctVGJDNlNwR2UteHp1dmdwOUJadkUzYUZfa3VYREdJNWd4d0trbnhSQ3RjNXdlc20xMy1xU2l1QzB6YVoxek95aEdidDlLVDVhRFh3TVI2WXhKNmhSMnJMZG1HZVJpUHRfZkE3dDRfekRqcE1oQlpsRjloTEt3SGhJMVlwa1pmSjlqZG15MFA3V0lHRTlfNk5xVjBSbWVkTG0yb3pRVHAzbTczY3pmNlRXNlJhdFHSAeoBQVVfeXFMUHRjMFdNX0tPQ2s4VWpMQzA3QndFaTBxVldCZWpaVWw5YW5vTVZua084UW5oSHNaVkFreEs3LVRiQzZTcEdlLXh6dXZncDlCWnZFM2FGX2t1WERHSTVneHdLa254UkN0YzV3ZXNtMTMtcVNpdUMwemFaMXpPeWhHYnQ5S1Q1YURYd01SNll4SjZoUjJyTGRtR2VSaVB0X2ZBN3Q0X3pEanBNaEJabEY5aExLd0hoSTFZcGtaZko5amRteTBQN1dJR0U5XzZOcVYwUm1lZExtMm96UVRwM203M2N6ZjZUVzZSYXRR?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-09T20:35:34+00:00",
-      "categoria": "bemestar"
-    },
-    {
-      "titulo": "Magalu faz queima de Galaxy S25 Ultra antes da Black Friday",
+      "titulo": "Amazon faz queima de Galaxy S25 Ultra antes da Black Friday",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkozV01OaF9jdkVQSE1ZMTQ1T3VlVWJiZHRmX0pEUlJrS2F5YUs3UWJzUTRaTWQ5TDNsaUFQTk90b3k4NjcyLU8yUFZXV1FwSGwtOUQ2eEc4ZnoyZWtQbUlxZmgtQWd5eEJzcXdEYV9PSFk5R1NBdjRlMmsyWGY4NHJ3RFdCYTdqUi1oLXRpdVc2UFJIb19peHg1Y0U?oc=5",
       "veiculo": "Canaltech",
@@ -1398,46 +1438,6 @@
       "fonte": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnhQdXFuLS11WlBCbEZwSDdHZjhLRThKQXlpSUhTWkZGemJlRGJRZTJ5NlpHdmJBc05GSjRvZU04eTFfWDB4NzJ1VmlmamFBOFNpR0RnblFoM0hIWjg2UzduYU4tMF9NOVluUzc2NVh4WXNEVW9TTGQzbVFJbDVrWnJ4M2dQZ1h5UHhDdHlONDBkMUJlekJqNlNFY0F5Qnc?oc=5",
       "veiculo": "Canaltech",
       "data": "2026-11-09T20:05:00+00:00",
-      "categoria": "tecnologia"
-    },
-    {
-      "titulo": "Tecnologia promete autonomia de 2.000 km em carros elétricos, mas há um porém",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQm56VXVfNEJBOTdCRWpIUldlWGt4Mk00S0VVRDFGWFZnV2Rac2FOb2l2SGNrbm9BOVFYOXZHdUNIcVNSNmNTc3pWUU1naGRPV0ZfS1dOMEd2V19Vdmh6WkhPNHltTkIwd3ZRZTN4VWl5RG5iXzdLSGtLWW1UNjRPeGtTazVTRlhUdmpxZjJRZlhhTzhNXzYwTVpFc0JSYll0dC1MRXZKQ2hQUHpZ?oc=5",
-      "veiculo": "Canaltech",
-      "data": "2026-11-09T18:00:00+00:00",
-      "categoria": "tecnologia"
-    },
-    {
-      "titulo": "Cantor Belutti diz que fraturou três vértebras em acidente com Porsche em Alphaville",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcWc2RHMzeWVwd3pLaGp1VWVnajdpT3RadWxpaUZsNXlDeTl0dXRhUE9RN0hwdTdHZVRqUVlPeENmWm9ZRlpkOGdtS1JBVWNTSEpMdlBDbG1taDVoeEFCd1J3U2xNZ3Y5LWRXWlhBTDMwUGJQMWE3bllIUXV3cGxfeUpxdm5veXlISVpYZ1pQSl9pS3psTlBCcnNxekJPMm45RlR5UVZxaGVFWU9OUVljd2I3LUxJMnBmOVhQVjdTRWJGOHpEWFBSNnE0ZVZIY1lPai1DMTFYc21ONDTSAeoBQVVfeXFMUHFmSjN6S3J3b3AwRncwQWNneTBfSjU4Qno1a19Ram1NRkxRR0FPaWlGbzVqOFFWekVoczBadmhNa0d0aUk4RFcydHJ3bmRpcWJMUEViRXhkX0JSc2xxcTNNMTRRbHJtUW5xNGtBSHRwcDR2d2oyNTUzaFdacFhzUHNkUnNkc1FXOTZGSXBnbTAxd2dFNzZadTdKMjBBTE5PalFSQmlpejhMQWE1TU9HcDByR1h3bnZmdmtYaHN3NHI0ZEhQTVZNcmotdXk3RFpDMVktUnlMLW1ucTVlTFdqQUppYnpQRDNndzlR?oc=5",
-      "veiculo": "G1",
-      "data": "2026-11-09T16:35:05+00:00",
-      "categoria": "bemestar"
-    },
-    {
-      "titulo": "Zelda Ocarina of Time Remake ganha 2 versões nativas para PC com DLSS e uma para PS5",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW53MF9UdlcwenllMGJYWUNTUVlMSHJLa0ZVUmZILUdrVTRuVDJJS2lSUXdhREg2ZVJhUm9KNlBOQkFhQ3dKMjI0T3J5MzM0clpuX3Vuak9Hc1VSOFVUMzZic3pPakNVa09ENHFqNWQ5TFIwSlpRZm5ZWEdESUl2X1d3M1ROZlpnbzhEWUVHWEppYWlKTjVQN0t5UW9XckViZUthd1JWTFZRcXozZVM3QmxiQ0JjYWc?oc=5",
-      "veiculo": "Canaltech",
-      "data": "2026-11-09T14:11:00+00:00",
-      "categoria": "tecnologia"
-    },
-    {
-      "titulo": "Amazon faz queima de smartwatch: mapas offline e resistência a água para natação",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0JHOF9LMzhmWXI4NzhZTThXNFVEaElpSVBINkR2NEN3LUdac2lCR0xPNFV4YnRQWnlKaHpFa25nMUt1Y0xqUGliWTZDYXJPSHE5YkxVR1RQTlJVeVBCYm5FU1gxb0hmMlJlUXQ2WjVmNUY5UGktZWVudjZWZ2JCNVpmMUFmTnZEdGNwUW40ZkxTdm1la05zb3FNMjhENUF2RlVlYmlfZ0w2cEgyQ1FPLTZQV21VRFE?oc=5",
-      "veiculo": "Canaltech",
-      "data": "2026-11-09T14:06:20+00:00",
-      "categoria": "tecnologia"
-    },
-    {
-      "titulo": "Starlink dá antena quase de graça para novos clientes; veja como pagar só R$ 49",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHJITXh3Wk90dWhSRjltNDVHXzB5eW9IV1RGR3cyVUwyX2xianA5MmR4ekgwZzhqcWNhU2Z1Tkk3eDBXMnRqejBVZTdLLVlNYzh4ekRnZEx6a09RZXREWEtCV2lmcE5Ud2p2QWdvODdXYjdaMzFlQVN1amEyejNVLTFBQWxsbTFKV0ZwY2ZmTXB5Qnk0ZUJEYVNTamNsMUg5bnZLN0dLRFdVRDl1akQ4Sw?oc=5",
-      "veiculo": "Canaltech",
-      "data": "2026-11-09T13:04:29+00:00",
       "categoria": "tecnologia"
     }
   ]
