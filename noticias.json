@@ -1,6 +1,86 @@
 {
   "noticias": [
     {
+      "titulo": "Mega-Sena acumula para R$ 75 milhões; confira os números sorteados",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-acumula-para-r-75-milhoes-confira-os-numeros-sorteados",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-25T00:32:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "MPF pede mudanças na gestão de políticas para população de rua em SP",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/mpf-pede-mudancas-na-gestao-de-politicas-para-populacao-de-rua-em-sp",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-24T23:29:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Projeto de regulação das big techs será votado na próxima semana",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-24T23:23:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Plano busca fortalecer protagonismo das mulheres no agronegócio",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/plano-busca-fortalecer-protagonismo-das-mulheres-no-agronegocio",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-24T23:00:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Queda de árvore em escola pública em SP deixa cinco pessoas feridas",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/queda-de-arvore-em-escola-publica-em-sp-deixa-cinco-pessoas-feridas",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-24T22:30:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Dólar cai para R$ 5,91 com expectativa de ajuste fiscal",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-591-com-expectativa-de-ajuste-fiscal",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-24T22:01:00+00:00",
+      "categoria": "economia"
+    },
+    {
+      "titulo": "Flamengo: engenheiros são condenados em 2ª instância por incêndio",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/ninho-do-urubu-engenheiros-sao-condenados-em-2a-instancia-por-incendio",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-24T22:00:00+00:00",
+      "categoria": "esportes"
+    },
+    {
+      "titulo": "Condenado pela morte de Marielle, major Ronald é demitido da PM",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/condenado-pela-morte-de-marielle-major-ronald-e-demitido-da-pm",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-24T21:54:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Mineradora é multada em R$ 16,9 milhões no Pará por poluição de rio",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/mineradora-e-multada-em-r-169-milhoes-no-para-por-poluicao-de-rio",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-24T21:47:00+00:00",
+      "categoria": "brasil"
+    },
+    {
+      "titulo": "Ministério cria protocolo policial com foco em raça e gênero",
+      "resumo": "",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/ministerio-cria-protocolo-policial-com-foco-em-raca-e-genero",
+      "veiculo": "Agência Brasil",
+      "data": "2026-11-24T21:31:00+00:00",
+      "categoria": "brasil"
+    },
+    {
       "titulo": "Theatro Municipal terá projeções de 'O Quebra-Nozes' e Vila de Natal gratuita no Rio",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOWtNaGpsNFRhbDlKZlM1TDhzZlJkTUZuSDZIdXpWUkJDUFlNSFgyWWJlb0RnX19ZbWlCckNjc2w0V3ZmVlRQODZMOUJFNmlOY29Xa2lLYUU2bUZaTjBHSklLbU1EWGFVcDEzYjBXcnZqRzRDWFRJVFg4RVBJYjhYeWxxS1hYdFNFcXNNbV9vMzUwZlRFVVl5Nzh1OHhfdy12XzB3VzVvQlBxREYwSjEtd01yOXBoNWs5UTNlcUx4RkRrV01zNlQ1Qzl5SS1pUkdhWnN0N2pZRHLSAecBQVVfeXFMTVlpTzhWRlE5Y3N6RXV0YzBNYnZ2Mmt1ZVV6cDdpTzZWZkFwR2loaHhJalNGNGVIQ3dRX25SVUVIaXdTNkwxVjdNX0ZwVTB4QU1oOFFUZ0FnVnJRQ3JUM0c3YVQzTjVweUVyM3c2cUxuQURjVUNqSlNfZmYzeDNRWjVvWFVfbS1JN0hzZFlhSjh4NzFodWc2dWE5YkVQVDBYckpVUkJjWFNpb215eXlIZ01YTDZ2RnpERm1oN1dvQ2hlRm1FY1k1MkFYb3hPdlBrWmthdy1pWWtkaW45MG9KN1RFcEl4eWIw?oc=5",
@@ -289,36 +369,12 @@
       "categoria": "brasil"
     },
     {
-      "titulo": "INSS começa a pagar décimo terceiro salário nesta terça-feira (24)",
-      "resumo": "",
-      "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/inss-comeca-pagar-decimo-terceiro-salario-nesta-terca-feira-24",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-24T13:54:00+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "INSS começa a pagar décimo terceiro salário nesta terça-feira (24)",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFBQN0J4OUQzc19tR21IeWxabDZreFhpX2I3amVkOFNDZGtvM3l5ODZmUzBVRDIzWFpTT2toc3VMcGdQUVl0Zlk2WHZjTzg5UDZSeUswRkJOTEdsM0dOcTl5MjFBUGxBaDltOUp4cmUxU181cjQ2azE1bDI3VzRmRlk1ejkwbzBKVHdJeHhLakg5c0RsTEhkQkxhQjRVVHhtWWdOQTFRRVVONWRJbVR2eUV1RFpsUm1oSXFCeQ?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-24T13:54:00+00:00",
-      "categoria": "brasil"
-    },
-    {
       "titulo": "Homem corre com roupas em chamas após colisão entre motos no Pará; VÍDEO",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcjZGZ3BJcXh0eTNpa1hMWlJKbHVrNjhHUUV4YzlfbF9IWDgyQmZZOExJVTVOWEE0TG5MeF9pRmdid0dmZWtuaWgyYVViSDI0SGM1QmhHWXdDWUJtQm90dWg4czhZcTBpczMwVUk3OEdPczltbEo0TEF1ek5mUEJnWXI4elJEeDNSQkpMUm55Uk11bU9RangxVzNIUEdWWlN1Vlg4TElSb3V5U29NVkxnZHVoLTVIckkybnZNRlpzbG9YVFHSAdIBQVVfeXFMTm1vckF4NlpqV2x2cHdOS2ZIdFpTd21KcDNkNWQ0MXZSam1wZTZBWDFBZzJGU3JUYVo3SkhMbGd6SVowdmt5Uk5YQ25XTTJ2b1ZLX1J0dm91UmpIQ1VoWWRmdXMxUTBkb2szNVVWMktJWGphSDRrTkJLNHNPTVNmYVU3TFN0ak50UkkzZE13MllES05mWWhHMFdMUHY4amJ1Tk5hVERTUVVoTkt1RWlNbXIzUzVoRlBvOVQ5ajU0U0pXTlRIY2NFYTFGX3VPb0E2bVNR?oc=5",
       "veiculo": "G1",
       "data": "2026-11-24T13:41:21+00:00",
       "categoria": "bemestar"
-    },
-    {
-      "titulo": "Justiça marca audiência sobre morte de médicos em quiosque no Rio",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbHdaZWl0dUZ1TEwtYUREMlcxb3M3SklVUVVxbTFOWDRCbERTUF9fWUdsZEhlUHZyMk1nU2s4S3o2VVNWU1YybDNTV1BrLU8tdnhlTlRvenJNdkpoTnRLcEItSDhtQ0VfZGlleTBMV09yUHgwNjZJSWZON2NOM1d6dlBrTS1XUDd1d29yczRkYl9yZnZncFc1NFJQQ2oxMmxkQV9BNlpNOXJMOVJtcDJRTUpSTHpMQTk0MkdiRmtreVpEblc1RHc?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-24T13:28:00+00:00",
-      "categoria": "brasil"
     },
     {
       "titulo": "Coreia do Sul emite alerta após aproximação de aviões russos",
@@ -377,28 +433,12 @@
       "categoria": "bemestar"
     },
     {
-      "titulo": "Dólar opera abaixo de R$ 5,90 com expectativa sobre PEC de despesas",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXF3YnhubVRxeHA4RnhlQko2dEd4RGlWeFZhUEFNUHdiY0VmbHQ5SDBrTjZsbUlZd3BXMUVmZkJJSjFyTExBUGs2NTk5WHV6LVdGS2M1ZHBLdGNKeThGcGNpS183aWlWWl9VT0VaN0pGemgxUnpXbkZXQzNRbGpla09Teks1a0NXN1lsOXdNLXBqZ2YzcEMxSmhTQ2pyMGpWREZBaVpR?oc=5",
-      "veiculo": "CNN Brasil",
-      "data": "2026-11-24T12:46:16+00:00",
-      "categoria": "brasil"
-    },
-    {
       "titulo": "Morre o professor e jurista Fábio Konder Comparato, aos 90 anos",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHF4ckJYcTZIUTh5Z0ZSVTBLcmpDM3J3Yl9LRTFldGVkamh0U281ZnQ1TVUzMzBoY2Vsd3pCa3EycXdsdEV0LV8zNUUyYUF4WmZQR1VJSTBTOERlMmpKSnFHa1dJREFEbV9UYmEzM2V1RVhhT2RRY2V3WG9NbGVYanVLZWQ5OGhPa2toOHJzQjNZZF90TDQ40gGcAUFVX3lxTE81a21wNS1vQkpDYnllTE1JRTg0R3E2OEVyenY3cVdwR1gwMGluYkh6WXVNZmVOejNJWHROQ25TNHRDVWxzT1JidDNYQ2lPaWJEQWJjbVlLZ3UzR3N6SjV6T09TMFdEekdoNE5Bem01cjl4Z1VxcXNGVjZtQVpEX2xuQlJFaHdvWUpTdGJSbzU4aTBWdGFEVmhDdUVwZQ?oc=5",
       "veiculo": "Estadão",
       "data": "2026-11-24T12:39:00+00:00",
       "categoria": "politica"
-    },
-    {
-      "titulo": "Fraudes no INSS: Mendonça manda soltar ex-número 2 da Previdência",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRWFuVXF6VFBzRjZ2UGl5V1p0cUhrd2NxSk1Ublg1YzF1TWEwVVcyNk1VMXBFTHZVak82dnRobjMzZS1laXoyeU1wZlNrd1htelpSQTVUNXhkamRCVnZIa1FadDZLX2lyMndYeXhyR1hmcWd2WGZHbEFjYVNCWm5IWVliMnZ5Xzdnb3I1Q1lXWllrTlpCRDhCSHlfc2NZVEpuV3FyVV96Q0w3bkJtSTRXVHdGN21jUGJnblQ1Q2R3?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-24T12:35:00+00:00",
-      "categoria": "brasil"
     },
     {
       "titulo": "Metrô do Rio registra problema pelo 2º dia consecutivo; passageiros precisaram desembarcar de trem",
@@ -409,36 +449,12 @@
       "categoria": "rio"
     },
     {
-      "titulo": "PF investiga esquema de lavagem de dinheiro e fraude com criptoativos",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFEwOWRLUW1BajhGUDNsNXlUQXlmX1hnRGNjNFpvMk92U3pHWlI4cHZOS3R6bzdaM0lDY0ZHM1VGQTJ5Qk5tM0JtRWJaNnhIbkdCLUFieHgyQWdrdmprOV85RW1ZRFZFTW5mOGdlRkx4azR2N09FeTR2dE01WnJlWGFvRk9ZbkFNY2FTTkhzcDFVb2w4c2xrVlFDOWk1YnF5d0tTRmtOUzFFTk9tdjdUM0ZMQ1pydVJaLUp3bDBQZ19GZw?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-24T12:19:00+00:00",
-      "categoria": "brasil"
-    },
-    {
-      "titulo": "Copa do Mundo Feminina: governo prevê legado com salas para denúncias",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNczg3cThaWkxDTXVTaHQ0UFR1YkRsVExNeGRqNlYySm1LVnpHUXVSNnBBOFdPeF9YaUlrQVhnaFZJOVRqTU9NMVl6SFVleGNQT0xyMUhienBJanBVYUtnYk00UndwaDI0SXVyM3NaclFCTC1NN3FCaG95a1pvY3NIanJta1hVemp1a1M3a0V5RmZXS0hrNVJ4YUNUYzIxX25fNlNaUEFVS1E1MWJ1X3BWaU5uQ1FYYWJWYnAyV1VUZmxfRE1x?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-24T12:19:00+00:00",
-      "categoria": "brasil"
-    },
-    {
       "titulo": "BH sanciona lei para prevenir o abandono de idosos em hospitais e instituições de saúde",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOVdXZ25Gb2h3TGE4T19tTVpobTRObWJ5Z0dtb2VsUnlBbVpjaDJsZU5tejBRMXJTOFc4Vk54aEVodUdlMk9FVXJCZGdfSWdZV1FpTVZjazN0bDRKN2NuZENjVUxfbjRuUWt6cjFIYURjSFFiY3l3cjVJQVhyNHJLdjBWS3RRX1doUmgwS0pQdnBGLW1jWTRrZDZlbmtHUlJFYlc3N0tjcG9CT2FTd2VnR1hOR093TjBOSnF6ZDhIWlJ6NUVrZWlqVjE2ZGs3Skg3SHh5MlRZLWZSWHZIdk5sSzE1Y9IB8gFBVV95cUxQdTQ5a292RW00VHFVTUF6Q3JXdFhCMmNPbHh3SWt4OWw4Q2hsMEdvU1BUT0hmZGttcVduTVNmU2pXUWpfelZxNWszeXM1MmdwejlLWHk4Y3k2NWl5bFFId3pwQnUyTlluclJSNzhPY1pvbWhWbHNPVzJwT015OW04OXNIMlFnWnlMNWY1UGhzV2tTR2g1aWhjR0JIQTdwcXZsb3pCWDlBUzVaNE9QNmVlWEJVUTZjajMtd200ckRud3Z1a25wWUNZV2xEYUdSOWJWNURfLUIxbGI2VDJ4ei1GZDZIazU5amdWSE52NFN0NWlQZw?oc=5",
       "veiculo": "G1",
       "data": "2026-11-24T12:02:37+00:00",
       "categoria": "bemestar"
-    },
-    {
-      "titulo": "Nova ferramenta do Open Finance automatizará repasses entre bancos",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzI4dEoybTI1QUNNaDRUenNLOU9velRfLU53VFlOUE1mSHRRcllFTi1rRjVNZ250d0liT09ZaTRpbTV6QzFUR1ZDYXBwb3dNWFZMeDZkUGd5R1hybE5oTnowcWQ1TWdVLTJxU0taNzU4c2FaeGNocmxOZ2lyV0IzQnBiQV8yUEdoQldYd1J2YXR4dmhuUVJ0Q3Zpb1ctUWZUZU9xYWttRHJEWWJxa2NCNHFNdldoaFRYWThfUGJJWkR4UQ?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-24T12:02:00+00:00",
-      "categoria": "brasil"
     },
     {
       "titulo": "Bianca Andrade assume 'ficada' com participante do Dança dos Famosos e web aposta em 'casalzão'",
@@ -817,14 +833,6 @@
       "categoria": "esportes"
     },
     {
-      "titulo": "Dorival cobra reestruturação no São Paulo: \"Um clube dessa grandeza merece algo melhor\"",
-      "resumo": "",
-      "fonte": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQem1rd0tUR21CLWRDNWpoaUc1XzJXMUhrZTdHMlo0NGVaNGVVQ3dhUHpGZHVIQmgzUnYzakY4Nlo2XzNDbjY5N1hLQU40ajk0cFFNTFVDZ2xDY2lCN2FvYk8yU09kU3VSWUZ0QmVMdS03ZjVWRUFvZl9nTG9lQ1cxakx6Z1lsMVpLUHR3QkRBVF85REgxYXBBWGw0bzFoSmE0SnZVNVhad0ZFcEFjSmIya2dRLVpZMDYxQ2N1MEVTLUFIZG45UzVMUi0yUTNFZDJfMWtUNXFjcXNxVHJCYk4tVzZNQndxN3p0MVHSAfgBQVVfeXFMUHRrTlV2aWJfdjc2TUFBQUNuUkEtb0Q1aGlIdUJuSkY5RDVLVDNHaEQ5SHRhZktPU0s2UGowZjk2LXJOWTQ2d0ZDNmQtNW9wc185aXR3Nk51SjJyRWJsZ0RNZHBULTE0QTZIU2VRSUFIU2JLWGpxbkNSUW01QnM2dW92SGJNTWpLVE10a0plM3lhR21SbXVwZWFfWmE1TnJXZEt6NzhNM3RJbGV2TGlXemdRYkE4ZUpJV09VbW5wMVhXRENZYUpmVU5YdEZ3Y3llMVdtNG9FTmhmWnk0VnBVUVpFdXpZRFNXRmxFUzFzV3haTmc3Z0YyWkI?oc=5",
-      "veiculo": "ge",
-      "data": "2026-11-24T02:31:15+00:00",
-      "categoria": "esportes"
-    },
-    {
       "titulo": "Quem foi? Bianca Andrade revela que ficou com integrante da 'Dança dos Famosos'",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVk84RWFYdFRCTTRma2hOaXNoRlM0d0l4c0NjR1ZhSVJIV1RXRmxlNWhVZ2dwZHhnTEdMUFpVT0JFcDZ5RDlEeFdJN0tOUlZLbXh4NUJvRFNFN19hVGgzckplSHVEMTMxX1JEUm9wZW15d05MUnRBNFl6dHpxQkZ6cGFXSVpsRzNfaDhzMlkyYVpWUldpSm4wTnJsY3p1YnZLbnZUcnJraVdsakgxMC0yak5pXzYzbUs4SWFJUFhZOE9DTEloMzdYZW84dUZxTEFOUVIxY2hrVV9OOFptVlN6RTR6V29lWDViQUhLWWNzM2JSUkxZ?oc=5",
@@ -1148,14 +1156,6 @@
       "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
       "resumo": "",
       "fonte": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalVLdEk3NF9YMHQyaEZBSktrZHV1djJxWHBSU0NLU3EzSUFFTWtMalMzdk44VFB5ekZ3ZWIxaHpaWVp5dGpnV1ExcS1rV0dCYTdNTXVOSGJhZ2hrZnpyckk3Z29BMXpZSzZFYkg4Nkhod1pMQ2gwZ1M1YS1iY29MRW9ROUpHMFhHcXFyZ3RQMkVtaEVLU3UtQlVzeXFqMVNsMzJsNTV2NmJ0QmJLeWt3YS1ZODI?oc=5",
-      "veiculo": "Agência Brasil",
-      "data": "2026-11-23T19:48:00+00:00",
-      "categoria": "economia"
-    },
-    {
-      "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
-      "resumo": "",
-      "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
       "veiculo": "Agência Brasil",
       "data": "2026-11-23T19:48:00+00:00",
       "categoria": "economia"
